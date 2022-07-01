@@ -34,8 +34,8 @@ content:
     country: United Kingdom
     country_code: UK
   coordinates:
-    latitude: '47.61'
-    longitude: '-119.43'
+    latitude: '56.34258'
+    longitude: '-2.79129'
   contact_links:
     - icon: twitter
       icon_pack: fab

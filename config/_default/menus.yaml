@@ -3,18 +3,6 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-header: 
-  navbar: 
-  
-  # Display the navigation bar?
-  enable: true
-  
-  # Align menu links: left (l), center (c), or right (r)
-  align: c 
-  
-  # Display your site title or assets/media/logo* image in the nav bar?
-  show_logo: true
-
 main:
   - name: Home
     url: '#about'

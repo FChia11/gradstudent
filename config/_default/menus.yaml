@@ -10,7 +10,7 @@ main:
   - name: CV
     url: uploads/CV.pdf
     weight: 20
-  - name: Twits
+  - name: Tweets
     url: '#twits'
     weight: 30
   - name: Contact

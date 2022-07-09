@@ -23,4 +23,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<a class="twitter-timeline" href="https://twitter.com/FrancescaChia11?ref_src=twsrc%5Etfw">Tweets by FrancescaChia11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="" data-height="600" href="https://twitter.com/FrancescaChia11?ref_src=twsrc%5Etfw">Tweets by FrancescaChia11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

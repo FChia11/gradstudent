@@ -18,8 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: 'FrancescaChia11'
+    
+# Analytics
+
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,7 +32,7 @@ marketing:
 
 # Site header
 
-header:
+main_menu:
   navbar:
     enable: true
     align: l
@@ -45,7 +48,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -65,6 +68,7 @@ features:
     extra_languages:
       - r
       - latex
+      - python
   math:
     enable: true
   privacy_pack:
@@ -76,8 +80,42 @@ features:
   avatar:
     gravatar: false
     shape: circle
+  edit_page: 
+    repo_url: ''
+    content_dir: ''
+    repo_branch: master
+    editable: 
+    page: false
+    post: false
+    book: false
+  show_related: 
+    book: true
+    page: false
+    post: true
+    project: true
+    publication: true
+    event: true
+  reading_time: true
+  section_pager: false
+  doc_section_pager: true
+  sharing: true
+  abstract_length: 150
+  plugins_js: []
+  projects: 
+    post_view: 2 
+    publications_view: 2
+    talk_view: 2
+  breadcrumb: 
+    page_types: 
+    book: true 
   comment:
     provider: ''
+  commentable: 
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true 
     disqus:
       shortname: ''
       show_count: true
@@ -91,10 +129,10 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
-
+    
 # Extensions
 
 extensions:

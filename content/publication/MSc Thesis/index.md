@@ -19,7 +19,7 @@ publication_types:
 publishDate: "2021-08-02T00:00:00Z"
 
 summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of application and registration of new Geographical Indications (GIs). 
-tags: [D82, K11, L15, O34, Q18]
+tags: [Geographical Indications, Signalling, Trademark Protection]
 title: Revisiting the Foundations of EU-Mandated Traceability: A Trademark Signalling Framework
 url_code: ""
 url_dataset: ""

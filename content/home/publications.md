@@ -22,7 +22,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    exclude_featured: true
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
@@ -33,7 +33,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: card
   columns: '2'
 ---
 

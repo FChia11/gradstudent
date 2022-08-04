@@ -21,14 +21,9 @@ publishDate: "2021-08-02T00:00:00Z"
 summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of application and registration of new Geographical Indications (GIs). 
 tags: [Geographical Indications, Signalling, Trademark Protection]
 title: Revisiting the Foundations of EU-Mandated Traceability: A Trademark Signalling Framework
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+
+url_pdf: "C:\Users\franc\OneDrive\Desktop\gradstudent\themes\starter-hugo-academic\static\uploads"
+
 ---
 
 {{% callout note %}}

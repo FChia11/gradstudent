@@ -29,7 +29,7 @@ abstract: Are European Geographical Indications effective in the presence of a w
 # Summary. An optional shortened abstract.
 summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of GI application and registration.
 
-tags: [EU Geographical Indications, Signalling, EUIPO, DG AGRI]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true

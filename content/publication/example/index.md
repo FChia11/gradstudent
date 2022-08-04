@@ -24,14 +24,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['7']
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Are European Geographical Indications effective in the presence of a weak trademark mechanism and uneven application costs? I develop a multi-stage game of incomplete information to understand the impact of these forces on EU food quality standards. Under Decentralised Surveillance and pre-set charges, a social planner cannot reliably attribute trademarks to deserving producers and separate the market. While a Riley Outcome is unattainable, three equilibria survive the notion of sequential rationality. In showing that these outcomes are all suboptimal, I argue that EU regulators can improve the current application process by i) yearly reviewing the testing device and ii) replacing ex-ante with ex-post filing fees. Under its aegis, the WIPO could subsume both reformative proposals.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of GI application and registration.
 
 tags: []
 

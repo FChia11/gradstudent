@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: lavender
-  theme_night: lavender
+  theme_day: BlueViolet
+  theme_night: BlueViolet
   font: minimal
   font_size: L
 

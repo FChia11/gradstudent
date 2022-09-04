@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: University of St Andrews
   url: https://www.st-andrews.ac.uk/
-role: Incoming Economics PhD Student
+role: PhD Student in Economics
 social:
 - icon: orcid
   icon_pack: ai 
@@ -38,7 +38,7 @@ superuser: true
 title: Francesca Chiaradia
 ---
 
-I am an incoming Economics PhD student at the [University of St Andrews](https://www.st-andrews.ac.uk/). I am interested in the study of optimal persuasion and non-Bayesian social learning with an application to food policy. 
+I am a PhD student in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). I am interested in the study of optimal persuasion and non-Bayesian social learning with an application to food policy. 
 
 I was born and raised in Italy and hold a M.Sc. in Economics from the [University of St Andrews](https://www.st-andrews.ac.uk/) and a M.A. (Hons) in Business Management and Economics from the [University of Aberdeen](https://www.abdn.ac.uk/). 
 

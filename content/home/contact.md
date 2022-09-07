@@ -27,15 +27,15 @@ content:
   # Contact details (edit or remove options as required)
   email: fc73@st-andrews.ac.uk
   address:
-    street: Castlecliff, The Scores
+    street: The Old Burgh School, Abbey Walk
     city: St Andrews
     region: Scotland
-    postcode: 'KY16 9AZ'
+    postcode: 'KY16 9LB'
     country: United Kingdom
     country_code: UK
   coordinates:
-    latitude: '56.34258'
-    longitude: '-2.79129'
+    latitude: '	56.3369881'
+    longitude: '-2.7887517'
   contact_links:
     - icon: twitter
       icon_pack: fab

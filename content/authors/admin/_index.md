@@ -42,7 +42,7 @@ I am a PhD student in Economics at the [University of St Andrews](https://www.st
 
 I was born and raised in Italy and hold a M.Sc. in Economics from the [University of St Andrews](https://www.st-andrews.ac.uk/) and a M.A. (Hons) in Business Management and Economics from the [University of Aberdeen](https://www.abdn.ac.uk/). 
 
-Prior to joining [AsiaEdit](https://asiaedit.com/) as an academic editor, I worked as a market analyst and economic researcher. In my spare capacity, I am eager to support [Rotaract](https://www.rotaract.org.uk/) and [UNV](https://www.unv.org/) initiatives. 
+Prior to starting the PhD, I worked as a market analyst and economic researcher. In my spare capacity, I am eager to support [Rotaract](https://www.rotaract.org.uk/) and [UNV](https://www.unv.org/) initiatives. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 

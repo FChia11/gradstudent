@@ -38,7 +38,7 @@ superuser: true
 title: Francesca Chiaradia
 ---
 
-I am a PhD student in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). I am interested in the study of optimal persuasion and non-Bayesian social learning with an application to food policy. 
+I am a ESRC-funded PhD student in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). My research is cross-institutionally supervised by Prof Andy Zapechelnyuk [The University of Edinburgh](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk), Prof David A. Jaeger [University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/persons/david-a-jaeger(edd24b23-7d88-4ef8-834e-46ea4d47c6a7).html), and Dr Min Zhang [University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/persons/min-zhang(1e199ba1-7016-4e8e-83fb-43cc92d7caec).html). I am interested in the study of optimal persuasion and non-Bayesian social learning with an application to food policy. 
 
 I was born and raised in Italy and hold a M.Sc. in Economics from the [University of St Andrews](https://www.st-andrews.ac.uk/) and a M.A. (Hons) in Business Management and Economics from the [University of Aberdeen](https://www.abdn.ac.uk/). 
 

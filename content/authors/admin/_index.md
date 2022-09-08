@@ -2,6 +2,9 @@
 bio: My research interests include information economics, network analysis, health economics.
 education:
   courses:
+  - course: Ph.D. in Economics
+    institution: University of St Andrews
+    year: 2025 (Expected)
   - course: MSc in Economics
     institution: University of St Andrews
     year: 2021

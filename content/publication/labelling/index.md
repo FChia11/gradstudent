@@ -19,7 +19,7 @@ publishDate: '20-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-abstract: I study the impact of the UK voluntary front-of-pack nutritional labelling (FOPNL) system on e-grocery consumer ratings and reviews. Using data from Tesco\’s online platform, I proceed in two steps: first, I transform reviews into real-valued vectors to cluster similar products into thematic classes. I exploit this representation to assess whether higher ratings and reviews positively correlate to healthier food bundles (i.e. lowest scoring in terms of percentage reference intakes). From this analysis, I (expect to) find a negative pattern. To improve the quality of pre-purchase information disclosure, I then train an e-consumer-reviewer (*agent*) to control the rating level. I provide evidence that the trained agent can converge to an optimal review level according to the FOPNL system. I discuss how reviewers can improve consumer welfare and provide ratings compatible with nutritional labelling. Finally, I raise limitations and ethical concerns related to this research.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:  Can online reviews and ratings help predict nutritional quality? Do e-grocery product reviews convey messages compatible with the FOPL system? If not, how can governments regulate this space more effectively?
@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://www.francescachiaradia.com/publication/labelling/labelling.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 

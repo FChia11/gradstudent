@@ -45,14 +45,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.png` to your page's folder.
 image:
-  caption: 'Image credit: [**Food Standards Agency**](https://https://www.food.gov.uk/safety-hygiene/check-the-label#:~:text=The%20traffic%20light%20label%20is%20colour%20coded%20and%20shows%20that,often%20or%20eat%20smaller%20amounts.)'
+  caption: 'Image credit: [**British Nutrition Foundation**](https://www.nutrition.org.uk/putting-it-into-practice/food-labelling/looking-at-labels/)'
   focal_point: ''
   preview_only: false
   
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-`slides: "labelling"`
----
 ---

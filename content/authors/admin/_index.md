@@ -1,5 +1,5 @@
 ---
-bio: My research interests include information economics, industrial organization, health economics.
+bio: My research interests include information economics, industrial organization, law and economics.
 education:
   courses:
   - course: Ph.D. in Economics
@@ -16,7 +16,7 @@ highlight_name: true
 interests:
 - Information Economics
 - Industrial Organization
-- Health Economics
+- Law and Economics
 organizations:
 - name: University of St Andrews
   url: https://www.st-andrews.ac.uk/

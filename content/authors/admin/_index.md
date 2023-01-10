@@ -1,5 +1,5 @@
 ---
-bio: My research interests include information economics, network analysis, health economics.
+bio: My research interests include information economics, industrial organization, health economics.
 education:
   courses:
   - course: Ph.D. in Economics
@@ -15,7 +15,7 @@ email: "fc73@st-andrews.ac.uk"
 highlight_name: true
 interests:
 - Information Economics
-- Network Analysis
+- Industrial Organization
 - Health Economics
 organizations:
 - name: University of St Andrews

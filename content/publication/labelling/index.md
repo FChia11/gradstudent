@@ -23,7 +23,7 @@ abstract:
 
 # Summary. An optional shortened abstract.
 summary:  Can online reviews and ratings help predict nutritional quality? Do e-grocery product reviews convey messages compatible with the FOPL system? If not, how can governments regulate this space more effectively?
-tags: [#Labelling]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true

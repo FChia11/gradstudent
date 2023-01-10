@@ -1,5 +1,5 @@
 ---
-title: 'Voluntary Front-of-Pack Labelling and Customer Reviews.'
+title: 'Voluntary Front-of-Pack Labelling and Customer Reviews'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +23,7 @@ abstract:
 
 # Summary. An optional shortened abstract.
 summary:  Can online reviews and ratings help predict nutritional quality? Do e-grocery product reviews convey messages compatible with the FOPL system? If not, how can governments regulate this space more effectively?
-tags: []
+tags: [#Labelling]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,4 +48,11 @@ image:
   caption: 'Image credit: [**Food Standards Agency**](https://https://www.food.gov.uk/safety-hygiene/check-the-label#:~:text=The%20traffic%20light%20label%20is%20colour%20coded%20and%20shows%20that,often%20or%20eat%20smaller%20amounts.)'
   focal_point: ''
   preview_only: false
+  
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+`slides: "labelling"`
+---
 ---

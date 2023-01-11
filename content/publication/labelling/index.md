@@ -44,7 +44,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'resources/_gen/files/labelling.pdf'
+url_slides: 'static/files/labelling.pdf'
 url_source: ''
 url_video: ''
 

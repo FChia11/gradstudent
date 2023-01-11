@@ -18,11 +18,18 @@ publishDate: '20-01-01T00:00:00Z'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
+
+#Publication name and optional abbreviated publication name. 
+publication: Conference slides
+publication_short: Conference slides
+
+#Summary for listing and research engines. 
 abstract: 
+
+tags: []
 
 # Summary. An optional shortened abstract.
 summary:  Can online reviews and ratings help predict nutritional quality? Do e-grocery product reviews convey messages compatible with the FOPL system? If not, how can governments regulate this space more effectively?
-tags: []
 
 # Display this page in the Featured widget?
 featured: true

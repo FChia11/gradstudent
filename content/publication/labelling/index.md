@@ -23,8 +23,7 @@ publication_types: ['1']
 publication: Conference slides
 publication_short: Conference slides
 
-#Summary for listing and research engines. 
-abstract:  I study the impact of the UK voluntary front-of-pack nutritional labelling (FOPNL) system on e-grocery consumer ratings and reviews. Using data from Tesco’s online platform, I first transform reviews into real-valued vectors to cluster similar products into thematic classes. I exploit this representation to assess whether higher ratings and reviews positively correlate to healthier food bundles (i.e. lowest scoring in terms of percentage reference intakes [\%RIs]). To improve the quality of pre-purchase information disclosure, I then train an e-consumer-reviewer (*agent*) to control the rating level. I provide evidence that the trained agent can converge to an optimal review level according to the FOPL system. I discuss how reviewers can improve consumer welfare and provide ratings compatible with nutritional labelling. Finally, I raise limitations and ethical concerns related to this research.
+abstract: I study the impact of the UK voluntary front-of-pack nutritional labelling system on e-grocery consumer ratings and reviews. Using data from Tesco’s online platform, I first transform reviews into real-valued vectors to cluster similar products into thematic classes. I exploit this representation to assess whether higher ratings and reviews positively correlate to healthier food bundles (i.e. lowest scoring in terms of percentage reference intakes [\%RIs]). To improve the quality of pre-purchase information disclosure, I then train an *agent* to control the rating level. I provide evidence that the trained agent can converge to an optimal review level according to the FOPL system. I discuss how reviewers can improve consumer welfare and provide ratings compatible with nutritional labelling.
 
 tags: []
 

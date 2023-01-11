@@ -44,7 +44,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'themes/starter-hugo-academic/static/files/labelling.pdf'
+url_slides: 'content/slides/labelling'
 url_source: ''
 url_video: ''
 

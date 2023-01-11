@@ -1,5 +1,5 @@
 ---
-title: 'Revisiting the Foundations of EU-Mandated Traceability: A Trademark Signalling Framework.'
+title: 'Revisiting the Foundations of EU-Mandated Traceability: A Trademark Signalling Framework'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

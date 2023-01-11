@@ -41,7 +41,6 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-- name: Slides
 url_slides: 'uploads/labelling.pdf'
 url_source: ''
 url_video: ''

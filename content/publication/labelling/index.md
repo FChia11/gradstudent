@@ -23,8 +23,6 @@ publication_types: ['1']
 publication: Conference slides
 publication_short: Conference slides
 
-abstract: 
-
 # Summary. An optional shortened abstract.
 summary:  Can online reviews and ratings help predict nutritional quality? Do e-grocery product reviews convey messages compatible with the FOPNL system? If not, how can governments regulate this space more effectively?
 

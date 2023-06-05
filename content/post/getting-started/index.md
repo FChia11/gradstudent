@@ -12,11 +12,12 @@ image:
   preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "An Economic Perspective on Calorie Posting in the UK."
-summary: ""
+subtitle: "An economic perspective on calorie posting in the UK."
+summary: "The economic rationale behind the legislation mandating calorie labelling in out-of-home food businesses in the UK is to address information asymmetry and promote consumer welfare by providing easy access to nutritional information. It aims to empower consumers to make informed choices and tackle health issues such as obesity."
 tags:
-- Academic
-- 开源
+- Labelling
+- Menu Labelling Requirements 
+- UK
 title: "Do Calories Count?"
 ---
 

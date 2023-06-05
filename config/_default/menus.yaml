@@ -14,7 +14,7 @@ main:
     url: '#publications'
     weight: 30
   - name: Lab Review
-  - url: '#post'
+  - url: '#posts'
   - weight: 40
   - name: Tweets
     url: '#twits'

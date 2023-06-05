@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: The Lab Review
+title: Posts
 view: 2
 ---

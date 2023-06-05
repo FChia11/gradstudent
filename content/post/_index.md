@@ -1,8 +1,8 @@
 ---
-cms_exclude: true
+cms_exclude: false
 header:
   caption: ""
   image: ""
-title: Posts
+title: The Lab Review
 view: 2
 ---

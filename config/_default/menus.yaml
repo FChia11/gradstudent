@@ -13,12 +13,15 @@ main:
   - name: Research
     url: '#publications'
     weight: 30
+  - name: Lab Review
+  - url: '#post'
+  - weight: 40
   - name: Tweets
     url: '#twits'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

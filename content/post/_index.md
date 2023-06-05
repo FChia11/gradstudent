@@ -1,5 +1,5 @@
 ---
-cms_exclude: false
+cms_exclude: true
 header:
   caption: ""
   image: ""

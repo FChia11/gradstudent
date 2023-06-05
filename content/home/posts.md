@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Lab Review
+title: The Lab Review
 subtitle: Labelling, Policy, Information 
 
 content:

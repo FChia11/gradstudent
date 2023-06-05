@@ -13,7 +13,7 @@ main:
   - name: Research
     url: '#publications'
     weight: 30
-  - name: Lab Review
+  - name: The Lab Review
     url: '#posts'
     weight: 40
   - name: Tweets

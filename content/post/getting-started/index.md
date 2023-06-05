@@ -10,7 +10,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2023-06-05T00:00:00Z"
 projects: []
 subtitle: "An economic perspective on calorie posting in the UK."
 summary: "The economic rationale behind the legislation mandating calorie labelling in out-of-home food businesses in the UK is to address information asymmetry and promote consumer welfare by providing easy access to nutritional information. It aims to empower consumers to make informed choices and tackle health issues such as obesity."
@@ -20,8 +20,6 @@ tags:
 - UK
 title: "Do Calories Count?"
 ---
-
-## Overview
 
 The implementation of calorie labelling regulations in England represents an important milestone in the government's efforts to address the growing burden of diet-related ill health. With a significant portion of adults' calorie intake coming from food consumed outside the home, this policy has the potential to impact consumer behavior and encourage reformulation in the food industry. While the effects may be limited, studies have shown that calorie labelling on menus can lead to a reduction in calories purchased.
 

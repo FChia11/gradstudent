@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 title: Lab Review
-subtitle:
+subtitle: 
 
 content:
   # Filter on criteria

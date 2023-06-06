@@ -6,7 +6,7 @@ categories:
 date: "2023-06-06T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**European Commission**](https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en#:~:text=The%20EU%20geographical%20indications%20system,linked%20to%20the%20production%20territory)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/it/foto/z0bACVUDTJM)'
   focal_point: ""
   placement: 2
   preview_only: false

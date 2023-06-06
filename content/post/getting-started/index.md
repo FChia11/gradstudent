@@ -21,8 +21,6 @@ tags:
 title: "EU Geograhical Indications Explained"
 ---
 
-EU Quality Schemes: Safeguarding Product Authenticity, Promoting Regional Identity, and Stimulating Socioeconomic Development
-
 EU Geographical Indications (GIs) aim to protect the names of specific products and promote their unique characteristics linked to geographical origin and traditional know-how. These quality schemes play a crucial role in enhancing consumer trust, supporting producers in marketing their products, and ensuring the preservation of regional identity. By granting legal protection to product names and establishing clear standards, they contribute to the economic, cultural, and environmental sustainability of various regions within the European Union.
 
 Geographical Indications constitute a fundamental aspect of the European agricultural policy. They confer intellectual property rights upon products whose qualities and reputation are intricately linked to their geographical origin. The EU distinguishes three types of GIs within its schemes: Protected Designation of Origin (PDO), Protected Geographical Indication (PGI), and Geographical Indication (GI) for spirit drinks.

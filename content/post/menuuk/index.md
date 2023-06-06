@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2023-06-05T00:00:00Z"
 projects: []
-subtitle: "An economic perspective on mandatory calorie posting in the UK."
+subtitle: "An Economic Perspective on Mandatory Calorie Posting in the UK."
 summary: "The economic rationale behind the legislation mandating calorie labelling in out-of-home food businesses in the UK is to address information asymmetry and promote consumer welfare by providing easy access to nutritional information. It aims to empower consumers to make informed choices and tackle health issues such as obesity."
 tags:
 - Labelling

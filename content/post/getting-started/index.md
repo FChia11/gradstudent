@@ -41,8 +41,8 @@ In sum, European GIs enhance product quality by providing clear and reliable inf
 
 For more information, please refer to the following webpages: 
 
-- European Commission \rightarrow (https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en#:~:text=The%20EU%20geographical%20indications%20system,linked%20to%20the%20production%20territory) 
+- European Commission &rarr; https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en#:~:text=The%20EU%20geographical%20indications%20system,linked%20to%20the%20production%20territory;  
 
-- eAmbrosia \rightarrow (https://ec.europa.eu/info/food-farming-fisheries/food-safety-and-quality/certification/quality-labels/geographical-indications-register/)
+- eAmbrosia &rarr; https://ec.europa.eu/info/food-farming-fisheries/food-safety-and-quality/certification/quality-labels/geographical-indications-register/; 
 
-- OriGIn \rightarrow (https://www.origin-gi.com/web_articles/key-concepts-in-the-field-of-geographical-indications-gis-en-gb-4/) 
+- OriGIn &rarr; https://www.origin-gi.com/web_articles/key-concepts-in-the-field-of-geographical-indications-gis-en-gb-4/. 

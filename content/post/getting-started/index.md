@@ -38,3 +38,11 @@ Further, GIs contribute to the promotion of regional identity and cultural herit
 EU quality schemes also have a significant impact on the economic development of regions. By highlighting the unique qualities and traditional production methods associated with a specific region, these schemes create a market niche for local producers. This should, in principle, lead to increased consumer demand and improved marketability, benefiting both producers and the regional economy as a whole. Furthermore, the reputation and prestige associated with geographical indications attract tourists and promote agri-tourism, contributing to the overall economic growth and sustainability of the region.
 
 In sum, European GIs enhance product quality by providing clear and reliable information about the origin and unique characteristics of wine, spirit drinks, and foodstuffs. By bearing PDO, PGI, or GI labels, products communicate their authenticity and regional connections, enabling consumers to make more informed choices. These schemes aim to increase transparency and the uptake of more sustainable consumption patterns. 
+
+For more information, please refer to the following webpages: 
+
+- European Commission \rightarrow (https://agriculture.ec.europa.eu/farming/geographical-indications-and-quality-schemes/geographical-indications-and-quality-schemes-explained_en#:~:text=The%20EU%20geographical%20indications%20system,linked%20to%20the%20production%20territory) 
+
+- eAmbrosia \rightarrow (https://ec.europa.eu/info/food-farming-fisheries/food-safety-and-quality/certification/quality-labels/geographical-indications-register/)
+
+- OriGIn \rightarrow (https://www.origin-gi.com/web_articles/key-concepts-in-the-field-of-geographical-indications-gis-en-gb-4/) 

@@ -16,9 +16,6 @@ main:
   - name: The Lab Review
     url: '#posts'
     weight: 40
-  - name: Tweets
-    url: '#twits'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

@@ -5,7 +5,7 @@ name = "francesca"
 light = true
 
 # Primary
-primary = "#47DBEF"
+primary = "#FFF"
 
 # Menu
 menu_primary = "#E9B5F5"

@@ -1,22 +1,23 @@
 # Theme metadata
-name = "My custom theme"
+name = "custom_theme"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary
+  primary = "#2BBf7F" #"#2963FF"
 
-# Primary
-primary = "#284f7a"
+  # Menu
+  menu_primary = "#FFFFFF"  #"#002D72"
+  menu_text = "#2BBf7F"  #"#EFEFEF"
+  menu_text_active =  "#459370" #"#8B575C"
+  menu_title = "#2BBf7F"
 
-# Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#284f7a"
-menu_title = "#2b2b2b"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFFF" #"#fffff5"
 
 [dark]
+  # Primary
+  primary = "#bbdefb"
+
   link = "#bbdefb"
   link_hover = "#bbdefb"

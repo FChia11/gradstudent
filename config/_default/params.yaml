@@ -3,12 +3,9 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Theme 
-
-theme: francesca
-
 # Appearance
-
+  theme_day: francesca
+  theme_night: francesca
   font: Cyberpunk
   font_size: M
 

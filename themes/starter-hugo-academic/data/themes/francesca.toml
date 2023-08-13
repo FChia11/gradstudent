@@ -1,0 +1,23 @@
+# Theme metadata
+name = "francesca"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#47DBEF"
+
+# Menu
+menu_primary = "#E9B5F5"
+menu_text = "#FCA311"
+menu_text_active = "#0EAD69"
+menu_title = "#118AB2"
+
+# Backgrounds
+background = "#E9B5F5"
+home_section_odd = "#E9B5F5"
+home_section_even = "#E9B5F5"
+
+# font
+link = "#D90429"
+link_hover = "#118AB2"

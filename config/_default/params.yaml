@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-  theme_day: strawberry
-  theme_night: strawberry
+
+  theme_day: 'strawberry'
+  theme_night: 'strawberry'
   font: Cyberpunk
   font_size: M
 

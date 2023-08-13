@@ -5,8 +5,9 @@
 
 # Appearance
   
-  theme: francesca
-  day_night: true 
+  theme_day: francesca
+  theme_night: francesca
+  day_night: true
   font: Cyberpunk
   font_size: M
 

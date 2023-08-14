@@ -8,8 +8,8 @@ name = "my_theme"
   # Menu
   menu_primary = "#264A33"
   menu_text = "#fff"
-  menu_text_active = "#bf874b"
-  menu_title = "#bf874b"
+  menu_text_active = "##3CEB15"
+  menu_title = "#3CEB15"
 
   # Home sections
   home_section_odd = "fff"

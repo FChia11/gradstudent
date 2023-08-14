@@ -5,8 +5,8 @@
 
 # Appearance
   
-  theme_day: francesca
-  theme_night: francesca
+  theme_day: strawberry
+  theme_night: strawberry
   day_night: true
   font: Cyberpunk
   font_size: M

@@ -20,12 +20,12 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#c015eb"
+  primary = "#ffeb00"
 #  text = "#8342a8"
 #  link_decoration = "underline"
   
   menu_primary = "#0E182E"
-  menu_text_active = "#c015eb"
+  menu_text_active = "#ffeb00"
   
   background = "#1C2945"
   
@@ -33,5 +33,5 @@ name = "my_theme"
   home_section_odd = "#1C2945"
   home_section_even = "#0E182E"
 
-  link = "#c015eb"
+  link = "#ffeb00"
   link_hover = "#377DE8"

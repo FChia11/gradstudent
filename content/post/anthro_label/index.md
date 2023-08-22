@@ -3,14 +3,14 @@ authors:
 - admin
 categories:
 - Labelling
-date: "2023-06-05T00:00:00Z"
+date: "2023-08-05T00:00:00Z"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/JG35CpZLfVs)'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2023-06-05T00:00:00Z"
+lastmod: "2023-08-05T00:00:00Z"
 projects: []
 subtitle: "Perceptions and Choices: How Anthropomorphic Labels Shape Individual Decision-Making"
 summary: "This post delves into the realm of anthropomorphic food labels, which employ human-like characteristics to depict food size and shape. By triggering self-image concerns and seeking social validation, these labels can significantly affect how consumers make food choices. In what follows, I emphasise their marketing implications and the importance of understanding diverse consumer responses."

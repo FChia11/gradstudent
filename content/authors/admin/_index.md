@@ -1,5 +1,5 @@
 ---
-bio: My research interests include information economics, industrial organization, health economics.
+bio: My research interests include information economics, law and economics, economics of innovation.
 education:
   courses:
   - course: Ph.D. in Economics

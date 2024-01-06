@@ -47,5 +47,5 @@ I was born and raised in Italy and hold a M.Sc. in Economics from the [Universit
 
 Prior to starting the PhD, I worked as a market analyst and economic researcher. In my spare capacity, I am eager to support [Rotaract](https://www.rotaract.org.uk/) and [UNV](https://www.unv.org/) initiatives. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Nov.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_January.pdf" "newtab" >}}CV{{< /staticref >}}.
 

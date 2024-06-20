@@ -21,7 +21,7 @@ tags:
 title: "Princess of Belgium Stephani; Countess of Lonyay Elemer, CH42474A"
 ---
 
-On February 1, 1909, the Princess of Belgium Stephani and the Countess of Lonyay Elemer, both living in Schloß Oroszvâr, Hungary, were awarded a patent for developing an innovative food warmer that would extends down to prevent fuel spills and protect the surface from excess heat.
+On February 1, 1909, the Princess of Belgium Stephani and the Countess of Lonyay Elemer, both living in Schloß Oroszvâr, Hungary, were awarded a patent for developing an innovative food warmer that would prevent fuel spills and protect the surface from excess heat.
 
 Date of Application: 13 February 1908 
 

@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 title: Patent Pills
-subtitle: Women Inventors 1850-1950 
+subtitle: Women Inventors | 1850-1950 
 
 content:
   # Filter on criteria

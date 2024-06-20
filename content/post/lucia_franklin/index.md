@@ -15,7 +15,7 @@ projects: []
 subtitle: "Fastener."
 summary: ""
 tags:
-- Other Consumer Goods
+- Other Fields
 - United States 
 - US 
 title: "Lucia J. Franklin, US858275A"

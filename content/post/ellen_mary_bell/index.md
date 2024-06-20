@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Siebert, A. (1893)**](https://worldwide.espacenet.com/patent/search?q=pn%3DGB189311534A)'
+  caption: 'Image credit: [**Bell, E.M. (1894)**](https://worldwide.espacenet.com/patent/search/family/032124054/publication/GB189411304A?q=pn%3DGB189411304A)'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improvements in Sewing Machines."
+subtitle: "A New or Improved Apparatus for Teaching."
 summary: ""
 tags:
-- Mechanical Engineering
-- Germany 
+- Other Fields
+- Great Britain 
 - GB 
-title: "Anna Siebert, GB189311534A"
+title: "Ellen Mary Bell, GB189411304A"
 ---
-On February 17, 1894, Anna Siebert, a noblewoman living in Darmstadt, Germany, was awarded a patent for improvements to the chain stitch used in a lockstitch sewing machine, which she had been previously registered in 1891.  
+On November 10, 1894, Ellen Mary Bell, working at Modena College in Peckham, London, was awarded a patent for a novel tablet with spigots suitable for teaching.
 
-Date of Application: 12 June 1893 
+Date of Application: 11 June 1894
 
-Date of Issuance: 17 February 1894
+Date of Issuance: 10 November 1894
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032118496/publication/GB189311534A?q=pn%3DGB189311534A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032124054/publication/GB189411304A?q=pn%3DGB189411304A)

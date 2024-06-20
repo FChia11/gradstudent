@@ -8,7 +8,7 @@ featured: true
 image:
   caption: 'Image credit: [**Toupin, A. (1912)**](https://worldwide.espacenet.com/patent/search/family/045266463/publication/CA146749A?q=pn%3DCA146749A)'
   focal_point: ""
-  placement: 2
+  placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []

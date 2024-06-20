@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Bell, E.M. (1894)**](https://worldwide.espacenet.com/patent/search/family/003060979/publication/US992645A?q=in%3Dalexandra)'
+  caption: 'Image credit: [**Graefin von Dyhrn, A. (1907)**](https://worldwide.espacenet.com/patent/search/family/003060979/publication/US992645A?q=pn%3DUS992645A)'
   focal_point: ""
   placement: 2
   preview_only: false

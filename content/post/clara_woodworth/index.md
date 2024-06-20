@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Great Britain 
 - GB 
-title: "Clara E. Woodworth, GB189615036A"
+title: "Ellen M. Bell, GB189411304A"
 ---
 On November 10, 1894, Ellen Mary Bell, working at Modena College in Peckham, London, was awarded a patent for a novel tablet with spigots suitable for teaching.
 

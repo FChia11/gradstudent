@@ -20,7 +20,7 @@ tags:
 - GB 
 title: "Anna Siebert, GB189311534A"
 ---
-On February 17, 1894, Anna Siebert, a noblewoman living in Darmstadt, Germany, was awarded a patent for improvements to the chain stitch used in a lockstitch sewing machine, which had been previously registered in 1891.  
+On February 17, 1894, Anna Siebert, a noblewoman living in Darmstadt, Germany, was awarded a patent for improvements to the chain stitch used in a lockstitch sewing machine, which she had been previously registered in 1891.  
 
 Date of Application: 12 June 1893 
 

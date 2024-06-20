@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Franklin, L.J. (1906)**]()'
+  caption: 'Image credit: [**Franklin, L.J. (1906)**](https://worldwide.espacenet.com/patent/search/family/002926729/publication/US858275A?q=pn%3DUS858275A)'
   focal_point: ""
   placement: 2
   preview_only: false

@@ -8,7 +8,7 @@ featured: true
 image:
   caption: 'Image credit: [**Phillips, F.S. (1910)**](https://worldwide.espacenet.com/patent/search/family/032513281/publication/GB191018380A?q=pn%3DGB191018380A)'
   focal_point: ""
-  placement: 2
+  placement: 3
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []

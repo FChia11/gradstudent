@@ -13,7 +13,7 @@ main:
   - name: Research
     url: '#publications'
     weight: 30
-  - name: The Lab Review
+  - name: Patent Pills
     url: '#posts'
     weight: 40
   - name: Contact

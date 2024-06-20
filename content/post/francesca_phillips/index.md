@@ -18,7 +18,7 @@ tags:
 - Other Consumer Goods
 - Australia
 - AU, CA, UK 
-title: "Francesca Sarah Phillips, AU1643309B"
+title: "Francesca S. Phillips, AU1643309B"
 ---
 On August 23, 1910, Francesca Sarah Phillips, resident of Glenworth Valley, north-east of Sidney, was awarded a patent for developing a portable book stand, designed to be fastened to a block. She sought protection in over three jurisdictions, including Australia, Canada, and the United Kingdom.    
 

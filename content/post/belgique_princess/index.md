@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**PRINCESSE DE BELGIQUE STEPHANI; COMTESSE DE LONYAY ELEMER (1908)**](https://worldwide.espacenet.com/patent/search/family/004272532/publication/CH42474A?q=pn%3DCH42474A)'
+  caption: 'Image credit: [**Princesse de Belgique Stefani; Comtesse de Lonyay Elemer (1908)**](https://worldwide.espacenet.com/patent/search/family/004272532/publication/CH42474A?q=pn%3DCH42474A)'
   focal_point: ""
   placement: 2
   preview_only: false

@@ -15,7 +15,7 @@ projects: []
 subtitle: "Fastener."
 summary: ""
 tags:
-- Mechanical Engineering
+- Other Fields
 - Canada
 - CA 
 title: "Antonia Toupin, CA146749A"

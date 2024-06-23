@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Exercising Apparatus for Children."
+subtitle: "Exercising Apparatus for Children, US821391A."
 summary: ""
 tags:
 - Other Fields
@@ -20,7 +20,7 @@ tags:
 - US
 title: "Sara E. Wiltse, "
 ---
-On November 20, 1905, Sara E. Wiltse, living in Boston, was awarded a patent for developing a novel apparatus consisting of stairs to enable small children to exercise.
+On May 22, 1906, Sara E. Wiltse, living in Boston, was awarded a patent for developing a novel apparatus consisting of stairs to enable small children to exercise.
 
 Date of Application: 20 November 1905
 

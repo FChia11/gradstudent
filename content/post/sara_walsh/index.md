@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Canada 
 - GB
-title: "Sara E. Walsh, "
+title: "Sara E. Walsh, GB189501871A"
 ---
 On January 18, 1896, Sara E. Walsh, of Halifax, Canada, was awarded a patent for designing a novel bed, especially designed for soldiers and travellers.
 

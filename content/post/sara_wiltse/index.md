@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - United States 
 - US
-title: "Sara E. Wiltse, "
+title: "Sara E. Wiltse, US821391A"
 ---
 On May 22, 1906, Sara E. Wiltse, living in Boston, was awarded a patent for developing a novel apparatus consisting of stairs to enable small children to exercise.
 

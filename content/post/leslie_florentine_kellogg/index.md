@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - United States 
 - US
-title: "Leslie F. Kellogg, "
+title: "Leslie F. Kellogg, US667018A"
 ---
 On January 29, 1901, Florentine L. Kellogg, resident of Santa Barbara, was awarded a patent for developing a novel dial for weighting scales.
 

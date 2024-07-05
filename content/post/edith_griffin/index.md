@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Griffin, E.L. (1)**]()'
+  caption: 'Image credit: [**Griffin, E.L. (1895)**]()'
   focal_point: ""
   placement: 2
   preview_only: false

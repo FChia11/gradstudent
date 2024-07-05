@@ -23,9 +23,9 @@ title: "Antonia F. Brant, GB191422874A"
 
 On November 21, 1914, Antonia F. Brant, a housewife from Alameda, California, filed a patent application for an innovative bucket design. Her invention featured a receptacle with integrated compartments specifically designed to hold sponges and other cleaning supplies, making household cleaning more efficient and organised.
 
-Date of Application: 21 November 1914 
+Date of Application: NA 
 
-Date of Issuance: NA
+Date of Issuance: 21 November 1914
 
 For more information, please refer to the following webpage: 
 

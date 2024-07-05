@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Wiltse, S.E. (1905)**](https://worldwide.espacenet.com/patent/search/family/002735574/publication/US667018A?q=pn%3DUS667018A)'
+  caption: 'Image credit: [**Kellogg, L.F. (1905)**](https://worldwide.espacenet.com/patent/search/family/002735574/publication/US667018A?q=pn%3DUS667018A)'
   focal_point: ""
   placement: 2
   preview_only: false

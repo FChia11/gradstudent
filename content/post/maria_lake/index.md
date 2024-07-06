@@ -20,7 +20,7 @@ tags:
 - GB 
 title: "Maria Lake, GB189320405A"
 ---
-On September 29, 1894, Maria Lake, a resident of Kensington, London, was awarded a patent for a novel device for mounting photographs and prevent spoilage.
+On September 29, 1894, Maria Lake, a resident of Kensington, London, was granted a patent for an innovative device designed to mount photographs and prevent their deterioration.
 
 Date of Application: 28 October 1893
 

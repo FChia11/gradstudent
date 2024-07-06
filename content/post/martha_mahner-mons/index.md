@@ -6,26 +6,27 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Boehmer, J. (1896)**](https://worldwide.espacenet.com/patent/search/family/032412690/publication/GB189625832A?q=pn%3DGB189625832A&queryLang=en%3Ade%3Afr)'
+  caption: 'Image credit: [**Mahner-Mons, M. (1896)**](https://worldwide.espacenet.com/patent/search/family/032530834/publication/GB189603854A?q=pn%3D%20GB189603854A)'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improvement in or Connected with Cooking Pans."
+subtitle: "Improved Dress Band or Belt."
 summary: ""
 tags:
 - Other Fields
 - Germany 
 - GB 
-title: "Julie Boehmer, GB189625832A"
+title: "Martha Mahner-Mons, GB189603854A"
 ---
-On December 24, 1896, Julie Boehmer, a resident of Warburg, Germany, was awarded a patent for major improvements to existing cooking pans. The invention involved the addition of an apparatus that would ensure the food was properly cooked.   
 
-Date of Application: 17 November 1894 
+On March 21, 1896, Martha Mahner-Mons received a patent for her groundbreaking invention: a belt designed to stay securely in place by attaching directly to a dress or trousers.
 
-Date of Issuance: 24 December 1896
+Date of Application: 20 February 1896 
+
+Date of Issuance: 21 March 1896
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032412690/publication/GB189625832A?q=pn%3DGB189625832A&queryLang=en%3Ade%3Afr)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032530834/publication/GB189603854A?q=pn%3D%20GB189603854A)

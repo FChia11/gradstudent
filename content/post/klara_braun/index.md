@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- US
+- DK
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
@@ -17,8 +17,8 @@ DK51192C."
 summary: ""
 tags:
 - Other Fields
-- United States
-- US
+- Denmark
+- DK
 title: "Klara E.F. Braun, DK51192C"
 ---
 

@@ -29,6 +29,11 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    
+# Cookie consent
+
+  cookie-consent: true 
+  search: true 
 
 # Site header
 

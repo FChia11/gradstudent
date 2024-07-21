@@ -2,30 +2,31 @@
 authors:
 - admin
 categories:
-- GB
-date: "2024-06-20T00:00:00Z"
+- AT
+date: "2024-07-04T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Krause, L. (1909)**](https://worldwide.espacenet.com/patent/search/family/032554496/publication/GB190910748A?q=pn%3DGB190910748A)'
+  caption: 'Image credit: [**Leser, F. (1906)**](https://worldwide.espacenet.com/patent/search/family/003548530/publication/AT33084B?q=pn%3DAT33084B)'
   focal_point: ""
-  placement: 2
+  placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Hatpins, GB190910748A."
+subtitle: "Einrichtung zur Austrocknung feuchter Mauern."
 summary: ""
 tags:
-- Other Fields
+- Mechanical Engineering
 - Germany
-- GB
-title: "Lucia Krause, GB190910748A"
+- AT
+title: "Franziska Leser, AT33084B"
 ---
-On December 16, 1909, Lucia Krause of Magdeburg, Germany, was awarded a patent for developing novel pins to firmly secure hats.
 
-Date of Application: 6 May 1909
+On May 25, 1908, Franziska Leser, a German inventor from Munich, was granted a patent for developing an innovative device to dry out damp walls. Her invention featured a system of air inlets and wires to ensure constant and extensive air circulation.
 
-Date of Issuance: 16 December 1909
+Date of Application: 31 July 1906 
+
+Date of Issuance: 25 May 1908
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032554496/publication/GB190910748A?q=pn%3DGB190910748A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032682976/publication/GB191422874A?q=pn%3DGB191422874A)

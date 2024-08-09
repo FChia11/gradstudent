@@ -2,30 +2,30 @@
 authors:
 - admin
 categories:
-- GB
+- US
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**De Grave, E.L. (1894)**]()'
+  caption: 'Image credit: [**Bryant, B.G. (1937)**](https://worldwide.espacenet.com/patent/search/family/022538892/publication/US2104361A?q=pn%3DUS2104361A)'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Edith L. De Grave, GB189422420A."
+subtitle: "Beatrice G. Bryant, US2104361A."
 summary: ""
 tags:
 - Other Fields
-- Great Britain 
-- GB
-title: "Edith L. De Grave, GB189422420A"
+- United States  
+- US
+title: "Beatrice G. Bryant, US2104361A"
 ---
-On March 9, 1895, Edith L. De Grave, a resident of London, was awarded a patent for developing a novel copybook designed to prevent inadvertent errors by concealing the line above.
+On April 1, 1938, Beatrice G. Bryant, a resident of Oklahoma City, was awarded a patent for developing a novel vanity case designed to prevent loose powder from sifting out while still making it accessible to the puff.
 
-Date of Application: 20 November 1894
+Date of Application: 1 July 1937
 
-Date of Issuance: 9 March 1895
+Date of Issuance: 1 April 1938
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032126585/publication/GB189422420A?q=pn%3DGB189422420A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022538892/publication/US2104361A?q=pn%3DUS2104361A)

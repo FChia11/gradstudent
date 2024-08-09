@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Edith L. De Grave, GB189422420A"
 ---
-On March 9, 1895, Edith L. De Grave, a resident of London, was awarded a patent for developing a novel copybook designed to prevent inadvertent copying by concealing the line above.
+On March 9, 1895, Edith L. De Grave, a resident of London, was awarded a patent for developing a novel copybook designed to prevent inadvertent errors by concealing the line above.
 
 Date of Application: 20 November 1894
 

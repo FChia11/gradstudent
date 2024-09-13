@@ -40,9 +40,6 @@ social:
 superuser: true
 title: Francesca Chiaradia
 
-# Status emoji
-status:
-  icon: ☕️
 ---
 
 I am an ESRC-funded PhD student in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). My research is cross-institutionally supervised by [Prof Andy Zapechelnyuk](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk) (The University of Edinburgh), [Prof David A. Jaeger](https://risweb.st-andrews.ac.uk/portal/en/persons/david-a-jaeger(edd24b23-7d88-4ef8-834e-46ea4d47c6a7).html) (University of St Andrews), and [Dr Min Zhang](https://risweb.st-andrews.ac.uk/portal/en/persons/min-zhang(1e199ba1-7016-4e8e-83fb-43cc92d7caec).html) (University of St Andrews). I am specialising in the study of information design, with a keen interest in applying it to intellectual property. 

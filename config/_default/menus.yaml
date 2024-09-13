@@ -10,8 +10,8 @@ main:
   - name: CV
     url: uploads/CV.pdf
     weight: 20
-  - name: Pre-PhD
-    url: '#pre-phd'
+  - name: Research
+    url: '#publication'
     weight: 30
   - name: Patent Pills
     url: '#posts'

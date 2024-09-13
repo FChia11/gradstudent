@@ -13,12 +13,9 @@ main:
   - name: Pre-PhD
     url: publication/
     weight: 30
-  - name: Teaching 
-    url: teaching/
-    weight: 40
   - name: Patent Pills
     url: '#posts'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60

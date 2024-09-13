@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 30
 
-title: Research
+title: Pre_PhD
 subtitle: ''
 
 content:

@@ -58,7 +58,7 @@
   {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media-container">
+  <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media">
     {{- $image := ($page.Parent.Resources.ByType "image").GetMatch $page.Params.hero_media -}}
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $page.Params.hero_media) -}}
@@ -88,9 +88,6 @@
 
         <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $page.Title }}">
       {{ end }}
-          <!-- Emoji placed here -->
-          <div class="emoji-icon">🐀</div>
-        </div>
     {{ end }}
   </div>
 </div>

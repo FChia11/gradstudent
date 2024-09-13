@@ -12,6 +12,16 @@
   {{ if .Params.private }}
     <meta name="robots" content="noindex" />
   {{- end -}}
+  
+  <!-- Existing stylesheets (e.g., Wowchemy CSS, Google Fonts) -->
+
+  {{ $stylesheets := slice -}}
+  {{ $stylesheets = $stylesheets | append (resources.Get "css/custom.css") -}}
+  {{ $stylesheets = $stylesheets | resources.Concat "css/custom-bundle.css" | minify }}
+  {{- if hugo.IsProduction -}}
+    {{- $stylesheets = $stylesheets | fingerprint "md5" -}}
+  {{- end -}}
+  <link rel="stylesheet" href="{{ $stylesheets.RelPermalink }}" media="print" onload="this.media='all'">
 
   {{/* Parse theme and font */}}
   {{ partial "functions/parse_theme" . }}

@@ -13,7 +13,7 @@ abstract: I study a dynamic information design problem à la Albano and Lizzeri 
 image:
   caption: A Simple Framework with PyGame
   focal_point: Smart
-  filename: "uploads\.gif"
+  filename: "uploads/featured.gif"
 
 links:
 - icon: twitter

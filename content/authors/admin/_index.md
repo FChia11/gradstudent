@@ -29,7 +29,7 @@ social:
   icon_pack: fas
   link: /#contact
 - icon: twitter
-  icon-pack: fab
+  icon-pack: fas
   link: https://twitter.com/FrancescaChia11
 - icon: github
   icon_pack: fab

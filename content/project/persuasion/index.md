@@ -1,7 +1,7 @@
 ---
 title: Persuasion and Norm Persistence
 summary: 
-date: ''
+date: 
 tags:
 - Information Design
 - Optimal Certification

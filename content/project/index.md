@@ -1,12 +1,22 @@
 ---
 title: Projects
-cms_exclude: true
+type: landing
 
-# View.
-view: citation
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    id: project
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 1
 ---

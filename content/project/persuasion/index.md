@@ -27,7 +27,7 @@ links:
 - icon: video  # Optional: Add an icon for the video if desired
   icon_pack: fas
   name: Idea
-  url_video: "uploads/featured.mp4"
+  url_video: "https://github.com/FChia11/rl/blob/main/featured.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

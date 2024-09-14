@@ -18,10 +18,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   name: Follow
-  url:
+  url: "https://x.com/francescachia11"
   url_code: ""
   url_pdf: ""
   url_slides: ""

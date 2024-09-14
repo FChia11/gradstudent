@@ -13,10 +13,11 @@ abstract: I study a dynamic information design problem à la Albano and Lizzeri 
 image:
   caption: A Simple Framework with PyGame
   focal_point: Smart
+  filename: "uploads\.gif"
 
 links:
-- icon: x-twitter
-  icon_pack: fas
+- icon: twitter
+  icon_pack: fab
   name: Follow
   url: "https://x.com/francescachia11"
   url_code: ""

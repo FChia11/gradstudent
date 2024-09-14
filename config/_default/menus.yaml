@@ -10,15 +10,12 @@ main:
   - name: CV
     url: uploads/CV.pdf
     weight: 20
-  - name: Projects
-    url: project/
-    weight: 30
   - name: Pre-PhD
     url: publication/
-    weight: 40
+    weight: 30
   - name: Patent Pills
     url: '#posts'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60

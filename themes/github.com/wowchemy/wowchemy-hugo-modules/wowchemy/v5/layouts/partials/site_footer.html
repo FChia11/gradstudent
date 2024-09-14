@@ -51,16 +51,6 @@
     {{ end }}
   </p>
   
-  <!-- Cookie Consent by Osano -->
-  <script type="text/javascript">
-  window.cookieconsent_options = {
-    message: "This website uses cookies to ensure you get the best experience.",
-    dismiss: "Got it!",
-    learnMore: "More info",
-    link: "/privacy-policy",
-    theme: "light-bottom"
-  };
-  </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  {{ partial "consent.html" . }}
   
 </footer>

@@ -1,23 +1,23 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-active: false
+active: true
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
-title: Pre-PhD
+title: Projects
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - project
     tag: ''
     category: ''
     publication_type: ''

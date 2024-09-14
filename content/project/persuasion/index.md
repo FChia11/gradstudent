@@ -4,9 +4,6 @@ summary:
 date: 
 tags:
 - Information Design
-- Optimal Certification
-- Evolutionary Games
-- Social Norms
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +16,7 @@ image:
 
 links:
 - icon: x-twitter
-  icon_pack: fab
+  icon_pack: fas
   name: Follow
   url: "https://x.com/francescachia11"
   url_code: ""

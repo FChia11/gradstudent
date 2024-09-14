@@ -24,9 +24,6 @@ links:
   url_code: ""
   url_pdf: ""
   url_slides: ""
-- icon: video  # Optional: Add an icon for the video if desired
-  icon_pack: fas
-  name: Idea
   url_video: "https://github.com/FChia11/rl/blob/main/featured.mp4"
 
 # Slides (optional).

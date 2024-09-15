@@ -9,15 +9,7 @@ tags:
 external_link: ""
   
 links:
-  - url_pdf: ''
-  - url_code: ''
-  - url_dataset: ''
   - url_poster: 'uploads/RES_Poster_2024__CEPR_.pdf'
-  - url_project: ''
-  - url_slides: ''
-  - url_source: ''
-  - url_video: ''
-  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

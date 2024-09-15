@@ -1,7 +1,7 @@
 ---
 title: Persuasion and Norm Persistence
 summary: How does quality certification affect norm evolution? Under which conditions does it increase consumer welfare? 
-date: ""
+date: "2024-08-01"
 tags:
 - Game Theory
 

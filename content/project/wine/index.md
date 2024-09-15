@@ -1,5 +1,5 @@
 ---
-title: Evolution in the Wine Industry: \\ A Patent Mining Approach
+title: Evolution in the Wine Industry: A Patent Mining Approach
 summary: A narrative exploration into wine patents. 
 date: '2024-07-01'
 tags:

@@ -5,12 +5,6 @@ date: '2024-08-01'
 tags:
 - Information Design
 
-link: 
-- icon: person-chalkboard
-  icon-pack: far 
-  name: Poster
-  url_slides: "uploads/RES_Poster__2024_CEPR.pdf"
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

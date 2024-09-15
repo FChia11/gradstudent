@@ -1,21 +1,23 @@
 ---
 title: Persuasion and Norm Persistence
 summary: How does quality certification affect norm evolution? Under which conditions does it increase consumer welfare? 
-date: "2024-08-01"
+date: ''
 tags:
 - Information Design
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
-image:
-  caption: A Simple Framework with PyGame
-  focal_point: Smart
   
 links:
-- url_code: ""
-  url_pdf: ""
-  url_slides: ""
+  - url_pdf: ''
+  - url_code: ''
+  - url_dataset: ''
+  - url_poster: 'uploads/RES_Poster_2024__CEPR_.pdf'
+  - url_project: ''
+  - url_slides: ''
+  - url_source: ''
+  - url_video: ''
+  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

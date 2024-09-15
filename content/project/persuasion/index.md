@@ -3,7 +3,7 @@ title: Persuasion and Norm Persistence
 summary: 
 date: 
 tags:
-- Information Design
+- Game Theory
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

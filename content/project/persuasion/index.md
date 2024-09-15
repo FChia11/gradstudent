@@ -3,7 +3,7 @@ title: Persuasion and Norm Persistence
 summary: How does quality certification affect norm evolution? Under which conditions does it increase consumer welfare? 
 date: "2024-08-01"
 tags:
-- Game Theory
+- Information Design
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,6 @@ links:
 - url_code: ""
   url_pdf: ""
   url_slides: ""
-  url_video: "https://github.com/FChia11/rl/blob/main/featured.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

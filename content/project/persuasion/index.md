@@ -5,6 +5,8 @@ date: '2024-08-01'
 tags:
 - Information Design
 
+slides = "uploads/RES_Poster__2024_CEPR.pdf"
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: "All"
     tag: "*"
-  - name: "Game Theory"
-    tag: "Game Theory"
+  - name: "Information Design"
+    tag: "Information Design"
   - name: "Patents"
     tag: "Patents"
 

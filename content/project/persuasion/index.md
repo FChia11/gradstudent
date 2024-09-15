@@ -13,11 +13,7 @@ image:
   focal_point: Smart
   
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: "https://x.com/francescachia11"
-  url_code: ""
+- url_code: ""
   url_pdf: ""
   url_slides: ""
   url_video: "https://github.com/FChia11/rl/blob/main/featured.mp4"

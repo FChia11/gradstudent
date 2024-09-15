@@ -44,6 +44,6 @@ content:
 
 design:
   columns: '2'
-  spacing: {padding: [0.2, 0.2, 0.2, 0.2]}
+  spacing: {padding: [0, 0, 0, 0]}
 ---
 

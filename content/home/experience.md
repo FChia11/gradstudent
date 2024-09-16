@@ -34,10 +34,6 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "University of Edinburgh"
-  company = "School of Economics"
-  company_url = ""
-  location = "Edinburgh"
   date_start = "2023-09-01"
   date_end = "2024-07-31"
   description = """

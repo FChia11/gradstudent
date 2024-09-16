@@ -1,0 +1,48 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $pubs_len := len (where $.Site.RegularPages "Type" "research") }}
+
+<!-- Research widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ if gt $pubs_len $page.Params.count }}
+    <p class="view-all">
+      <a href="{{ ($.Site.GetPage "section" "research").Permalink }}">
+        {{ i18n "more_research" | markdownify }}
+        <i class="fa fa-angle-double-right"></i>
+      </a>
+    </p>
+    {{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ if and ($page.Params.research_type) (ne $page.Params.research_type "-1") }}
+      {{ $.Scratch.Set "recent_research" (where (where (where $.Site.RegularPages "Type" "research") ".Params.selected" true) ".Params.research_types" "intersect" (slice $page.Params.research_type)) }}
+      <!-- {{ $.Scratch.Set "recent_research" (where (where $.Site.RegularPages "Type" "research") ".Params.research_types" "intersect" (slice $page.Params.research_type)) }} -->
+    {{ else }}
+    <!-- {{ $.Scratch.Set "recent_research" (where $.Site.RegularPages "Type" "research") }} -->
+     {{ $.Scratch.Set "recent_research" (where (where $.Site.RegularPages "Type" "research") ".Params.selected" true) }}
+    {{ end }}
+
+    {{ if $page.Params.exclude_selected }}
+      {{ $.Scratch.Set "recent_research" ( ($.Scratch.Get "recent_research") | intersect (where (where $.Site.RegularPages "Type" "research") ".Params.selected" "!=" true) ) }}
+    {{ end }}
+
+    {{ $recent_research := $.Scratch.Get "recent_research" }}
+    {{ range first $page.Params.count $recent_research }}
+      {{ if eq $page.Params.list_format 1 }}
+        {{ partial "research_li_detailed" . }}
+      {{ else if eq $page.Params.list_format 2 }}
+        {{ partial "research_li_apa" . }}
+      {{ else if eq $page.Params.list_format 3 }}
+        {{ partial "research_li_mla" . }}
+      {{ else }}
+        {{ partial "research_li_simple" . }}
+      {{ end }}
+    {{ end }}
+
+  </div>
+</div>

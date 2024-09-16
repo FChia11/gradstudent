@@ -6,21 +6,18 @@
   {{ $btn_class = printf "%s btn-xs" $btn_class }}
 {{ end }}
 
-<!-- Button Generator Function -->
-{{- $generateBtn := func (url label aria_label) -}}
-  <a class="{{ $btn_class }}" href="{{ url | absURL }}" target="_blank" rel="noopener" aria-label="{{ aria_label }}">
-    {{ label }}
-  </a>
-{{- end }}
-
 <!-- Preprint Button -->
 {{ with $.Params.url_preprint }}
-  {{ $generateBtn . (i18n "btn_preprint") "Preprint Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Preprint Link">
+    {{ i18n "btn_preprint" }}
+  </a>
 {{ end }}
 
 <!-- PDF Button -->
 {{ with $.Params.url_pdf }}
-  {{ $generateBtn . (i18n "btn_pdf") "PDF Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="PDF Link">
+    {{ i18n "btn_pdf" }}
+  </a>
 {{ end }}
 
 <!-- Citation Button -->
@@ -35,51 +32,68 @@
 
 <!-- Code Button -->
 {{ with $.Params.url_code }}
-  {{ $generateBtn . (i18n "btn_code") "Code Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Code Link">
+    {{ i18n "btn_code" }}
+  </a>
 {{ end }}
 
 <!-- Dataset Button -->
 {{ with $.Params.url_dataset }}
-  {{ $generateBtn . (i18n "btn_dataset") "Dataset Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Dataset Link">
+    {{ i18n "btn_dataset" }}
+  </a>
 {{ end }}
 
 <!-- Projects Button -->
 {{ if $.Params.projects }}
   {{ range $.Params.projects }}
     {{ with ($.Site.GetPage "page" "project" .) }}
-      {{ $generateBtn .Permalink (i18n "btn_project") "Project Link" }}
+      <a class="{{ $btn_class }}" href="{{ .Permalink }}" aria-label="Project Link">
+        {{ i18n "btn_project" }}
+      </a>
     {{ else }}
       {{ errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $.File.Path . }}
     {{ end }}
   {{ end }}
 {{ else }}
   {{ with $.Params.url_project }}
-    {{ $generateBtn . (i18n "btn_project") "Project Link" }}
+    <a class="{{ $btn_class }}" href="{{ . | absLangURL }}" target="_blank" rel="noopener" aria-label="Project Link">
+      {{ i18n "btn_project" }}
+    </a>
   {{ end }}
 {{ end }}
 
 <!-- Poster Button -->
 {{ with $.Params.url_poster }}
-  {{ $generateBtn . (i18n "btn_poster") "Poster Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Poster Link">
+    {{ i18n "btn_poster" }}
+  </a>
 {{ end }}
 
 <!-- Slides Button -->
 {{ with $.Params.url_slides }}
-  {{ $generateBtn . (i18n "btn_slides") "Slides Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Slides Link">
+    {{ i18n "btn_slides" }}
+  </a>
 {{ end }}
 
 <!-- Video Button -->
 {{ with $.Params.url_video }}
-  {{ $generateBtn . (i18n "btn_video") "Video Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Video Link">
+    {{ i18n "btn_video" }}
+  </a>
 {{ end }}
 
 <!-- Source Button -->
 {{ with $.Params.url_source }}
-  {{ $generateBtn . (i18n "btn_source") "Source Link" }}
+  <a class="{{ $btn_class }}" href="{{ . | absURL }}" target="_blank" rel="noopener" aria-label="Source Link">
+    {{ i18n "btn_source" }}
+  </a>
 {{ end }}
 
 <!-- Custom URL Buttons -->
 {{ range $.Params.url_custom }}
-  {{ $generateBtn .url .name .name }}
+  <a class="{{ $btn_class }}" href="{{ .url | absURL }}" target="_blank" rel="noopener" aria-label="{{ .name }}">
+    {{ .name }}
+  </a>
 {{ end }}
-

@@ -9,7 +9,7 @@ title = "Ongoing Work"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 30
 
 # Number of publications to list.
 count = 5

@@ -8,7 +8,7 @@ widget: pages
 headless: false
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
 title: Research
 subtitle: ''
@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - research
     tag: ''
     category: ''
     publication_type: ''

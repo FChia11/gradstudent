@@ -8,7 +8,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: ⚙️ Patent Pills ⚙️ 
 subtitle: Women Inventors | 1850-1950 

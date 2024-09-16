@@ -56,14 +56,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Author's Analysis**]()'
-  focal_point: ''
-  preview_only: false
+image = "featured.gif"
+caption = "Author's Analysis."
+preview_only = false
 
 +++

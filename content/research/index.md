@@ -1,5 +1,5 @@
 +++
-title = "Ongoing Work"
+title = "Featured Work"
 date = 2024-01-01T00:00:00
 math = true
 highlight = false

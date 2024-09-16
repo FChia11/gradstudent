@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   TA for Dr Sean Brocklebank
   
   * [**Economics I (ECNM08013)**](http://www.drps.ed.ac.uk/23-24/dpt/cxecnm08013.htm)
-  * Average teaching evaluation of 4.5 on a 5 point scale
+    * Average teaching evaluation of 4.5 on a 5 point scale
   
   """
   
@@ -44,9 +44,9 @@ date_format = "Jan 2006"
 
   """
   
-design:
-  # Choose a view for the listings:
-  view: compact
-  columns: '1'
-  spacing: {padding: [0, 0, 0, 0]}
+# Design 
+[design]
+columns = 2
+background = {}
+spacing = { padding = [0, 0, 0, 0] }
 +++

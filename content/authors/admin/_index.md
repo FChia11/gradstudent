@@ -14,9 +14,10 @@ education:
 email: "fc73@st-andrews.ac.uk"
 highlight_name: true
 interests:
-- Law and Economics
-- Economics of Innovation
-- Information Economics
+- Law and Economics <em class="fas fa-scale-balanced"></em>
+- Economics of Innovation <em class="fas fa-lightbulb"></em>
+- Information Economics <em class="fas fa-tag"></em>
+
 organizations:
 - name: University of St Andrews
   url: https://www.st-andrews.ac.uk/

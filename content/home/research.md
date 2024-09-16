@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 
 # Design 
-design = { 
+design: { 
   columns = '2'
   flip_alt_rows = false
   background = {}

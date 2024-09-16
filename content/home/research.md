@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "research"
 active = true
-date = 2024-04-20T00:00:00
+date = "2024-04-20T00:00:00"
 
 title = "Ongoing Work"
 subtitle = ""
@@ -36,10 +36,13 @@ publication_type = "-1"
 exclude_selected = false
 
 # Design 
-design: { 
-  columns = '2'
-  flip_alt_rows = false
-  background = {}
-  spacing = { padding = [0, 0, 0, 0] }
-}
+[design]
+columns = "2"
+flip_alt_rows = false
+
+# Background and spacing
+[design.background]
+# Add background settings if any
+[design.spacing]
+padding = [0, 0, 0, 0]
 +++

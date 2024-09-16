@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 60
 
-title: Pre-PhD
+title: Research
 subtitle: ''
 
 content:
@@ -31,10 +31,15 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
 design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
-  spacing: { padding = [0, 0, 0, 0] }
-
+  spacing:
+    padding: 
+      - 0
+      - 0
+      - 0
+      - 0
 ---

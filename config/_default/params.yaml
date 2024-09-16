@@ -84,7 +84,7 @@ features:
     branch: master
   avatar:
     gravatar: false
-    shape: circle
+    shape: square
   edit_page: 
     repo_url: ''
     content_dir: ''

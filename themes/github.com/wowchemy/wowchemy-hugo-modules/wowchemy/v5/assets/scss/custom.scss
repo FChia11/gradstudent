@@ -1,46 +1,50 @@
-// Override this file to add your own SCSS styling.
 #about {
-  
+
   @keyframes slide-from-right {
-  0% {transform: translateX(150%)}
-  100% { transform: translateX(0%); }
-}
+    0% { transform: translateX(150%); }
+    100% { transform: translateX(0%); }
+  }
 
-@keyframes slide-from-left {
-  0% {transform: translateX(-150%)}
-  100% { transform: translateX(0%); }
-}
+  @keyframes slide-from-left {
+    0% { transform: translateX(-150%); }
+    100% { transform: translateX(0%); }
+  }
 
-@keyframes fade-in {
-  0% {opacity: 0}
-  100% {opacity: 1}
-}
+  @keyframes fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
 
-@mixin fade-in($delay) {
-  opacity: 0;
-  animation: fade-in 1s forwards;
-  animation-delay: $delay;
-}
+  @mixin fade-in($delay) {
+    opacity: 0;
+    animation: fade-in 1s forwards;
+    animation-delay: $delay;
+  }
 
-.biography-title {
-  animation: slide-from-right 1s forwards;
-}
+  .biography-title {
+    animation: slide-from-right 1s forwards;
+  }
 
-.main-content {
-  animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-  animation-delay: 100ms;
-}
+  .main-content {
+    animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    animation-delay: 100ms;
+  }
 
-#profile {
-  animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-}
+  #profile {
+    animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
 
-.interests-div {
-  @include fade-in(1s);
-}
+  .interests-div {
+    @include fade-in(1s);
+  }
 
-.education-div {
-  @include fade-in(1.5s);
-}
+  .education-div {
+    @include fade-in(1.5s);
+  }
+
+  .avatar-square {
+    -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  }
 
 }

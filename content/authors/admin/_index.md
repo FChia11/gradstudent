@@ -28,9 +28,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon-pack: fab
-  link: https://twitter.com/FrancescaChia11
 - icon: github
   icon_pack: fab
   link: https://github.com/FChia11

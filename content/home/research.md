@@ -43,6 +43,7 @@ flip_alt_rows = false
 # Background and spacing
 [design.background]
 # Add background settings if any
+
 [design.spacing]
 padding = [0, 0, 0, 0]
 +++

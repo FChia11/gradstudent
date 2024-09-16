@@ -1,18 +1,22 @@
-+++
-title = "Featured Work"
-date = 2024-01-01T00:00:00
-math = true
-highlight = false
+---
+title: Ongoing Work
+type: landing
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-list_format = 3
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+sections:
+  - block: collection
+    id: research
+    content:
+      title: Ongoing Work
+      filters:
+        folders:
+          - research
+    design:
+      view: article-grid
+      columns: 3
+---

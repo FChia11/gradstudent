@@ -1,52 +1,52 @@
 ---
-title: "Persuasion and Norm Persistence"
+title: 'Revisiting the Foundations of EU-Mandated Traceability: A Trademark Signalling Framework'
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: 
-  -admin
-  
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+
 date: '2021-08-02T00:00:00Z'
 doi: ''
 
+# Schedule page publish date (NOT publication's date).
+publishDate: '2017-01-01T00:00:00Z'
+
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types: ["3"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['7']
 
-# Presentation name and optional abbreviated version.
-presentations: [
-  { name: "SGPE 2024", location = "Crieff, January 2024" },
-  { name: "Royal Economic Society 2024", location = "Belfast, March 2024" },
-  { name: "GAMES 2024", location = "Beijing, August 2024" }
-]
-
-# Abstract and optional shortened version.
-abstract: "I study a dynamic information design problem à la Albano and Lizzeri (2001) in which a regulator can disclose unobserved quality information as the norms of a population evolve. Under moral hazard, the regulator sets a pass/fail standard ex-ante. A monopolist chooses a price to sell an asset to a population of consumers. Over time, consumers’ purchase decision depends on the signal, others' buying behaviour, and norm evolution. In this paper, I use evolutionary game theory to describe the tension between quality certification and norm persistence."
+abstract: Are European Geographical Indications effective in the presence of a weak trademark mechanism and uneven application costs? I develop a multi-stage game of incomplete information to understand the impact of these forces on EU food quality standards. Under *Decentralised Surveillance* and pre-set charges, a social planner cannot reliably attribute trademarks to deserving producers and separate the market. While a Riley Outcome is unattainable, three equilibria survive the notion of sequential rationality. In showing that these outcomes are all suboptimal, I argue that EU regulators can improve the current application process by *i)* yearly reviewing the testing device and *ii)* replacing *ex-ante* with *ex-post* filing fees. Under its aegis, the WIPO could subsume both reformative proposals. 
 
 # Summary. An optional shortened abstract.
-summary: How does persuasion affect social norms? Under which conditions does it improve consumer welfare?
+summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of application and registration of EU Geographical Indications
 
-# Tags
 tags: []
 
-# Is this a selected publication? (true/false)
+# Display this page in the Featured widget?
 featured: true
 
-# Links (optional).
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
 url_pdf: ''
-url_preprint: ''
 url_code: ''
 url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_video: ''
-url_poster: 'static/uploads/RES_Poster_2024__CEPR_.pdf'
 url_source: ''
+url_video: ''
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/qgHGDbbSNm8)'
+  focal_point: ''
+  preview_only: false
 ---

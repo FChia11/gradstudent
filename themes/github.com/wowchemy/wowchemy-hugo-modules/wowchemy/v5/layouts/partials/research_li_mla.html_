@@ -1,0 +1,43 @@
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+
+  <!-- Research Short -->
+  {{ if .Params.research_short }}
+    [<b>{{ .Params.research_short }}</b>]
+  {{ end }}
+  
+  <!-- Research Title -->
+  <i><a href="{{ .Permalink }}" itemprop="name" aria-label="Research Title">{{ .Title }}</a></i><br/>
+
+  <!-- Authors -->
+  <span itemprop="author" aria-label="Authors">
+    {{ with .Params.authors }}
+      {{- delimit . ", " | markdownify -}}
+    {{- end -}}
+  </span><br/>
+  
+  <i>
+    <!-- Research URL -->
+    {{ if .Params.research_url }}
+      <a href="{{ .Params.research_url }}" target="_blank" itemprop="url" rel="noopener" style="color:#f5367d" aria-label="Research Link">
+    {{ end }}
+    
+    <!-- Research Name -->
+    {{ if .Params.research }}
+      {{- .Params.research | markdownify -}}
+    {{ else if .Params.research_short }}
+      {{- .Params.research_short | markdownify -}}
+    {{ end }}
+
+    {{ if .Params.research_url }}
+      </a></i>,
+    {{ else }}
+      </i>,
+    {{ end }}
+  
+  <!-- Date -->
+  {{- .Date.Format "2006" -}}.
+
+  <!-- Research Links -->
+  <p>{{ partial "research_links" (dict "content" . "is_list" 1) }}</p>
+</div>

@@ -1,0 +1,85 @@
+{{ $is_list := .is_list }}
+{{ $ := .content }}
+
+{{ $btn_class := "btn btn-primary btn-outline" }}
+{{ if $is_list }}
+  {{ $btn_class = printf "%s btn-xs" $btn_class }}
+{{ end }}
+
+<!-- Button Generator Function -->
+{{- $generateBtn := func (url label aria_label) -}}
+  <a class="{{ $btn_class }}" href="{{ url | absURL }}" target="_blank" rel="noopener" aria-label="{{ aria_label }}">
+    {{ label }}
+  </a>
+{{- end }}
+
+<!-- Preprint Button -->
+{{ with $.Params.url_preprint }}
+  {{ $generateBtn . (i18n "btn_preprint") "Preprint Link" }}
+{{ end }}
+
+<!-- PDF Button -->
+{{ with $.Params.url_pdf }}
+  {{ $generateBtn . (i18n "btn_pdf") "PDF Link" }}
+{{ end }}
+
+<!-- Citation Button -->
+{{ $directory := "static/files/citations/" }}
+{{ $filename := printf "%s%s.bib" $directory $.File.TranslationBaseName }}
+{{ if fileExists $filename }}
+  <button type="button" class="{{ $btn_class }} js-cite-modal"
+          data-filename="{{ printf "files/citations/%s.bib" $.File.TranslationBaseName | relURL }}">
+    {{ i18n "btn_cite" }}
+  </button>
+{{ end }}
+
+<!-- Code Button -->
+{{ with $.Params.url_code }}
+  {{ $generateBtn . (i18n "btn_code") "Code Link" }}
+{{ end }}
+
+<!-- Dataset Button -->
+{{ with $.Params.url_dataset }}
+  {{ $generateBtn . (i18n "btn_dataset") "Dataset Link" }}
+{{ end }}
+
+<!-- Projects Button -->
+{{ if $.Params.projects }}
+  {{ range $.Params.projects }}
+    {{ with ($.Site.GetPage "page" "project" .) }}
+      {{ $generateBtn .Permalink (i18n "btn_project") "Project Link" }}
+    {{ else }}
+      {{ errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $.File.Path . }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with $.Params.url_project }}
+    {{ $generateBtn . (i18n "btn_project") "Project Link" }}
+  {{ end }}
+{{ end }}
+
+<!-- Poster Button -->
+{{ with $.Params.url_poster }}
+  {{ $generateBtn . (i18n "btn_poster") "Poster Link" }}
+{{ end }}
+
+<!-- Slides Button -->
+{{ with $.Params.url_slides }}
+  {{ $generateBtn . (i18n "btn_slides") "Slides Link" }}
+{{ end }}
+
+<!-- Video Button -->
+{{ with $.Params.url_video }}
+  {{ $generateBtn . (i18n "btn_video") "Video Link" }}
+{{ end }}
+
+<!-- Source Button -->
+{{ with $.Params.url_source }}
+  {{ $generateBtn . (i18n "btn_source") "Source Link" }}
+{{ end }}
+
+<!-- Custom URL Buttons -->
+{{ range $.Params.url_custom }}
+  {{ $generateBtn .url .name .name }}
+{{ end }}
+

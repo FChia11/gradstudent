@@ -1,0 +1,17 @@
+<div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  
+  <!-- Research Title -->
+  <a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a>
+
+  <!-- Authors -->
+  <div itemprop="author">
+    {{ with .Params.authors }}
+      {{- delimit . ", " | markdownify -}}
+    {{- end -}}
+  </div>
+
+  <!-- Research Links -->
+  <p>{{ partial "research_links" (dict "content" . "is_list" 1) }}</p>
+</div>
+

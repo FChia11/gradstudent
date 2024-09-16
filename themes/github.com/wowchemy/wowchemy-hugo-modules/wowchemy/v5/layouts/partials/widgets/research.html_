@@ -1,16 +1,16 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $pubs_len := len (where $.Site.RegularPages "Type" "publication") }}
+{{ $pubs_len := len (where $.Site.RegularPages "Type" "research") }}
 
-<!-- Publications widget -->
+<!-- Research widget -->
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     {{ if gt $pubs_len $page.Params.count }}
     <p class="view-all">
-      <a href="{{ ($.Site.GetPage "section" "publication").Permalink }}">
-        {{ i18n "more_publications" | markdownify }}
+      <a href="{{ ($.Site.GetPage "section" "research").Permalink }}">
+        {{ i18n "more_research" | markdownify }}
         <i class="fa fa-angle-double-right"></i>
       </a>
     </p>
@@ -19,27 +19,27 @@
   <div class="col-xs-12 col-md-8">
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
-    {{ if and ($page.Params.publication_type) (ne $page.Params.publication_type "-1") }}
-      {{ $.Scratch.Set "recent_pubs" (where (where (where $.Site.RegularPages "Type" "publication") ".Params.selected" true) ".Params.publication_types" "intersect" (slice $page.Params.publication_type)) }}
-      <!-- {{ $.Scratch.Set "recent_pubs" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice $page.Params.publication_type)) }} -->
+    {{ if and ($page.Params.research_type) (ne $page.Params.research_type "-1") }}
+      {{ $.Scratch.Set "recent_research" (where (where (where $.Site.RegularPages "Type" "research") ".Params.selected" true) ".Params.research_types" "intersect" (slice $page.Params.research_type)) }}
+      <!-- {{ $.Scratch.Set "recent_research" (where (where $.Site.RegularPages "Type" "research") ".Params.research_types" "intersect" (slice $page.Params.research_type)) }} -->
     {{ else }}
-      {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }}
+      {{ $.Scratch.Set "recent_research" (where $.Site.RegularPages "Type" "research") }}
     {{ end }}
 
     {{ if $page.Params.exclude_selected }}
-      {{ $.Scratch.Set "recent_pubs" ( ($.Scratch.Get "recent_pubs") | intersect (where (where $.Site.RegularPages "Type" "publication") ".Params.selected" "!=" true) ) }}
+      {{ $.Scratch.Set "recent_research" ( ($.Scratch.Get "recent_research") | intersect (where (where $.Site.RegularPages "Type" "research") ".Params.selected" "!=" true) ) }}
     {{ end }}
 
-    {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
-    {{ range first $page.Params.count $recent_pubs }}
+    {{ $recent_research := $.Scratch.Get "recent_research" }}
+    {{ range first $page.Params.count $recent_research }}
       {{ if eq $page.Params.list_format 1 }}
-        {{ partial "publication_li_detailed" . }}
+        {{ partial "research_li_detailed" . }}
       {{ else if eq $page.Params.list_format 2 }}
-        {{ partial "publication_li_apa" . }}
+        {{ partial "research_li_apa" . }}
       {{ else if eq $page.Params.list_format 3 }}
-        {{ partial "publication_li_mla" . }}
+        {{ partial "research_li_mla" . }}
       {{ else }}
-        {{ partial "publication_li_simple" . }}
+        {{ partial "research_li_simple" . }}
       {{ end }}
     {{ end }}
 

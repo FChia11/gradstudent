@@ -49,10 +49,4 @@ url_video: ''
 url_poster: 'static/uploads/RES_Poster_2024__CEPR_.pdf'
 url_source: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Author's Analysis**]()'
-  focal_point: ''
-  preview_only: false
 ---

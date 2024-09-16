@@ -34,4 +34,10 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
+
+design:
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
+  spacing: {padding: [0, 0, 0, 0]}
 +++

@@ -1,20 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+$font-main: 'Roboto', sans-serif;
+$font-bold: 800;
+$dark-grey: #343434;
+$light-grey: #E3E3E5;
+$sta-primary-dark: black;
+$sta-primary-light: grey;
+
+/* icons */
+#profile {
+  .network-icon {
+    li {
+      a {
+        color: white !important;
+      }
+    }
+  }
+}
+
+/* background color for body */
+body {
+  background-color: white;
+}
+
+/* top level font and styling */
+h1 {
+  font-family: $font-main;
+  font-weight: $font-bold;
+  color: $sta-primary-dark;
+}
+
+.section-heading p {
+  color: $dark-grey;
+}
+
 #about {
 
+  /* Slide-in animations from right and left */
   @keyframes slide-from-right {
-    0% { transform: translateX(150%); }
-    100% { transform: translateX(0%); }
+    0% {
+      transform: translateX(150%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
   }
 
   @keyframes slide-from-left {
-    0% { transform: translateX(-150%); }
-    100% { transform: translateX(0%); }
+    0% {
+      transform: translateX(-150%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
   }
 
+  /* Fade-in animation */
   @keyframes fade-in {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
   }
 
+  /* Fade-in mixin with customizable delay */
   @mixin fade-in($delay) {
     opacity: 0;
     animation: fade-in 1s forwards;
@@ -35,11 +86,11 @@
   }
 
   .interests-div {
-    @include fade-in(1s);
+    @include fade-in(1s); /* Delay of 1 second */
   }
 
   .education-div {
-    @include fade-in(1.5s);
+    @include fade-in(1.5s); /* Delay of 1.5 seconds */
   }
 
   .avatar-square {
@@ -48,3 +99,4 @@
   }
 
 }
+

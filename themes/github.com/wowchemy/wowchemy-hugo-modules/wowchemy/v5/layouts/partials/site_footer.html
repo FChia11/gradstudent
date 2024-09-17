@@ -2,6 +2,8 @@
   {{ partial "clustrmap.html" . }}
 
   {{ partial "hooks/footer" . }}
+  
+  {{ partial "consent.html" . }}
 
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
     <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">

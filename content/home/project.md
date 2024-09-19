@@ -1,6 +1,6 @@
 ---
 block: collection
-active: false
+active: true
 headless: true
 weight: 40
 title: Featured Projects ♾️

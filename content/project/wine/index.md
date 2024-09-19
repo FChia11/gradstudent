@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Evolution in the Wine Industry: A Patent Mining Approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -52,7 +52,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
+image: `featured.gif`
   caption: 'Image credit: [**Francesca Chiaradia**]()'
   focal_point: ''
   preview_only: false

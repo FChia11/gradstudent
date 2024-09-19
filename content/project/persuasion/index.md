@@ -1,6 +1,5 @@
 ---
 title: 'Persuasion and Norm Persistence'
-external_link = ''
 participants_block_position = 'down' sort_position = 3
 
 # Authors

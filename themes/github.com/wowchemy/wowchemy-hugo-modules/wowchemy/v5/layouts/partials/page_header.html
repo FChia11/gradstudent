@@ -43,11 +43,15 @@
 
 {{/* Handle regular page image with focal point */}}
 {{- if .Params.image -}}
-  <div class="page-header-image" style="background-image: url('{{ .Params.image | absURL }}');">
-    {{ if isset .Params.image "focal_point" }}
-      <div class="focal-point">{{ .Params.image.focal_point }}</div>
-    {{ end }}
-  </div>
+  {{- if (not (isString .Params.image)) -}}  <!-- Check if image is not a string -->
+    <div class="page-header-image" style="background-image: url('{{ .Params.image.src | absURL }}');">
+      {{ if isset .Params.image "focal_point" }}
+        <div class="focal-point">{{ .Params.image.focal_point }}</div>
+      {{ end }}
+    </div>
+  {{- else -}}  <!-- If it's a string, just render the image -->
+    <div class="page-header-image" style="background-image: url('{{ .Params.image | absURL }}');"></div>
+  {{- end -}}
 {{- end -}}
 
 {{/* Featured image layout */}}

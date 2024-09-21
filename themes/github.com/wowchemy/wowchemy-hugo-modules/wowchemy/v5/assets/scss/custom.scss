@@ -7,7 +7,7 @@ $light-grey: #E3E3E5;
 $sta-primary-dark: black;
 $sta-primary-light: grey;
 
-/* icons */
+/* Icons */
 #profile {
   .network-icon {
     li {
@@ -18,12 +18,12 @@ $sta-primary-light: grey;
   }
 }
 
-/* background color for body */
+/* Background color for body */
 body {
   background-color: white;
 }
 
-/* top level font and styling */
+/* Top-level font and styling */
 h1 {
   font-family: $font-main;
   font-weight: $font-bold;
@@ -72,19 +72,23 @@ h1 {
     animation-delay: $delay;
   }
 
+  /* Biography Title Slide-in Animation */
   .biography-title {
     animation: slide-from-right 1s forwards;
   }
 
+  /* Main Content Slide-in Animation */
   .main-content {
     animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
     animation-delay: 100ms;
   }
 
+  /* Profile Slide-in Animation */
   #profile {
     animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
   }
 
+  /* Interests and Education Section Fade-in Animations */
   .interests-div {
     @include fade-in(1s); /* Delay of 1 second */
   }
@@ -93,10 +97,35 @@ h1 {
     @include fade-in(1.5s); /* Delay of 1.5 seconds */
   }
 
+  /* Avatar with Polygon Shape */
   .avatar-square {
     -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
     clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   }
-
 }
 
+/* Make the GIF pop and float to the left */
+.gif-left {
+  float: left;
+  margin-right: 20px; /* Spacing between GIF and text */
+  width: 40%; /* Set a width for the GIF */
+}
+
+.gif-pop {
+  border: 5px solid #ddd; /* Add a border to make the GIF stand out */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow for pop effect */
+  transition: transform 0.3s ease; /* Smooth transition effect on hover */
+}
+
+.gif-pop:hover {
+  transform: scale(1.03); /* Slightly enlarge the GIF on hover */
+}
+
+/* Responsive: Ensure the GIF and text layout works well on smaller screens */
+@media (max-width: 768px) {
+  .gif-left {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+}

@@ -8,5 +8,3 @@ poster: "/posters/persuasion-poster.pdf"
 slides: "/slides/persuasion-slides.pdf"
 summary: "How does quality certification affect norm evolution? Under which conditions does it increase consumer welfare?"
 ---
-
-## Main Content

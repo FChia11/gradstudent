@@ -10,6 +10,9 @@ main:
   - name: CV
     url: uploads/CV.pdf
     weight: 20
+  - name: Research
+    url: '#research'
+    weight: 30
   - name: Teaching
     url: '#experience'
     weight: 40

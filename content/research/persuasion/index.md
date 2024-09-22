@@ -9,9 +9,6 @@ authors:
 
 date: '2024-08-01T00:00:00Z'
 doi: ''
-
-# Image
-image: 'featured.gif'
   
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-08-01T00:00:00Z'

@@ -16,6 +16,22 @@
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
+  
+    {{/* Featured Image Section */}}
+    <div class="image-container ml-3">
+      {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ with $resource }}
+        <a href="{{ .RelPermalink }}" class="lightbox">
+          {{ if (in .MediaType.SubType "gif") }}
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy" class="uniform-image">
+          {{ else }}
+            {{ $image := .Resize "150x webp" }}
+            <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+                 alt="{{ .Title }}" loading="lazy" class="uniform-image">
+          {{ end }}
+        </a>
+      {{ end }}
+    </div>
 
     {{ if .Params.abstract }}
       <h3>{{ i18n "abstract" }}</h3>

@@ -72,15 +72,21 @@
     </div>
     {{ end }}
 
-  </div>
   <div class="ml-3">
-    {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
-    {{ with $resource }}
-    {{ $image := .Resize "150x webp" }}
-    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-           alt="{{ $item.Title }}" loading="lazy">
-    </a>
-    {{end}}
+  {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ with $resource }}
+    {{ if (in .MediaType.SubType "gif") }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{ else }}
+      {{ $image := .Resize "150x webp" }}
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+             alt="{{ $item.Title }}" loading="lazy">
+      </a>
+    {{ end }}
+  {{ end }}
   </div>
+</div>
 </div>

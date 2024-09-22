@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
+  view: masonry
   columns: '2'
   spacing:
     padding: 

@@ -166,8 +166,17 @@ body.section-research img {
   max-width: 150px; /* Maximum width for uniformity */
 }
 
-.image-container {
-  display: inline-block; /* Keep images next to content */
-  vertical-align: top; /* Align with text */
-  margin: 0 10px; /* Add horizontal spacing */
+.d-flex {
+  display: flex; /* Use flexbox for alignment */
+  align-items: flex-start; /* Align items to the top */
 }
+
+.summary-container {
+  flex: 1; /* Allow summary to take available space */
+}
+
+.image-container {
+  width: 150px; /* Set a fixed width for the image */
+  /* Optional: you can add margin or padding if needed */
+}
+

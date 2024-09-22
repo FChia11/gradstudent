@@ -35,13 +35,32 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
-        {{ . }}
+    <div class="d-flex"> <!-- Flex container for alignment -->
+      <div class="summary-container">
+        {{ with $summary }}
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+          <div class="article-style">
+            {{ . }}
+          </div>
+        </a>
+        {{ end }}
       </div>
-    </a>
-    {{ end }}
+
+      <div class="image-container ml-3">
+        {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+        {{ with $resource }}
+          <a href="{{ .RelPermalink }}" class="lightbox" {{ $target | safeHTMLAttr }}>
+            {{ if (in .MediaType.SubType "gif") }}
+              <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" class="uniform-image">
+            {{ else }}
+              {{ $image := .Resize "150x webp" }}
+              <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+                   alt="{{ $item.Title }}" loading="lazy" class="uniform-image">
+            {{ end }}
+          </a>
+        {{ end }}
+      </div>
+    </div>
 
     <div class="stream-meta article-metadata">
 
@@ -72,19 +91,5 @@
     </div>
     {{ end }}
 
-    <div class="image-container ml-3">
-      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
-      {{ with $resource }}
-        <a href="{{ .RelPermalink }}" class="lightbox" {{ $target | safeHTMLAttr }}>
-          {{ if (in .MediaType.SubType "gif") }}
-            <img src="{{ .RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" class="uniform-image">
-          {{ else }}
-            {{ $image := .Resize "150x webp" }}
-            <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-                 alt="{{ $item.Title }}" loading="lazy" class="uniform-image">
-          {{ end }}
-        </a>
-      {{ end }}
-    </div>
   </div>
 </div>

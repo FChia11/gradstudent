@@ -180,7 +180,7 @@ body.section-research img {
   /* Optional: you can add margin or padding if needed */
 }
 
-.cookie-consent-banner {
+.cookie-consent {
     background-color: #cfe2f3; /* Light blue background color */
     color: black; /* Text color */
     padding: 15px; /* Padding for spacing */
@@ -192,7 +192,7 @@ body.section-research img {
     z-index: 9999; /* Ensure it’s on top */
 }
 
-.cookie-consent-banner button {
+.cookie-consent button {
     background-color: #f4ff66; /* Light yellow button color */
     color: black; /* Button text color */
     border: none; /* Remove default border */
@@ -201,6 +201,6 @@ body.section-research img {
     cursor: pointer; /* Pointer cursor on hover */
 }
 
-.cookie-consent-banner button:hover {
+.cookie-consent button:hover {
     background-color: #e1e100; /* Darker yellow on hover */
 }

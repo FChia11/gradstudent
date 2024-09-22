@@ -20,8 +20,8 @@ publishDate: '2024-08-01T00:00:00Z'
 publication_types: ['0']
 
 #Publication name and optional abbreviated publication name. 
-publication: Conference poster
-publication_short: Conference poster
+publication: Poster
+publication_short: Poster
 
 # Abstract
 

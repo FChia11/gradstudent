@@ -16,23 +16,6 @@
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
-  
-    {{/* Featured Image Section */}}
-    <div class="featured-image">
-      {{ $resources := (.Resources.ByType "image") }}
-      {{ $animatedResource := $resources.GetMatch "*animated*" }}
-      {{ $featuredResource := $resources.GetMatch "*featured*" }}
-
-      {{ if $animatedResource }}
-        <a href="{{ $animatedResource.RelPermalink }}" class="lightbox">
-          <img src="{{ $animatedResource.RelPermalink }}" alt="{{ $animatedResource.Title }}" loading="lazy" class="uniform-image">
-        </a>
-      {{ else if $featuredResource }}
-        <a href="{{ $featuredResource.RelPermalink }}" class="lightbox">
-          <img src="{{ $featuredResource.RelPermalink }}" alt="{{ $featuredResource.Title }}" loading="lazy" class="uniform-image">
-        </a>
-      {{ end }}
-    </div>
 
     {{ if .Params.abstract }}
       <h3>{{ i18n "abstract" }}</h3>

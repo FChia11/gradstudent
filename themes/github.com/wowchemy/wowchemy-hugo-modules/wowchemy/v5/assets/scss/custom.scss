@@ -129,3 +129,33 @@ h1 {
     margin-right: 0;
   }
 }
+
+/* Targeting images in the research section */
+body.section-research img {
+  max-width: 100%;  /* Ensure images are responsive */
+  height: auto;     /* Maintain original aspect ratio */
+  width: 50%;       /* Standard width for all images in the research section */
+  display: block;   /* Make the image a block element */
+  margin: 20px auto; /* Center the image with auto margins and add vertical spacing */
+  border-radius: 5px; /* Optional: Add rounded corners to images */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for styling */
+}
+
+/* Standard size for large screens */
+body.section-research img {
+  width: 50%; /* Default width */
+}
+
+/* Smaller screens (tablets) */
+@media (max-width: 768px) {
+  body.section-research img {
+    width: 75%; /* Increase width on smaller screens */
+  }
+}
+
+/* Mobile screens */
+@media (max-width: 480px) {
+  body.section-research img {
+    width: 100%; /* Full width on mobile devices */
+  }
+}

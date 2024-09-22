@@ -181,12 +181,29 @@ body.section-research img {
 }
 
 .cookie-consent-banner {
-    background-color: #cfe2f3; /* Change this to your desired color */
-    color: black; /* Change text color if needed */
+    background-color: #cfe2f3; /* Light blue background color */
+    color: black; /* Text color */
+    padding: 15px; /* Padding for spacing */
+    border-radius: 5px; /* Rounded corners */
+    position: fixed; /* Fixed positioning */
+    bottom: 20px; /* Distance from the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust for centering */
+    z-index: 9999; /* Ensure it’s on top */
 }
 
 .cookie-consent-banner button {
-    background-color: #f4ff66; /* Button color */
+    background-color: #f4ff66; /* Light yellow button color */
     color: black; /* Button text color */
+    border: none; /* Remove default border */
+    padding: 10px 15px; /* Padding for the button */
+    border-radius: 5px; /* Rounded button corners */
+    cursor: pointer; /* Pointer cursor on hover */
 }
+
+/* Optional: Add hover effect for the button */
+.cookie-consent-banner button:hover {
+    background-color: #e1e100; /* Darker yellow on hover */
+}
+
 

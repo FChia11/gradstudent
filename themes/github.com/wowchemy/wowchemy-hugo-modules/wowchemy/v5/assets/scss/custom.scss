@@ -159,3 +159,15 @@ body.section-research img {
     width: 100%; /* Full width on mobile devices */
   }
 }
+
+.uniform-image {
+  width: 100%; /* This will make it responsive */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 150px; /* Maximum width for uniformity */
+}
+
+.image-container {
+  display: inline-block; /* Keep images next to content */
+  vertical-align: top; /* Align with text */
+  margin: 0 10px; /* Add horizontal spacing */
+}

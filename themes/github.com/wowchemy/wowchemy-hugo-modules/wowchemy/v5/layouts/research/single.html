@@ -15,16 +15,6 @@
 
   {{ partial "page_header.html" . }}
 
-  {{/* Featured Image Section */}}
-  {{ if .Params.image }}
-    <div class="featured-image">
-      <img src="{{ .Params.image }}" alt="Featured image" loading="eager">
-      {{ if .Params.image_caption }}
-        <p class="image-caption">{{ .Params.image_caption | markdownify }}</p>
-      {{ end }}
-    </div>
-  {{ end }}
-
   <div class="article-container">
 
     {{ if .Params.abstract }}
@@ -67,7 +57,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style">{{ .Content }}</div>
+    <div class="article-style">{{ .Content | markdownify }}</div>
 
     {{ partial "page_footer" . }}
 

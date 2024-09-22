@@ -48,6 +48,4 @@ url_project: ''
 url_slides: 'uploads/Wine_Econ_Presentation.pdf'
 url_source: ''
 url_video: ''
-
-![Alt text](https://francescachiaradia.com/content/research/wine/featured.gif)
 ---

@@ -25,6 +25,7 @@
 {{ if $st.Params.content.filters.folders }}
   {{ $folders := $st.Params.content.filters.folders }}
   {{ $query = where $query "Section" "in" $folders }}
+  {{/* Init archive page to main folder */}}
   {{ $main_folder := index $folders 0 }}
   {{ $archive_page = site.GetPage "Section" $main_folder }}
 {{ end }}
@@ -76,25 +77,8 @@
   {{ with $st.Content }}{{ . }}{{ end }}
 
   {{ range $index, $item := $query }}
-    {{/* Image logic to prioritize animated GIFs */}}
-    {{ $resources := ($item.Resources.ByType "image") }}
-    {{ $animatedResource := $resources.GetMatch "*animated*" }}
-    {{ $featuredResource := $resources.GetMatch "*featured*" }}
-
-    <div class="featured-image">
-      {{ if $animatedResource }}
-        <a href="{{ $animatedResource.RelPermalink }}" class="lightbox">
-          <img src="{{ $animatedResource.RelPermalink }}" alt="{{ $animatedResource.Title }}" loading="lazy" class="uniform-image">
-        </a>
-      {{ else if $featuredResource }}
-        <a href="{{ $featuredResource.RelPermalink }}" class="lightbox">
-          <img src="{{ $featuredResource.RelPermalink }}" alt="{{ $featuredResource.Title }}" loading="lazy" class="uniform-image">
-        </a>
-      {{ end }}
-    </div>
-
     {{ partial "functions/render_view" (dict "page" $st "item" . "view" ($st.Params.design.view | default "compact") "index" $index) }}
-  {{ end }}
+  {{end}}
 
   {{/* Archive link */}}
   {{ $show_archive_link := $st.Params.content.archive.enable | default (gt $count $items_count) }}

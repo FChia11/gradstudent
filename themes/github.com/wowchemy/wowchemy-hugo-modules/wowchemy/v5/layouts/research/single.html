@@ -19,19 +19,20 @@
   
     {{/* Featured Image Section */}}
     <div class="image-container ml-3">
-      {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
-      {{ with $resource }}
-        <a href="{{ .RelPermalink }}" class="lightbox">
-          {{ if (in .MediaType.SubType "gif") }}
-            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy" class="uniform-image">
-          {{ else }}
-            {{ $image := .Resize "150x webp" }}
-            <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-                 alt="{{ .Title }}" loading="lazy" class="uniform-image">
-          {{ end }}
-        </a>
-      {{ end }}
-    </div>
+  {{ $resources := (.Resources.ByType "image") }}
+  {{ $featuredResource := $resources.GetMatch "*featured*" }}
+  {{ $animatedResource := $resources.GetMatch "*animated*" }} <!-- Change the match pattern as needed -->
+
+  {{ if $animatedResource }}
+    <a href="{{ $animatedResource.RelPermalink }}" class="lightbox">
+      <img src="{{ $animatedResource.RelPermalink }}" alt="{{ $animatedResource.Title }}" loading="lazy" class="uniform-image">
+    </a>
+  {{ else if $featuredResource }}
+    <a href="{{ $featuredResource.RelPermalink }}" class="lightbox">
+      <img src="{{ $featuredResource.RelPermalink }}" alt="{{ $featuredResource.Title }}" loading="lazy" class="uniform-image">
+    </a>
+  {{ end }}
+</div>
 
     {{ if .Params.abstract }}
       <h3>{{ i18n "abstract" }}</h3>

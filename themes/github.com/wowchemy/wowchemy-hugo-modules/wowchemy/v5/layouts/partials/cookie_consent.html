@@ -7,25 +7,27 @@
     {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.cookieconsent.url $css.cookieconsent.version) $css.cookieconsent.sri | safeHTML }}
   {{ end }}
   <script>
-  window.addEventListener("load", function(){
+window.addEventListener("load", function(){
     window.cookieconsent.initialise({
-      "palette": {
-        "popup": {
-          "background": "#cfe2f3",  // Light blue background color
-          "text": "black"            // Text color
+        "palette": {
+            "popup": {
+                "background": "#cfe2f3",  // Light blue background color
+                "text": "black"            // Text color
+            },
+            "button": {
+                "background": "#f4ff66",  // Light yellow button color
+                "text": "black"            // Button text color
+            }
         },
-        "button": {
-          "background": "#f4ff66",  // Light yellow button color
-          "text": "black"            // Button text color
+        "theme": "classic",
+        "content": {
+            "message": {{ i18n "cookie_message" | default "This website uses cookies to ensure you get the best experience on our website." }},
+            "dismiss": {{ i18n "cookie_dismiss" | default "Got it!" }},
+            "link": {{ i18n "cookie_learn" | default "Learn more" }},
+            "href": {{ with site.GetPage "privacy.md" }}{{ printf "%s" .RelPermalink }}{{ else }}"https://www.cookiesandyou.com"{{ end }}
         }
-      },
-      "theme": "classic",
-      "content": {
-        "message": {{ i18n "cookie_message" | default "This website uses cookies to ensure you get the best experience on our website." }},
-        "dismiss": {{ i18n "cookie_dismiss" | default "Got it!" }},
-        "link": {{ i18n "cookie_learn" | default "Learn more" }},
-        "href": {{ with site.GetPage "privacy.md" }}{{ printf "%s" .RelPermalink }}{{ else }}"https://www.cookiesandyou.com"{{ end }}
-      }
-    })});
-  </script>
+    });
+});
+</script>
+
 {{ end }}

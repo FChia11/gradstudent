@@ -12,8 +12,6 @@ doi: ''
 
 # Image
 image: 'featured.gif'
-focal_point: ''
-preview_only: false
   
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-08-01T00:00:00Z'

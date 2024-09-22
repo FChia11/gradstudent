@@ -51,9 +51,6 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.png` to your page's folder.
-image:
-  caption: 'Image credit: [**Author's Analysis**]()'
-  focal_point: ''
-  preview_only: false
-  
+image: 'featured.gif'
+image_caption: 'Image credit: [**Author's Analysis**]()'
 ---

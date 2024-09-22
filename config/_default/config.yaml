@@ -56,9 +56,7 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true

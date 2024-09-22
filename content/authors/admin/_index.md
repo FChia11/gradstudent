@@ -23,9 +23,6 @@ organizations:
   url: https://www.st-andrews.ac.uk/
 role: PhD Student in Economics
 social:
-- icon: orcid
-  icon_pack: ai 
-  link: https://orcid.org/0000-0003-3824-6711 
 - icon: envelope
   icon_pack: fas
   link: /#contact

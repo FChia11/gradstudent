@@ -15,6 +15,16 @@
 
   {{ partial "page_header.html" . }}
 
+  {{/* Featured Image Section */}}
+  {{ if .Params.image }}
+    <div class="featured-image">
+      <img src="{{ .Params.image }}" alt="Featured image">
+      {{ if .Params.image_caption }}
+        <p class="image-caption">{{ .Params.image_caption | markdownify }}</p>
+      {{ end }}
+    </div>
+  {{ end }}
+
   <div class="article-container">
 
     {{ if .Params.abstract }}

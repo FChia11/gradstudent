@@ -9,6 +9,10 @@ authors:
 
 date: '2024-08-01T00:00:00Z'
 doi: ''
+
+# Image
+image: 'featured.gif'
+image_caption: 'Image credit: [**Author's Analysis**]()'
   
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-08-01T00:00:00Z'
@@ -48,9 +52,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Featured image
-# To use, add an image named `featured.png` to your page's folder.
-image: 'featured.gif'
-image_caption: 'Image credit: [**Author's Analysis**]()'
 ---

@@ -19,10 +19,6 @@ publishDate: '2024-07-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['0']
 
-#Publication name and optional abbreviated publication name. 
-publication: Conference Slides
-publication_short: Conference Slides
-
 # Abstract
 
 abstract: Using public data on patents published between 1893 and 2023, I study how the wine industry has evolved over time. Throughout, I leverage textual analysis to build an index of patent quality and use it to evaluate breakthrough innovations. Based on this evidence, I assess how the staggered enforcement of the Patent Cooperation Treaty has influenced technological similarity across countries. The findings speaks to the validity of the current patent system, highlighting some of its shortcomings. Looking at wine through the lenses of patent data may provide a richer sense of context and an improved understanding of current industry trends.
@@ -45,7 +41,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/Wine_Econ_Presentation.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 ---

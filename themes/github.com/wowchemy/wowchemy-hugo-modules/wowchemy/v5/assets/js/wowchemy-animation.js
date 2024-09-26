@@ -39,5 +39,3 @@ function showGifOnNav() {
 document.addEventListener('DOMContentLoaded', showGifOnNav);
 
 export { fadeIn };
-
-export {fadeIn};

@@ -69,29 +69,10 @@
   {{ partial "page_links_div.html" $page }}
 </div>
 
-{{/* Featured image - Add GIF support check */}}
+{{/* Featured image */}}
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
   <div style="position: relative">
-    <!-- Check if $image is a valid image resource -->
-    {{ with $image }}
-      {{ if and (isset . "Ext") (not (eq .Ext "")) }}
-        <!-- Check if the image is a GIF -->
-        {{ if eq (strings.ToLower .Ext) "gif" }}
-          <!-- Directly display GIF without transformations -->
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="featured-image" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}">
-        {{ else }}
-          <!-- Apply transformations for other image formats -->
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="featured-image" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}">
-        {{ end }}
-      {{ else }}
-        <!-- Handle case when $image is not a valid ImageResource -->
-        <p>No valid image resource available.</p>
-      {{ end }}
-    {{ else }}
-      <!-- Handle case when $image is nil -->
-      <p>No image provided.</p>
-    {{ end }}
-    
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
     {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
 </div>

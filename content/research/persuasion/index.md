@@ -44,4 +44,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+![Alt text](images/research/persuasion/featured.gif)
 ---

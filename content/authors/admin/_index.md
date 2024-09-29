@@ -46,13 +46,7 @@ I was born and raised in Italy and hold a M.Sc. in Economics from the [Universit
 
 Prior to starting the PhD, I worked as a market analyst and economic researcher. In my spare capacity, I am eager to support [Rotaract](https://www.facebook.com/RotaractAberdeen/?locale=en_GB) and [Rotary](https://www.rotary-ribi.org/clubs/homepage.php?ClubID=3) initiatives. 
 
-<a href="{{< staticref "files/f-chiaradia.vcf" "newtab" >}}" download>
-  <i class="fa-solid fa-address-card" style="color: #2c511f;"></i> Download my VCard
-</a>
-
-<a href="{{< staticref "files/f-chiaradia.vcf" >}}" download>
-  <i class="fa-solid fa-address-card" style="color: #2c511f;"></i> Download my VCard
-</a>
+{{< icon name="fa-solid fa-address-card" style="color: #2c511f;" >}} Download my {{< staticref "files/f-chiaradia.vcf" "newtab" >}}VCard{{< /staticref >}}.
 
 
 

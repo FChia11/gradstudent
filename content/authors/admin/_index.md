@@ -50,4 +50,9 @@ Prior to starting the PhD, I worked as a market analyst and economic researcher.
   <i class="fa-solid fa-address-card" style="color: #2c511f;"></i> Download my VCard
 </a>
 
+<a href="{{< staticref "files/f-chiaradia.vcf" >}}" download>
+  <i class="fa-solid fa-address-card" style="color: #2c511f;"></i> Download my VCard
+</a>
+
+
 

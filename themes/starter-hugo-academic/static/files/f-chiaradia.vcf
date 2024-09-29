@@ -2,10 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Francesca Chiaradia
 ORG:University of St Andrews
+DEPARTMENT:School of Economics and Finance
 TITLE:PhD Candidate in Economics
-EMAIL:fc73@st-andrews.ac.uk
-ADR;TYPE=WORK:;;The Old Burgh School;Abbey Walk;St Andrews;Scotland;KY16 9LB;UK
+EMAIL;TYPE=INTERNET,WORK,PREF:fc73@st-andrews.ac.uk
+EMAIL;TYPE=INTERNET,HOME:v1fchiar@ed.ac.uk
+ADR;TYPE=WORK:;;The Old Burgh School;Abbey Walk;St Andrews;KY16 9LB;Scotland;UK
 URL:https://francescachiaradia.com
-URL;TYPE=LinkedIn::https://www.linkedin.com/in/francesca-chiaradiaabit96/
-URL;TYPE=Twitter::https://twitter.com/francescachia11
+NOTE:PhD Candidate in Economics with a passion for information economics and intellectual property law.
+X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/francesca-chiaradiaabit96/
+X-SOCIALPROFILE;TYPE=Twitter:https://twitter.com/francescachia11
 END:VCARD

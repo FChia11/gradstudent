@@ -204,3 +204,16 @@ body.section-research img {
 .cookie-consent button:hover {
     background-color: #e1e100; /* Darker yellow on hover */
 }
+
+.btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}

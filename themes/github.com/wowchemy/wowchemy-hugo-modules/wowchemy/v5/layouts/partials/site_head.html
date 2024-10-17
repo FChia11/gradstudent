@@ -227,6 +227,8 @@
   {{ partial "marketing/google_tag_manager" . }}
   {{ partial "marketing/microsoft_clarity" . }}
   {{ partial "marketing/baidu_tongji" . }}
+  
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 
   {{/* Netlify Identity integration. */}}
   {{ $use_cms := templates.Exists "wowchemycms/single.wowchemycms_config.yml" | default (site.Params.extensions.cms.netlify_cms | default false) }}

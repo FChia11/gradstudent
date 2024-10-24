@@ -21,7 +21,7 @@ tags:
 title: "Ida Irene Becker, 
 GB189408719A"
 ---
-On May 16, 1911, Alexandra Gräfin von Dyhrn of Muswell Hill, Middlesex, was awarded a patent for her development of a novel U-shaped rail designed to facilitate the hanging and detachment of curtains without prior setup.
+On May 16, 1911, Ida Irene Becker of Muswell Hill, Middlesex, was awarded a patent for her development of a novel U-shaped rail designed to facilitate the hanging and detachment of curtains without prior setup.
 
 Date of Application: 2 May 1894
 

@@ -115,9 +115,10 @@
 </div>
 
 <!-- Include particles.js and the configuration -->
-<script src="/js/particles.min.js"></script>
+<script src="{{ "js/particles.min.js" | relURL }}"></script>
 <script>
-  particlesJS.load('particles-js', '/js/particles-config.json', function() {
+  particlesJS.load('particles-js', '{{ "js/particlesjs-config.json" | relURL }}', function() {
     console.log('particles.js loaded for About Widget');
   });
 </script>
+

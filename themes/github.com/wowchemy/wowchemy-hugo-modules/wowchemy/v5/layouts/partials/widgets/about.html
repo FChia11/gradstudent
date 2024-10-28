@@ -19,7 +19,7 @@
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
 <!-- About widget -->
-<div class="row">
+<div class="row widget--about">
   <div class="col-12 col-lg-4">
     <div id="profile">
       {{ if site.Params.features.avatar.gravatar }}
@@ -44,7 +44,7 @@
             </ruby>
           {{- else -}}
             {{- $person_page.Title -}}
-          {{- end -}}
+          {{- end }}
         </h2>
 
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
@@ -60,22 +60,9 @@
 
       <ul class="network-icon">
         {{ range $person.social }}
-          {{ $pack := or .icon_pack "fas" }}
-          {{ $pack_prefix := $pack }}
-          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-            {{ $pack_prefix = "fa" }}
-          {{ end }}
-          {{ $link := .link }}
-          {{ $scheme := (urls.Parse $link).Scheme }}
-          {{ $target := "" }}
-          {{ if not $scheme }}
-            {{ $link = .link | relLangURL }}
-          {{ else if in (slice "http" "https") $scheme }}
-            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-          {{ end }}
           <li>
-            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-              <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            <a href="{{ .link | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .icon }}">
+              <i class="{{ .icon_pack }} fa-{{ .icon }} big-icon"></i>
             </a>
           </li>
         {{ end }}
@@ -84,7 +71,9 @@
   </div>
 
   <div class="col-12 col-lg-8">
-    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    <!-- Add particles background -->
+    <div id="particles-js"></div>
+
     {{ if and $page.Params.widget $page.Title }}
       <h1 class='biography-title'>{{ $page.Title | markdownify | emojify }}</h1>
     {{ end }}
@@ -105,9 +94,6 @@
         </div>
       {{ end }}
 
-      <!-- Add particles.js background -->
-      <div id="particles-js" style="position: absolute; width: 100%; height: 100%; z-index: 1;"></div>
-
       {{ with $person.education }}
         <div class="education-div col-md-7">
           <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
@@ -126,16 +112,6 @@
       {{ end }}
     </div>
   </div>
-</div>
-
-<!-- Ensure particles.js is in the right position -->
-  <div id="particles-js" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0;"></div>
-
-</div>
-
-  <!-- Ensure particles.js is in the right position -->
-  <div id="particles-js" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0;"></div>
-
 </div>
 
 <!-- Include particles.js and the configuration -->

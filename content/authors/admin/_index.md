@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/FrancescaChia11
 - icon: bluesky
-  icon_pack: fas
+  icon_pack: fab
   link: https://bsky.app/profile/francescachiaradia.bsky.social
 - icon: github
   icon_pack: fab

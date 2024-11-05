@@ -246,3 +246,26 @@ body.section-research img {
 .col-12.col-lg-8 {
   padding: 15px; /* Adjust spacing as needed */
 }
+
+/* Avatar and Profile Section */
+.col-12.col-lg-4 {
+  padding: 0; /* No padding around the avatar section */
+}
+
+.profile-section {
+  padding: 0; /* No padding inside the profile section */
+}
+
+.particles-background-wrapper {
+  padding: 0; /* No padding around the particles background and avatar */
+}
+
+/* About (Bio) Section */
+.col-12.col-lg-8 {
+  padding: 0; /* No padding around the bio section */
+}
+
+/* General Widget Padding */
+.widget--about {
+  padding: 0; /* Remove any padding around the entire widget container */
+}

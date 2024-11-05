@@ -218,32 +218,31 @@ body.section-research img {
   background-color: #e1e100;
 }
 
-.background-img-container {
-  position: relative; /* Ensure the background image and particles are positioned correctly */
-  overflow: hidden; /* Prevents overflow */
+.particles-background-wrapper {
+  position: relative; /* Make sure the particles and profile are contained */
 }
 
-.background-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%; /* Make the image cover the entire container */
-  height: auto; /* Maintain aspect ratio */
-  z-index: 0; /* Place it behind the particles */
-}
-
-#particles-js {
+.particles-background {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 1; /* Make sure particles are on top of the background image */
+  z-index: 0; /* Place particles behind the profile content */
+}
+
+#profile {
+  position: relative;
+  z-index: 1; /* Place profile content above particles */
 }
 
 .widget--about {
-  position: relative; /* Ensure that the widget content appears above the particles and background */
-  z-index: 2; /* Keep content above both the particles and background image */
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 
-
+.col-12.col-lg-4,
+.col-12.col-lg-8 {
+  padding: 15px; /* Adjust spacing as needed */
+}

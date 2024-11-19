@@ -26,6 +26,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: bluesky
+  icon-pack: fab 
+  link: https://bsky.app/profile/francescachiaradia.bsky.social
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FrancescaChia11

@@ -3,30 +3,29 @@ authors:
 - admin
 categories:
 - US
-date: "2024-07-04T00:00:00Z"
+date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Averill, M. (1909)**](https://worldwide.espacenet.com/patent/search/family/003040528/publication/US972147A?q=pn%3DUS972147A)'
+  caption: 'Image credit: [**Ramsaur, M.H. (1869)**](https://worldwide.espacenet.com/patent/search/family/002161687/publication/US92209A?q=pn%3DUS92209A)'
   focal_point: ""
-  placement: 4
+  placement: 2
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Toy Beehive."
+subtitle: "Improved Medical Compound, US92209A."
 summary: ""
 tags:
-- Other Fields
-- United States
+- Chemistry
+- United States 
 - US
-title: "Minnie Averill, US972147A"
+title: "Mary H. Ramsaur, US92209A"
 ---
+On July 6, 1869, Mary H. Ramsaur, a resident of Lincolnton, North Carolina, was granted a patent for a novel medicine designed to alleviate rheumatism, neuralgia, and general soreness.
 
-On September 16, 1947, Minnie Averill of Joplin, Missouri, was granted a patent for her novel toy beehive. Her invention featured a case with an upper part that included several flexible springs designed to hold toy bees when opened. 
+Date of Application: -
 
-Date of Application: 16 July 1909
-
-Date of Issuance: 11 October 1910
+Date of Issuance: 6 July 1869
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/003040528/publication/US972147A?q=pn%3DUS972147A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/002161687/publication/US92209A?q=pn%3DUS92209A)

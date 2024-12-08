@@ -18,7 +18,7 @@ tags:
 - Chemistry
 - United States 
 - US
-title: "Mary H. Ramsaur, US136308A"
+title: "Mary A. Curtis, US136308A"
 ---
 On February 25, 1873, Mary Ann Curtis, a resident of San Francisco, was granted a patent for a novel medicine designed to alleviate inflammation and rheumatism.
 

@@ -18,7 +18,7 @@ tags:
 - Mechanical Engineering
 - Germany
 - GB
-title: "Clara Hedwig Martini, GB189315883A"
+title: "Clara H. Martini, GB189315883A"
 ---
 
 On June 23, 1894, Clara Hedwig Martini of Leipzig was granted a patent for developing a novel floating device. Her invention featured a lightweight floating structure, designed to facilitate swift movement through the water.

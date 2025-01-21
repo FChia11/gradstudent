@@ -42,6 +42,9 @@ subtitle = "[All news>>](/news)"
   # Customize the section spacing. Order is top, right, bottom, left.
   background = {}
   padding = [0, 0, 0, 0]
+  view = 6
+  lcolwidth = "3"
+  rcolwidth = "9"
 
 [advanced]
  # Custom CSS. 

@@ -36,5 +36,5 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '1'
-  spacing: {padding: [0.5px, 0px, 1px, 0px]}
+  spacing: {padding: [0px, 0px, 0px, 0px]}
 ---

@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "News"
@@ -45,6 +45,9 @@ subtitle = "[All news>>](/news)"
   view = 6
   lcolwidth = "3"
   rcolwidth = "9"
+  
+  # How many pages would you like to show? 
+  count = 3
 
 [advanced]
  # Custom CSS. 

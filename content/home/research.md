@@ -38,8 +38,8 @@ design:
   columns: '2'
   spacing:
     padding: 
-      - 0.5
-      - 0
-      - 0.5
-      - 0
+      - 0.5px
+      - 0px
+      - 0.5px
+      - 0px
 ---

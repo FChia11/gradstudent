@@ -48,5 +48,5 @@ date_format = "Jan 2006"
 [design]
 columns = 2
 background = {}
-spacing = { padding = [0.5px, 0px, 1px, 0px] }
+spacing = { padding = [0.5, 0, 1, 0] }
 +++

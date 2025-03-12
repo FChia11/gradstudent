@@ -2,30 +2,30 @@
 authors:
 - admin
 categories:
-- GR
+- UK
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Greek Patent Office**](https://www.obi.gr/obi/?tabid=127&idappli=X51766)'
+  caption: 'Image credit: [**Chamberlin, R. (1911)**](https://worldwide.espacenet.com/patent/search/family/032366002/publication/GB191110468A?q=pn%3DGB191110468A)'
   focal_point: ""
   placement: 2
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "ΣΥΝΘΕΤΙΚΟΣ ΓΕΩΓΡΑΦΙΚΟΣ ΧΑΡΤΗΣ"
+subtitle: "Machine for Cooling Gases by Direct Thermodynamic Process."
 summary: ""
 tags:
-- Other Fields
-- Greece
-- GR
-title: "Alexandra Mavroidi, GR12703B"
+- Mechanical Engineering
+- United Kingdom
+- UK
+title: "Rosa Chamberlin, GB191110468A"
 ---
-On November 11, 1950, Alexandra Mavroidi, of Athens, Greece, was granted a patent for inventing a synthetic geographical map.
+On April 18, 1912, Rosa Chamberlin of London, UK, was granted a patent for inventing a novel air-cooling machine. Intended for use in industrial settings, the invention featured multiple pistons and cylinders to compress air and lower the external temperature.
 
-Date of Application: 02 November 1950
+Date of Application: 1 May 1911
 
-Date of Issuance: 11 November 1950
+Date of Issuance: 18 April 1912
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/036834982/publication/GR12703B?q=pn%3DGR12703B)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032366002/publication/GB191110468A?q=pn%3DGB191110468A)

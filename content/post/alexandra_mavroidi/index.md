@@ -12,8 +12,8 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: ", US1442157A."
-summary: "ΣΥΝΘΕΤΙΚΟΣ ΓΕΩΓΡΑΦΙΚΟΣ ΧΑΡΤΗΣ"
+subtitle: "ΣΥΝΘΕΤΙΚΟΣ ΓΕΩΓΡΑΦΙΚΟΣ ΧΑΡΤΗΣ"
+summary: ""
 tags:
 - Other Fields
 - Greece

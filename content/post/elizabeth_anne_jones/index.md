@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Elizabeth A. Jones (1894)**](https://worldwide.espacenet.com/patent/search/family/032349488/publication/GB189404992A?q=pn%3DGB189404992A)'
+  caption: 'Image credit: [**Jones, E.A. (1894)**](https://worldwide.espacenet.com/patent/search/family/032349488/publication/GB189404992A?q=pn%3DGB189404992A)'
   focal_point: ""
   placement: 2
   preview_only: false

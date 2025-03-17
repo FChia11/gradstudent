@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Jeannie Macneil (1897)**](https://worldwide.espacenet.com/patent/search/family/032136735/publication/GB189721360A?q=pn%3DGB189721360A)'
+  caption: 'Image credit: [**Macneil, J. (1897)**](https://worldwide.espacenet.com/patent/search/family/032136735/publication/GB189721360A?q=pn%3DGB189721360A)'
   focal_point: ""
   placement: 2
   preview_only: false

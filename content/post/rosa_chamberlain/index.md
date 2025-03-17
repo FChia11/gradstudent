@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- UK
+- GB
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
@@ -16,8 +16,8 @@ subtitle: "Machine for Cooling Gases by Direct Thermodynamic Process."
 summary: ""
 tags:
 - Mechanical Engineering
-- United Kingdom
-- UK
+- Great Britain
+- GB
 title: "Rosa Chamberlin, GB191110468A"
 ---
 On April 18, 1912, Rosa Chamberlin of London, UK, was granted a patent for inventing a novel air-cooling machine. Intended for use in industrial settings, the invention featured multiple pistons and cylinders to compress air and lower the external temperature.

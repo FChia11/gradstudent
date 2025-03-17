@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- UK
+- GB
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
@@ -17,7 +17,7 @@ summary: ""
 tags:
 - Mechanical Engineering
 - Great Britain
-- UK
+- GB
 title: "Catherine D. Bogle, GB189921000A"
 ---
 On August 18, 1900, Catherine Dorothea Bogle of London was granted a patent for an innovative golf ball retriever. Her device featured a spring clip that could be attached to a golf club, allowing players to retrieve balls from the hole without bending down.

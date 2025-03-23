@@ -12,8 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Til Anvendelse ved Haarbehandling bestemt Ørebeskytter, 
-DK51192C."
+subtitle: "Til Anvendelse ved Haarbehandling bestemt Ørebeskytter."
 summary: ""
 tags:
 - Other Fields

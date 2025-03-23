@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Fruchtpresse, CH1281A."
+subtitle: "Fruchtpresse."
 summary: ""
 tags:
 - Mechanical Engineering

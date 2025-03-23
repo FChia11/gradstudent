@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "Indoor-Golf Game"
+subtitle: "Indoor-Golf Game."
 summary: ""
 tags:
 - Other Fields

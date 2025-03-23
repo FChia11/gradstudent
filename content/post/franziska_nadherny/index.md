@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Spielzeugfigur aus Gummi, AT130291B."
+subtitle: "Spielzeugfigur aus Gummi."
 summary: ""
 tags:
 - Other Fields

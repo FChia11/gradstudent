@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "An Appliance for Use in Golf"
+subtitle: "An Appliance for Use in Golf."
 summary: ""
 tags:
 - Other Fields

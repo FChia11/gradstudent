@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Couverture formant sac de couchage, à l'usage des militaires, des touristes et autres, FR485722A."
+subtitle: "Couverture formant sac de couchage, à l'usage des militaires, des touristes et autres."
 summary: ""
 tags:
 - Other Fields

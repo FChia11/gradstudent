@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Process of Producing Pies, US2248289A."
+subtitle: "Process of Producing Pies."
 summary: ""
 tags:
 - Other Fields

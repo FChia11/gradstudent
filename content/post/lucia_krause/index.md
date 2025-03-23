@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Hatpins, GB190910748A."
+subtitle: "Hatpins."
 summary: ""
 tags:
 - Other Fields

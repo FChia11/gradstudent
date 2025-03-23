@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Jeannie Macneil, GB190417555A"
 ---
-On June 15, 1905, Jeannie Macneil of Glasgow was awarded a patent for improvements in manufacturing golf, cricket, and other sports balls. Her design featured a cork core impregnated with elastic cement, improving resilience and quality.
+On June 15, 1905, Jeannie Macneil of Glasgow was awarded a patent for improvements in manufacturing golf, cricket, and other sports balls. Her design featured a cork core impregnated with elastic cement that promised to improve resilience and quality.
 
 Date of Application: 12 August 1904  
 

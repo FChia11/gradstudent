@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "Auxiliary Bed, US1442157A."
+subtitle: "Auxiliary Bed."
 summary: ""
 tags:
 - Other Fields

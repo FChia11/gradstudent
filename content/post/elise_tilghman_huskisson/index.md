@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Bijou porte-pelote, CH4798A."
+subtitle: "Bijou porte-pelote."
 summary: ""
 tags:
 - Other Fields

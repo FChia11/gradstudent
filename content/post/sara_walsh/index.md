@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "A Combined Rug and Bed for Travellers, Soldiers, and others, applicable also as a Life Belt or Support in Water, GB189501871A."
+subtitle: "A Combined Rug and Bed for Travellers, Soldiers, and others, applicable also as a Life Belt or Support in Water."
 summary: ""
 tags:
 - Other Fields

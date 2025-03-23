@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Beatrice G. Bryant, US2104361A."
+subtitle: "Envelope Vanity."
 summary: ""
 tags:
 - Other Fields

@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improved Medical Compound, US92209A."
+subtitle: "Improved Medical Compound."
 summary: ""
 tags:
 - Chemistry

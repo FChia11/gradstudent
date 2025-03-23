@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Hair Waver, US1618144A."
+subtitle: "Hair Waver."
 summary: ""
 tags:
 - Other Fields

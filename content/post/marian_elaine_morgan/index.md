@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "Improvements in Tees for Use in the Game of Golf"
+subtitle: "Improvements in Tees for Use in the Game of Golf."
 summary: ""
 tags:
 - Other Fields

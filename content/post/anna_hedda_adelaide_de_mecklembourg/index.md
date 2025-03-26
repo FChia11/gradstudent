@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**De Mecklembourg, A.H.A. (1916)**](https://worldwide.espacenet.com/patent/search/family/004323385/publication/CH73274A?q=pn%3DCH73274A)'
+  caption: 'Image credit: [**de Mecklembourg, A.H.A. (1916)**](https://worldwide.espacenet.com/patent/search/family/004323385/publication/CH73274A?q=pn%3DCH73274A)'
   focal_point: ""
   placement: 2
   preview_only: false

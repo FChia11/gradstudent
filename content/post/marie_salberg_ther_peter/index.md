@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Germany 
 - CH 
-title: "Marie Salberg & Ther. Peter, CH2416A"
+title: "Marie Salberg; Ther. Peter, CH2416A"
 ---
 On November 15, 1890, Marie Salberg and Ther. Peter, of Munich, were granted a patent for a soft period pad made of thin rubber, specifically designed to absorb heavy bleeding and prevent spillage.  
 

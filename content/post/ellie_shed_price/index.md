@@ -20,7 +20,7 @@ tags:
 - US
 title: "Ellie Shed Price, US2538123A"
 ---
-On July 17, 1894, Ellie Shed Price of Los Angeles, California, patented a doll-shaped water bottle. Her design offered a utilitarian object that could serve both as a toy and a warming device.
+On October 29, 1945, Ellie Shed Price of Los Angeles, California, patented a doll-shaped water bottle. Her design offered a utilitarian object that could serve both as a toy and a warming device.
 
 Date of Application: 29 October 1945
 

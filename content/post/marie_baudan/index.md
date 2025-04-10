@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - France 
 - GB 
-title: "Marie Clementine Michelle Baudéan, GB189717115A"
+title: "Marie C.M. Baudéan, GB189717115A"
 ---
 On August 21, 1897, Marie Clementine Michelle Baudéan, a pianist from Paris, obtained a patent for a novel pair of knickerbockers with a movable side. These knickerbockers were specifically designed for women cyclists, horsewomen, and huntswomen. 
 

@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**O''Leary, S.F.B. (1894)**](https://worldwide.espacenet.com/patent/search/family/035244557/publication/GB189421209A?q=pn%3DGB189421209A)'
+  caption: 'Image credit: [**O'Leary, S.F.B. (1894)**](https://worldwide.espacenet.com/patent/search/family/035244557/publication/GB189421209A?q=pn%3DGB189421209A)'
   focal_point: ""
   placement: 4
   preview_only: false

@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Sarah F.B. O'Leary, GB189421209A"
 ---
-On November 5th, 1894, Sarah Flora Belle O'Leary of Waverly, Kansas, patented a novel work-box specifically designed to hold ladies' articles. Her improved design allowed for a simpler and more durable construction.
+On February 2nd, 1895, Sarah Flora Belle O'Leary of Waverly, Kansas, patented a novel work-box specifically designed to hold ladies' articles. Her improved design allowed for a simpler and more durable construction.
 
 Date of Application: 5 November 1894
 

@@ -147,6 +147,12 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+    
+# Custom icons
+
+custom_icons:
+  - id: bluesky
+    svg: /icons/bluesky.svg
 
 # Security
 

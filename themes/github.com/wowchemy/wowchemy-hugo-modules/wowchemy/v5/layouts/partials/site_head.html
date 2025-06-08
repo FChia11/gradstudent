@@ -96,10 +96,10 @@
 
   {{/* Only load non-essential CSS in this media-swapping way */}}
   {{- $stylesheets := slice -}}
-  {{- $lib_names := slice "fontawesome/all.min" -}}
+  <!--{{- $lib_names := slice "fontawesome/all.min" -}}
   {{- range $lib_names -}}
     {{- $stylesheets = $stylesheets | append (resources.Get (printf "css/libs/%s.css" . ) ) -}}
-  {{- end -}}
+  {{- end -}}--> 
   {{ $stylesheets = $stylesheets | resources.Concat "css/vendor-bundle.css" | minify }}
   {{- if eq (getenv "WC_POST_CSS") "true" -}}
     {{- $stylesheets = $stylesheets | postCSS -}}

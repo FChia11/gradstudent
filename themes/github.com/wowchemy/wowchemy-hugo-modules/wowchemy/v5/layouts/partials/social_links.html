@@ -13,10 +13,18 @@
     {{ else if in (slice "http" "https") $scheme }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
+
     <li>
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-        <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
-      </a>
+      {{ if eq .icon "bluesky" }}
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+          <img src="/icons/bluesky.svg" alt="Bluesky" style="height: 1.2em; vertical-align: middle;">
+        </a>
+      {{ else }}
+        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        </a>
+      {{ end }}
     </li>
-  {{end}}
+  {{ end }}
 </ul>
+

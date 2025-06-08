@@ -23,21 +23,21 @@ organizations:
   url: https://www.st-andrews.ac.uk/
 role: PhD Student in Economics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: bluesky
-  icon_pack: custom
-  link: https://bsky.app/profile/francescachiaradia.bsky.social
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/FrancescaChia11
-- icon: github
-  icon_pack: fab
-  link: https://github.com/FChia11
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/francesca-chiaradia-abit96
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: bluesky
+    icon_pack: custom
+    link: https://bsky.app/profile/francescachiaradia.bsky.social
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/FrancescaChia11
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/FChia11
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/f-chiaradia/
 superuser: true
 title: Francesca Chiaradia
 

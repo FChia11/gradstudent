@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Italy
 - FR
-title: "Giuseppina Ducatto; Drosilla Ducatto; Annetta Ducatto, FR528573A"
+title: "Giuseppina Ducatto et al., FR528573A"
 ---
 On November 15, 1921, three Italian sisters, Giuseppina Ducatto, Drosilla Ducatto, and Annetta Ducatto, patented a method for using raffia fiber to make furniture. Her process replaced straw and reed with durable, weather-resistant raffia, woven or braided by hand or machine.
 

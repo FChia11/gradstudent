@@ -26,7 +26,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-    - icon: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/f-chiaradia/
   - icon: github

@@ -13,6 +13,8 @@
   {{ end }}
   {{ end }}
 
+  {{/* ---------- DATE (REMOVED) ---------- */}}
+  {{/*
   {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
@@ -26,6 +28,7 @@
     {{ $date }}
   </span>
   {{ end }}
+  */}}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>

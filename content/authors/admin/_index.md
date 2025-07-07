@@ -26,18 +26,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: bluesky
+    - icon: linkedin
     icon_pack: fab
-    link: https://bsky.app/profile/francescachiaradia.bsky.social
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/francescachia11
+    link: https://www.linkedin.com/in/f-chiaradia/
   - icon: github
     icon_pack: fab
     link: https://github.com/FChia11
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/f-chiaradia/
 superuser: true
 title: Francesca Chiaradia
 

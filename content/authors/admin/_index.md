@@ -27,9 +27,9 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: bluesky
-    icon_pack: custom
+    icon_pack: fab
     link: https://bsky.app/profile/francescachiaradia.bsky.social
-  - icon: <i class="fa-brands fa-x-twitter"></i>
+  - icon: "fa-brands fa-x-twitter"
     icon_pack: fab
     link: https://x.com/francescachia11
   - icon: github

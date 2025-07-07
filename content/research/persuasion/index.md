@@ -6,7 +6,11 @@ title: 'Persuasion and Norm Persistence'
 # and it will be replaced with their full name and linked to their profile.
 authors:
 
+date: '2024-07-01T00:00:00Z'
 doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

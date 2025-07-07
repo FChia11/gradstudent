@@ -29,9 +29,14 @@ social:
   - icon: bluesky
     icon_pack: custom
     link: https://bsky.app/profile/francescachiaradia.bsky.social
-  - icon: x-twitter
+  - icon: square-x-twitter
     icon_pack: fab
-    link: https://twitter.com/FrancescaChia11
+    link: https://x.com/francescachia11
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/FChia11
+  - icon: linkedin
+    icon_pack: fab
   - icon: github
     icon_pack: fab
     link: https://github.com/FChia11

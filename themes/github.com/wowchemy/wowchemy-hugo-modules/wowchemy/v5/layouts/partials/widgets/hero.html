@@ -14,6 +14,11 @@
     {{ with $page.Content }}
       <div class="hero-lead">{{ . }}</div>
     {{ end }}
+    
+    <div class="bubbles-container mt-3">
+    <a href="/tags/research" class="bubble">Research</a>
+    <a href="/tags/teaching" class="bubble">Teaching</a>
+    </div>
 
     {{/* Call-to-action link */}}
     {{ if $page.Params.cta.url }}

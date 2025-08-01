@@ -269,3 +269,26 @@ body.section-research img {
 .widget--about {
   padding: 0; /* Remove any padding around the entire widget container */
 }
+
+/* Bubbles containers */
+.bubbles-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.bubble {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem 1.25rem;
+  border-radius: 999px;
+  background-color: #e9ecef;
+  color: #333;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.bubble:hover {
+  background-color: #d6d6d6;
+}

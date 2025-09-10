@@ -1,5 +1,9 @@
 ---
-cms_exclude: true
+active: false
+featured: false
+share: false
+show_in_list: false
+
 title: 'Evolution in the Wine Industry: A Patent Mining Approach'
 
 # Authors

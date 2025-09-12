@@ -1,6 +1,10 @@
 ---
 title: 'Evolution in the Wine Industry: A Patent Mining Approach'
 
+notes:
+  - "✨ Presented at *NeurIPS 2024*"
+  - "🏆 Awarded *Best Demo*"
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.

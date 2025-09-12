@@ -1,7 +1,7 @@
 ---
 title: 'Patent Fees and Legal Status among SMEs: Evidence from the America Invents Act'
 notes:
-  - "🏆 Awarded *RES Scholars '25*"
+  - 🏆 Awarded *RES Scholars '25*
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

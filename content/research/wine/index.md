@@ -47,4 +47,11 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/green-and-brown-bottles-arranged-in-a-grid-44jTSeMEsQY)'
+  focal_point: ''
+  preview_only: false
 ---

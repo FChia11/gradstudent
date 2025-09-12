@@ -29,7 +29,7 @@ abstract: Using public data on patents published between 1893 and 2023, I study 
 # Summary. An optional shortened abstract.
 summary: An empirical exploration of wine patents (1893-2023).
 
-tags: []
+tags: [Wine Patents, Patent Mining, Technological Evolution]
 
 # Display this page in the Featured widget?
 featured: true

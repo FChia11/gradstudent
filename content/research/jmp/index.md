@@ -28,7 +28,7 @@ publication_types: ['3']
 abstract: I examine how the introduction of lower patent fees for micro entities has affected the outcome of applications filed with the United States Patent and Trademark Office. I exploit the America Invents Act as a natural experiment to conduct a matched difference-in-difference estimation based on a sample of applications filed by small and micro entities between 2010 and 2014. I find that, post-reform, micro entities significantly reduced the quality of their applications and were 37.36 percentage points less likely to be granted a patent. By retrospectively examining the effects of lower fees on micro entities, this research aims to draw practical implications for the design of future statutory fees.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: A study on the effect of micro entity fees on patent grant and quality.
 
 tags: [Patent Fees, Legal Status, Patent Quality, America Invents Act]
 

@@ -292,3 +292,30 @@ body.section-research img {
 .bubble:hover {
   background-color: #d6d6d6;
 }
+
+.project-notes {
+  margin-top: 1em;
+}
+
+.project-notes h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.3em;
+  color: #222;
+}
+
+.project-notes ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.project-notes li {
+  font-style: italic;
+  color: #555;
+  margin: 0.3em 0;
+}
+
+.project-notes li::before {
+  content: "✦ ";
+  color: #e67e22; /* subtle accent */
+}

@@ -319,3 +319,64 @@ body.section-research img {
   content: "✦ ";
   color: #e67e22; /* subtle accent */
 }
+
+.featured-project {
+  border: 1px solid #eee;
+  padding: 2em;
+  position: relative;
+  margin-bottom: 3em;
+}
+
+.featured-project .project-notes {
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0;
+}
+
+.featured-project .project-notes li {
+  font-style: italic;
+  color: #555;
+}
+
+.btn-see-other {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background-color: #0066cc;
+  color: white;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.btn-see-other:hover {
+  background-color: #004999;
+}
+
+.featured-project {
+  border: 1px solid #eee;
+  padding: 2em;
+  position: relative;
+  margin-bottom: 3em;
+}
+
+.project-notes li {
+  font-style: italic;
+  color: #555;
+}
+
+.btn-see-other {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background-color: #0066cc;
+  color: white;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.btn-see-other:hover {
+  background-color: #004999;
+}
+

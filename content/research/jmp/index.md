@@ -1,5 +1,5 @@
 ---
-title: '| 
+title: '|
 Patent Fees and Legal Status among SMEs: 
 Evidence from the America Invents Act'
 

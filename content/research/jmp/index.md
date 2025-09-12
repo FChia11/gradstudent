@@ -1,5 +1,5 @@
 ---
-title: 'Patent Fees and Legal Status among SMEs: Evidence from the America Invents Act'
+title: 'Patent Fees and Legal Status among SMEs:<br/><br/>Evidence from the America Invents Act'
 notes:
   - "🏆 Awarded *RES Scholars '25*"
 

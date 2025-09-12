@@ -11,14 +11,15 @@
 
       {{ with .Params.notes }}
         <div class="project-notes">
-          <h3>Highlights</h3>
-          <ul>
-            {{ range . }}
-              <li><em>{{ . }}</em></li>
-            {{ end }}
-          </ul>
-        </div>
+        <h3>Highlights</h3>
+        <ul>
+      {{ range . }}
+        <li><em>{{ . }}</em></li>
       {{ end }}
+    </ul>
+  </div>
+{{ end }}
+
     </div>
 
     {{ partial "page_footer" . }}

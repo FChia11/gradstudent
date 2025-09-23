@@ -105,7 +105,7 @@ features:
   section_pager: false
   doc_section_pager: true
   sharing: true
-  abstract_length: 150
+  abstract_length: 200
   plugins_js: []
   projects: 
     post_view: 2 

@@ -32,6 +32,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/FChia11
+  - icon: bluesky
+    icon_pack: <i class="fa-brands fa-bluesky"></i>
+    link: https://bsky.app/profile/francescachiaradia.bsky.social
 superuser: true
 title: Francesca Chiaradia
 

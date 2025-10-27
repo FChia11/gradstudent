@@ -1,17 +1,20 @@
 [build]
-command = 'hugo'
-publish = 'public'
-[build.environment]
-HUGO_VERSION = '0.98.0'
+  command = "hugo"
+  publish = "public"
 
+[build.environment]
+  HUGO_VERSION = "0.134.0"      # latest stable Hugo as of 2025
+  NODE_VERSION = "20"           # Node 16 deprecated; use Node 20
+  NETLIFY_USE_JAMMY = "true"    # use Ubuntu 22.04 build image
 
 [context]
-[context.branch-deploy]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+  [context.branch-deploy]
+    command = "hugo -F -b $DEPLOY_PRIME_URL"
 
-[context.deploy-preview]
-command = 'hugo -F -b $DEPLOY_PRIME_URL'
+  [context.deploy-preview]
+    command = "hugo -F -b $DEPLOY_PRIME_URL"
 
-[context.production]
-[context.production.environment]
-HUGO_ENV = 'production'
+  [context.production]
+    [context.production.environment]
+      HUGO_ENV = "production"
+

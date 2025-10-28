@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**L'Allier, M.A. (1916)**](https://worldwide.espacenet.com/patent/search/family/045297078/publication/CA177425A?q=pn%3DCA177425A)'
+  caption: 'Image credit: [**L''Allier, M.A. (1916)**](https://worldwide.espacenet.com/patent/search/family/045297078/publication/CA177425A?q=pn%3DCA177425A)'
   focal_point: ""
   placement: 4
   preview_only: false

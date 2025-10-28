@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.134.0"      # latest stable Hugo as of 2025
+  HUGO_VERSION = "0.121.1"      # latest stable Hugo as of 2025
   NODE_VERSION = "20"           # Node 16 deprecated; use Node 20
   NETLIFY_USE_JAMMY = "true"    # use Ubuntu 22.04 build image
 

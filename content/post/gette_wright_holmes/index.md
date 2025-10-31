@@ -18,7 +18,7 @@ tags:
 - Mechanical Engineering
 - United States 
 - US
-title: "Gette W. Holmes, US1504474a"
+title: "Gette W. Holmes, US1504474A"
 ---
 On August 12, 1924, Gette Wright Holmes of Hosston, Louisiana, patented an innovative device designed to collect and destroy boll weevils from cotton fields. Her machine featured a pan containing a mixture of oil and water that instantly killed the pests as it removed them from the tops of the cotton plants.
 

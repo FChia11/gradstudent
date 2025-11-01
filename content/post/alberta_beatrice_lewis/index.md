@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Alberta B. Lewis, GB189610900A"
 ---
-On July 4, 1896, Alberta Beatrice Lewis of Maida Vale, London, was granted a patent for a novel device designed to keep a bicycle upright when at rest. The forked apparatus could be mounted to the bicycle frame, helping ladies and beginners gain confidence while learning to ride.
+On July 4, 1896, Alberta Beatrice Lewis, Gentlewoman of Maida Vale, London, was granted a patent for a novel device designed to keep a bicycle upright when at rest. The forked apparatus could be mounted to the bicycle frame, helping ladies and beginners gain confidence while learning to ride.
 
 Date of Application: 21 May 1896
 

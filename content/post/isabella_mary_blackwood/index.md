@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Blackwood, I.M. (1940)**](https://worldwide.espacenet.com/patent/search/family/032140692/publication/GB189814944A?q=pn%3DGB189814944A)'
+  caption: 'Image credit: [**Blackwood, I.M. (1898)**](https://worldwide.espacenet.com/patent/search/family/032140692/publication/GB189814944A?q=pn%3DGB189814944A)'
   focal_point: ""
   placement: 4
   preview_only: false

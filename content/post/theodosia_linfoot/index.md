@@ -15,7 +15,7 @@ projects: []
 subtitle: "Animal Nose-Yoke."
 summary: ""
 tags:
-- Other Fields
+- Instruments
 - United States 
 - US
 title: "Theodosia E. Linfoot, US1275277A"
@@ -28,4 +28,4 @@ Date of Issuance: 13 August 1918
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/003307203/publication/US1239388A?q=pn%3DUS1239388A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/003342885/publication/US1275277A?q=pn%3DUS1275277A)

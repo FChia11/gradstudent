@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Lewicki, I. (19)**](https://worldwide.espacenet.com/patent/search/family/003592272/publication/AT70508B?q=pn%3DAT70508B)'
+  caption: 'Image credit: [**Lewicki, I. (1914)**](https://worldwide.espacenet.com/patent/search/family/003592272/publication/AT70508B?q=pn%3DAT70508B)'
   focal_point: ""
   placement: 4
   preview_only: false

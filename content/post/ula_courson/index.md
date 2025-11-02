@@ -20,7 +20,7 @@ tags:
 - US
 title: "Ula L. Courson, US1249903A"
 ---
-On December 11, 1917, Ula L. Courson of Hahira, Georgia, patented a combined lamp base and match safe designed to conveniently store matches within the base of a lamp. Her invention featured a covered compartment with a removable keeper that kept matches dry, secure, and easily accessible, preventing spills and reducing the risk of accidental fires.
+On December 11, 1917, Ula Lee Courson of Hahira, Georgia, patented a combined lamp base and match safe designed to conveniently store matches within the base of a lamp. Her invention featured a covered compartment with a removable keeper that kept matches dry, secure, and easily accessible, preventing spills and reducing the risk of accidental fires.
 
 Date of Application: 21 February 1917
 

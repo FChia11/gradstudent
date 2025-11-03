@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Marchioness de Ahumada, GB191327733A"
 ---
-On December 2, 1913, the Marchioness de Ahumada, née Princess Marguérite Baratoff, obtained a patent for a novel process for producing motor spirit. Her invention involved a mixture of petrol, benzine or their isomers with ether, which, in combination with white phosphorus, carbon disulphide, and alcohol, could be used as fuel for car and aeroplane engines.
+On December 2, 1913, the Marchioness de Ahumada, née Princess Marguérite Baratoff, a widow residing in Paris, obtained a patent for a novel process for producing motor spirit. Her invention described a mixture of petrol, benzine, or their isomers with ether which, in combination with white phosphorus, carbon disulphide, and alcohol, could serve as a fuel for car and aeroplane engines.
 
 Date of Application: 3 December 1912
 

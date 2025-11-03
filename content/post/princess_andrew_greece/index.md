@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - United States 
 - US
-title: "Alice, Princess Andrew of Greece, US1459132A"
+title: "Princess Alice of Greece, US1459132A"
 ---
 On June 19, 1923, Princess Alice, wife of Prince Andrew of Greece and resident of St. Cloud, France, obtained a patent for a novel hair clip. Her design featured two pairs of tongs that could be adjusted to the hair and turned by 90 degrees, improving the curling effect and ensuring longer-lasting waves.
 

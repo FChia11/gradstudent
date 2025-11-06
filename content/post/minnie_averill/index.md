@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - US
-date: "2024-07-04T00:00:00Z"
+date: "2024-06-20T00:00:00Z"
 featured: true
 image:
   caption: 'Image credit: [**Averill, M. (1909)**](https://worldwide.espacenet.com/patent/search/family/003040528/publication/US972147A?q=pn%3DUS972147A)'

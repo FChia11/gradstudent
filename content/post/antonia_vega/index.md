@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - US
-date: "2024-07-04T00:00:00Z"
+date: "2024-06-20T00:00:00Z"
 featured: true
 image:
   caption: 'Image credit: [**Vega, C.A. & Edgerton, A.J. (1945)**](https://worldwide.espacenet.com/patent/search/family/024326846/publication/US2427335A?q=pn%3D%20US2427335A&queryLang=en%3Ade%3Afr)'

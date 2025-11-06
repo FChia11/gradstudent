@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Spielzeug-Eisenbahn mit elektrischem Antrieb."
+subtitle: "Spielzeug-Eisenbahn mit Elektrischem Antrieb."
 summary: ""
 tags:
 - Other Fields

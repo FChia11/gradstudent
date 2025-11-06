@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Countess Romain de Diesbach, GB189809599A"
 ---
-On July 9, 1908, Countess Romain de Diesbach of the Château de Remaugies near Montdidier, France, patented a process for extracting glycerine from distillation waste. Her method involved evaporating and neutralizing the wash, then passing superheated steam through the concentrated residue to release and condense the glycerine for recovery.
+On December 23, 1898, Countess Romain de Diesbach of the Château de Remaugies near Montdidier, France, patented a process for extracting glycerine from distillation waste. Her method involved evaporating and neutralizing the wash, then passing superheated steam through the concentrated residue to release and condense the glycerine for recovery.
 
 Date of Application: 26 April 1898
 

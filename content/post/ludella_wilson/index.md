@@ -20,7 +20,7 @@ tags:
 - US
 title: "Ludella Penny, US1102681A"
 ---
-On July 7, 1914, Ludella Wilson of Wilson, North Carolina, was granted a patent for a clever collar support - a flexible spring device that kept collars neat and upright without causing discomfort. It could adjust to different collar heights, stay hidden from view, and even be covered in thread to match lace or fabric designs.
+On July 7, 1914, Ludella Penny of Wilson, North Carolina, was granted a patent for a clever collar support - a flexible spring device that kept collars neat and upright without causing discomfort. It could adjust to different collar heights, stay hidden from view, and even be covered in thread to match lace or fabric designs.
 
 Date of Application: 7 November 1911
 

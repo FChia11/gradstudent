@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Smith, C. (1893)**](https://worldwide.espacenet.com/patent/search/family/035243022/publication/GB189320870A?q=pn%3DGB189320870A)'
+  caption: 'Image credit: [**Saito, H. (1925)**](https://worldwide.espacenet.com/patent/search/family/022016157/publication/US1695983A?q=pn%3DUS1695983A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improvements in Toy Figures."
+subtitle: "Method of Making Bobbed-Hair Holders."
 summary: ""
 tags:
 - Other Fields
-- United States
+- Japan
 - US
-title: "Charity Smith, GB189320870A"
+title: "Haruko Saito, US1695983A"
 ---
-On December 18, 1928, Charity Smith of Ithaca, New York, patented an improved “rag doll” design. Her method used specially shaped, pre-printed fabric patterns with dart seams to create natural curves at the elbows, knees, and neck — producing lifelike, easily made stuffed figures without the bulky gathers of earlier dolls.
+On December 18, 1928, Haruko Saito of Tokyo patented a wire comb made by bending and twisting metal into evenly spaced teeth. Shaped like a folding fan, the tempered steel comb was strong, elastic, and held bobbed hair securely in place.
 
-Date of Application: 3 April 1893
+Date of Application: 24 September 1925
 
-Date of Issuance: 9 December 1893
+Date of Issuance: 18 December 1928
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/035243022/publication/GB189320870A?q=pn%3DGB189320870A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022016157/publication/US1695983A?q=pn%3DUS1695983A)

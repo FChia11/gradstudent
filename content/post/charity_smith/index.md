@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- US
+- GB
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
@@ -17,7 +17,7 @@ summary: ""
 tags:
 - Other Fields
 - United States
-- US
+- GB
 title: "Charity Smith, GB189320870A"
 ---
 On December 18, 1928, Charity Smith of Ithaca, New York, patented an improved “rag doll” design. Her method used specially shaped, pre-printed fabric patterns with dart seams to create natural curves at the elbows, knees, and neck — producing lifelike, easily made stuffed figures without the bulky gathers of earlier dolls.

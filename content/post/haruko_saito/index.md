@@ -20,7 +20,7 @@ tags:
 - US
 title: "Haruko Saito, US1695983A"
 ---
-On December 18, 1928, Haruro Saito of Tokyo patented a wire comb made by bending and twisting metal into evenly spaced teeth. Shaped like a folding fan, the tempered steel comb was strong, elastic, and held bobbed hair securely in place.
+On December 18, 1928, Haruko Saito of Tokyo patented a wire comb made by bending and twisting metal into evenly spaced teeth. Shaped like a folding fan, the tempered steel comb was strong, elastic, and held bobbed hair securely in place.
 
 Date of Application: 24 September 1925
 

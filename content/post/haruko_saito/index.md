@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improvements in Infants Feeding Bottles and Dummies."
+subtitle: "Method of Making Bobbed-Hair Holders."
 summary: ""
 tags:
 - Other Fields

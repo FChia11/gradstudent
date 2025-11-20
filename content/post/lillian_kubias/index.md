@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Karr, L.C. (1901)**](https://worldwide.espacenet.com/patent/search/family/002755518/publication/US686974A?q=pn%3DUS686974A)'
+  caption: 'Image credit: [**Kubias, L.R. (1949)**](https://worldwide.espacenet.com/patent/search/family/022165479/publication/US2521857A?q=pn%3DUS2521857A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Railway Signaling Device."
+subtitle: "Turn Signaling Device."
 summary: ""
 tags:
-- Mechanical Engineering
+- Instruments
 - United States
 - US
-title: "Lillian C. Karr, US686974A"
+title: "Lillian R. Kubias, US2521857A"
 ---
-On November 19, 1901, Lillian C. Karr patented an innovative railway signaling device designed to activate an electric signal only when a train passed over it in a specific direction. Her mechanism used a depressible bar and a suction-controlled piston system to time the signal, while preventing activation when approached from the opposite direction.
+On September 12, 1950, Lillian R. Kubias patented a turn-signaling device with illuminated transparent arms that extended from a vehicle to indicate direction. The system used solenoids and timed circuits to automatically deploy, flash, and retract the signal arms.
 
-Date of Application: 20 July 1901
+Date of Application: 16 March 1949
 
-Date of Issuance: 19 November 1901
+Date of Issuance: 12 September 1950
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/002755518/publication/US686974A?q=pn%3DUS686974A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022165479/publication/US2521857A?q=pn%3DUS2521857A)

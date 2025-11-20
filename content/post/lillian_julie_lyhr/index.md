@@ -20,7 +20,7 @@ tags:
 - DK
 title: "Lillian J. Lyhr, DK71010C"
 ---
-On April 3, 1950, Linda Julie Lyhr of Copenhagen patented a method for removing blackheads using tweezers with rounded rubber jaws. Her design allowed impurities to be safely extracted without injuring either the patient or the beautician.
+On April 3, 1950, Lillian Julie Lyhr of Copenhagen patented a method for removing blackheads using tweezers with rounded rubber jaws. Her design allowed impurities to be safely extracted without injuring either the patient or the beautician.
 
 Date of Application: 3 April 1948
 

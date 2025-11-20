@@ -2,30 +2,30 @@
 authors:
 - admin
 categories:
-- US
+- DK
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Bruhn, L.C. (1930)**](https://worldwide.espacenet.com/patent/search/family/023779294/publication/US1981986A?q=pn%3DUS1981986A)'
+  caption: 'Image credit: [**Lyhr, L.J. (1948)**]()'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Process for Manufacturing Cheddar Cheese."
+subtitle: "Redskab til udklemning af hudorme eller lignende urenheder i huden.."
 summary: ""
 tags:
-- Chemistry
-- United States
-- US
-title: "Linda C. Bruhn, US1981986A"
+- Other Fields
+- Denmark
+- DK
+title: "Lillian J. Lyhr, DK71010C"
 ---
-On November 27, 1934, Linda C. Bruhn of Auburndale, Wisconsin, patented a method for producing small cheddar cheese loaves that resist molding and rind formation without sterilization. Her process sealed each loaf with a heat-formed butterfat coating and foil layer, preserving the cheese’s natural aging qualities while ensuring stability during storage and transport.
+On April 3, 1950, Linda Julie Lyhr of Copenhagen patented a method for removing blackheads using tweezers with rounded rubber jaws. Her design allowed impurities to be safely extracted without injuring either the patient or the beautician.
 
-Date of Application: 28 April 1930
+Date of Application: 3 April 1948
 
-Date of Issuance: 27 November 1934
+Date of Issuance: 1 May 1950
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/023779294/publication/US1981986A?q=pn%3DUS1981986A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/008101453/publication/DK71010C?q=pn%3DDK71010C)

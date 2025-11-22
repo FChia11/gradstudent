@@ -20,7 +20,7 @@ tags:
 - FR
 title: "Lucienne B.E. Charpentier, FR443841A"
 ---
-On October 3, 1912, Mademoiselle Lucienne-Berthe-Eugénie Charpentier of Côtes-du-Nord, France, patented a corset featuring an integrated elastic abdominal belt. Her design used two stretchable front panels that laced independently at the sides, allowing firmer support of the abdomen—particularly for fuller figures—while leaving the rest of the corset constructed in the usual manner. 
+On October 3, 1912, Mademoiselle Lucienne-Berthe-Eugénie Charpentier of Côtes-du-Nord, France, patented a corset featuring an integrated elastic abdominal belt. Her design used two stretchable front panels that laced independently at the sides, allowing firmer support of the abdomen - particularly for fuller figures - while leaving the rest of the corset constructed in the usual manner. 
 
 Date of Application: 15 May 1912
 

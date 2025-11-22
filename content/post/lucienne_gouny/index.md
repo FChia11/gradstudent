@@ -20,7 +20,7 @@ tags:
 - FR
 title: "Lucienne Gouny, FR496218A"
 ---
-On October 30, 1919, Madame Lucienne Gouny of Paris, France,patented a collapsible box using a parallelogram folding system. Her design hinged all sides so that two opposite sides remain parallel while the others fold without overlap, allowing the box to compact to one-quarter of its full volume when closed.  
+On October 30, 1919, Madame Lucienne Gouny of Paris, France, patented a collapsible box using a parallelogram folding system. Her design hinged all sides so that two opposite sides remain parallel while the others fold without overlap, allowing the box to compact to one-quarter of its full volume when closed.  
 
 Date of Application: 25 February 1919
 

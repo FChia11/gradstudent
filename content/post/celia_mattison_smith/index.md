@@ -20,7 +20,7 @@ tags:
 - CH
 title: "Célia-Mattison Smith, CH7025A"
 ---
-On January 31, 1894, Célia-Mattison Smith of Tompkins, New York, received a patent for a new toy. Her invention was a stuffed animal model made from three fabric pieces sewn together and filled with a suitable material to give the toy its shape (here represented as a cat).
+On January 31, 1894, Célia-Mattison Smith of Tompkins, New York, received a patent for a new toy. Her invention was a stuffed animal model made from three fabric pieces sewn together and filled with a suitable material to give the toy its shape (here illustrated by a cat).
 
 Date of Application: 15 July 1893
 

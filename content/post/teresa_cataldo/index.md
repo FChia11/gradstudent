@@ -20,7 +20,7 @@ tags:
 - US
 title: "Teresa Cataldo, US2486114A"
 ---
-On October 20, 1949, Teresa Cataldo of Boston, Massachusetts, was awarded a patent for a novel safety belt, designed to secure babies in cribs while preventing suffocation. Her device featured a flexible band with tie straps and a central strip, allowing safer movement while keeping the baby securely in place.
+On October 25, 1949, Teresa Cataldo of Boston, Massachusetts, was awarded a patent for a novel safety belt, designed to secure babies in cribs while preventing suffocation. Her device featured a flexible band with tie straps and a central strip, allowing safer movement while keeping the baby securely in place.
 
 Date of Application: 30 December 1947
 

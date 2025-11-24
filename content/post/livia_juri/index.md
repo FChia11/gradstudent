@@ -12,7 +12,7 @@ image:
   preview_only: false
 lastmod: "2025-03-05T00:00:00Z"
 projects: []
-subtitle: "Procédé de Fabrication d'une Masse Plastique."
+subtitle: "Recipiente per la Preparazione di Dolci."
 summary: ""
 tags:
 - Other Fields

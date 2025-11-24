@@ -22,9 +22,9 @@ title: "Livia Crittia, CH272577A"
 ---
 On December 31, 1950, Livia Crittia of Milan invented a novel process to manufacture a plastic mass for products such as linoleum, molded items, and pressed goods. Her method involved cooking castor oil, sulfur, and tellurium chloride into a thick resin, then mixing in leather waste and silica to create a sheetable material with linoleum-like properties.
 
-Date of Application: 25 July 1931
+Date of Application: 13 February 1948
 
-Date of Issuance: 21 March 1933
+Date of Issuance: 31 December 1950
 
 For more information, please refer to the following webpage: 
 

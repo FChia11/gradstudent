@@ -22,9 +22,9 @@ title: "Gertrude Goad, GB190526057A"
 ---
 On December 13, 1906, Gertrude Goad, a married woman of London, obtained a patent for a protective ladies’ motoring garment designed to shield travelers from cold, wet weather, and dust. Her design combined a double-breasted coat, mitten-style sleeves, a hood, and a sack-like lower section with built-in gaiters to keep the wearer warm, covered, and free to move.
 
-Date of Application: 31 July 1895
+Date of Application: 14 December 1905
 
-Date of Issuance: 27 June 1896
+Date of Issuance: 13 December 1906
 
 For more information, please refer to the following webpage: 
 

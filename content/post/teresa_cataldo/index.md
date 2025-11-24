@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Cataldo, T (1947)**](https://worldwide.espacenet.com/patent/search/family/024326846/publication/US2427335A?q=pn%3DUS2427335A)'
+  caption: 'Image credit: [**Cataldo, T. (1947)**](https://worldwide.espacenet.com/patent/search/family/024326846/publication/US2427335A?q=pn%3DUS2427335A)'
   focal_point: ""
   placement: 2
   preview_only: false

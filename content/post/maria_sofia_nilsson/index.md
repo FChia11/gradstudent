@@ -20,7 +20,7 @@ tags:
 - US
 title: "Maria S. Nilsson, US1002077A"
 ---
-On August 29, 1911, Maria Sofia Nilsson of Karlskrona, Sweden, patented an improved bed pan designed to give patients better control and comfort. Her invention featured sturdy side handles to a tapered, oblong pan, allowing patients to steady it while shifting position.
+On August 29, 1911, Maria Sofia Nilsson of Karlskrona, Sweden, patented an improved bed pan designed to give patients better control and comfort. Her invention added sturdy side handles to a tapered, oblong pan, allowing patients to steady it while shifting position.
 
 Date of Application: 10 March 1911
 

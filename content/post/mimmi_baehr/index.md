@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Finland
 - FI
-title: "Mimmi Baehr, FI"
+title: "Mimmi Baehr, FI472A"
 ---
 On August 4, 1893, Mimmi Baehr of Finland obtained a patent for a novel device that served as both an ink blotter and a pen protector. Made from pressed papyrus paper and enclosed in a small holder, it proved far more effective than cloth, felt, and other ordinary papers then in use.
 

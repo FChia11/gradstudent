@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Slate, A. (1928)**](https://worldwide.espacenet.com/patent/search/family/023189358/publication/US1736224A?q=pn%3DUS1736224A)'
+  caption: 'Image credit: [**Slate, A.J. (1928)**](https://worldwide.espacenet.com/patent/search/family/023189358/publication/US1736224A?q=pn%3DUS1736224A)'
   focal_point: ""
   placement: 4
   preview_only: false

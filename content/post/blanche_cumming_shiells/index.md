@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Cummings Shiels, B. (1901)**](https://worldwide.espacenet.com/patent/search/family/032420913/publication/GB190103607A?q=pn%3DGB190103607A)'
+  caption: 'Image credit: [**Cumming Shiels, B. (1901)**](https://worldwide.espacenet.com/patent/search/family/032420913/publication/GB190103607A?q=pn%3DGB190103607A)'
   focal_point: ""
   placement: 4
   preview_only: false
@@ -18,9 +18,9 @@ tags:
 - Other Fields
 - United States
 - GB
-title: "Blanche Cummings Shiells, GB190103607A"
+title: "Blanche Cumming Shiells, GB190103607A"
 ---
-On April 6, 1901, Lady Blanche Cummings Shiells of Neenah, Wisconsin, patented a novel darning last. Egg-shaped and fitted with several shallow concavities to suit holes of different sizes, her design made it easier to stretch the fabric and guide the needle.
+On April 6, 1901, Lady Blanche Cumming Shiells of Neenah, Wisconsin, patented a novel darning last. Egg-shaped and fitted with several shallow concavities to suit holes of different sizes, her design made it easier to stretch the fabric and guide the needle.
 
 Date of Application: 19 February 1901
 

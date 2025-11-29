@@ -20,7 +20,7 @@ tags:
 - US
 title: "Rosalyn Litschgi, US2333259A"
 ---
-On November 2, 1943, Rosalyn Litschgi of Saint Louis, Minnesota, patented a covered ash tray with a novel system for holding cigarettes. With inclined grid supports and curved resting surfaces, her design kept wrappers dry and directed ashes neatly into the tray. 
+On November 2, 1943, Rosalyn Litschgi of Saint Louis, Missouri, patented a covered ash tray with a novel system for holding cigarettes. With inclined grid supports and curved resting surfaces, her design kept wrappers dry and directed ashes neatly into the tray. 
 
 Date of Application: 6 August 1940
 

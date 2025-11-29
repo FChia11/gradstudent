@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Elizabeth Cumming, GB190022176A"
 ---
-On April 6, 1901, Lady Elizabeth Cumming of Westminster, London, patented an improved sanitary skirt protector. It paired a washable apron with a smaller macintosh apron that could be buttoned into place — or concealed in a pocket — offering discreet protection during menstruation.
+On April 6, 1901, Lady Elizabeth Cumming of Westminster, London, patented an improved sanitary skirt protector. It paired a washable apron with a smaller macintosh apron that could be buttoned into place - or concealed in a pocket - offering discreet protection during menstruation.
 
 Date of Application: 26 December 1900
 

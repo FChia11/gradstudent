@@ -18,7 +18,7 @@ tags:
 - Mechanical Engineering
 - Germany
 - GB
-  title: "Anastasia Baumann, GB189917913A"
+title: "Anastasia Baumann, GB189917913A"
 ---
 On July 21, 1900, Anastasia Baumann of Munich, Germany, patented a novel system for lifting and supporting an airship. Her design employed tiered frames mounted between paired masts, each fitted with upward-slanting sails that captured the oncoming wind to provide vertical lift.
 

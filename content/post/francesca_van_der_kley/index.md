@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Korn, F. (1926)**](https://worldwide.espacenet.com/patent/search/family/022206163/publication/US1619423A?q=pn%3DUS1619423A)'
+  caption: 'Image credit: [**Van der Kley, F. (1927)**](https://worldwide.espacenet.com/patent/search/family/022599687/publication/US1663224A?q=pn%3DUS1663224A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Cake Box."
+subtitle: "Beauty Case."
 summary: ""
 tags:
 - Other Fields
 - United States
 - US
-title: "Francesca Korn, US1619423A"
+title: "Francesca Van der Kley, US1663224A"
 ---
-On February 11, 1925, Francesca Korn of San Francisco, California, received a patent for an improved cake box designed to protect cakes during storage and transport. Its container, sliding cover, and removable tray made it easy to insert or remove a cake without damaging its sides while keeping it fresh.
+On March 20, 1928, Francesca Van der Kley of New York patented a compact beauty case designed to fit neatly inside a desk or counter drawer. With removable bottoms, perforated walls, and multiple compartments, it allowed businesswomen to organize their toiletries and easily clean out spilled powder without disturbing the contents.
 
-Date of Application: 11 February 1926
+Date of Application: 3 February 1927
 
-Date of Issuance: 1 March 1927
+Date of Issuance: 20 March 1928
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022206163/publication/US1619423A?q=pn%3DUS1619423A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022599687/publication/US1663224A?q=pn%3DUS1663224A)

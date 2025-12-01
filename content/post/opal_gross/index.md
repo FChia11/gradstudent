@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Litschgi, R. (1938)**](https://worldwide.espacenet.com/patent/search/family/022863068/publication/US2199205A?q=pn%3DUS2199205A)'
+  caption: 'Image credit: [**Gross, O.M. (1945)**](https://worldwide.espacenet.com/patent/search/family/024324434/publication/US2462956A?q=pn%3DUS2462956A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Ash Tray."
+subtitle: "Culinary Utensil."
 summary: ""
 tags:
 - Other Fields
 - United States
 - US
-title: "Rosalyn Litschgi, US2199205A"
+title: "Opal M. Gross, US2462956A"
 ---
-On April 30, 1940, Rosalyn Litschgi of Saint Louis, Missouri, obtained a patent for a covered ash tray. Designed to accommodate cigarettes, cigars, and the stubs, her invention featured inclined grid rests that kept wrappers dry and allowed stubs to drop easily into the receptacle below.  
+On March 1, 1949, Opal M. Gross of Denver, Colorado, received a patent for a modular cooking vessel made from rigid rings joined in a flat frame. Frusto-conical cups locked into the rings by means of exterior lugs, allowing cooks to combine any number of identical cups into a single, stable unit.
 
-Date of Application: 14 September 1938
+Date of Application: 6 March 1945
 
-Date of Issuance: 30 April 1940
+Date of Issuance: 1 March 1949
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/022863068/publication/US2199205A?q=pn%3DUS2199205A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/024324434/publication/US2462956A?q=pn%3DUS2462956A)

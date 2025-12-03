@@ -1,5 +1,5 @@
 ---
-bio: My research interests include law and economics, economics of innovation, and information economics.
+bio: My research interests include innovation, law, and information economics.
 education:
   courses:
   - course: Ph.D. in Economics
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: University of St Andrews
   url: https://www.st-andrews.ac.uk/
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 social:
   - icon: envelope
     icon_pack: fas

@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Mann, C.G. (1902)**](https://worldwide.espacenet.com/patent/search/family/032412732/publication/GB189625936A?q=pn%3DGB189625936A)'
+  caption: 'Image credit: [**Mann, C.G. (1896)**](https://worldwide.espacenet.com/patent/search/family/032412732/publication/GB189625936A?q=pn%3DGB189625936A)'
   focal_point: ""
   placement: 4
   preview_only: false

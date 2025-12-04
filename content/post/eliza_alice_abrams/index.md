@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Eliza A. Abrams, GB189420273A"
 ---
-On July 27, 1895, Eliza Alice Abrams of Los Angeles - a dealer in patents - patented a novel sash lock for windows. Her design used opposing pawls and ratchet bars built into the window frame, allowing each sash to lock securely in place and be released with a single concealed key. The system made windows safer, prevented forced entry, and could also be adapted for car windows and screens.
+On July 27, 1895, Eliza Alice Abrams of Los Angeles - a dealer in patents - patented a novel sash lock for windows. Her design used opposing pawls and ratchet bars built into the window frame, allowing each sash to lock securely in place and be released with a single concealed key. Her system made windows safer, prevented forced entry, and could also be adapted for car windows and screens.
 
 Date of Application: 23 October 1894
 

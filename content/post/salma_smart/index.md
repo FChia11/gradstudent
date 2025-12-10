@@ -20,7 +20,7 @@ tags:
 - US
 title: "Salma H. Smart, US812305A"
 ---
-On February 13, 1906, Salma H. Smart of Grand Rapids, Wisconsin, patented an improved core for paper rolls. Her interlocking, glue-secured strip design created a strong, perfectly cylindrical core that allowed paper to wind smoothly and evenly without wrinkles.
+On February 13, 1906, Salma H. Smart of Grand Rapids, Wisconsin, patented an improved core for paper rolls. Her interlocking strip design created a strong, cylindrical core that allowed paper to wind smoothly and evenly without wrinkles.
 
 Date of Application: 15 June 1905
 

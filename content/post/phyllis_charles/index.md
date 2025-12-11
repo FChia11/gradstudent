@@ -20,7 +20,7 @@ tags:
 - US
 title: "Phyllis E. Charles, US990206A"
 ---
-On April 18, 1911, Phyllis E. Charles of Portland, Oregon, was awarded a patent for a novel foot-wrap for use with electrothermal garments. Unlike earlier fixed designs, her flexible, separable model allowed each foot to move freely and receive independent warming or therapeutic electrical treatment.
+On April 18, 1911, Phyllis Emily Charles of Portland, Oregon, was awarded a patent for a novel foot-wrap for use with electrothermal garments. Unlike earlier fixed designs, her flexible, separable model allowed each foot to move freely and receive independent warming or therapeutic electrical treatment.
 
 Date of Application: 12 October 1910
 

@@ -20,7 +20,7 @@ tags:
 - FR
 title: "Jadwiga Stankiewicz, FR819250A"
 ---
-On October 13, 1937, Jadwiga Stankiewicz of Poland patented a novel umbrella whose shaft could be offset from the centre of the canopy rather than placed centrally. By giving the rear portion of the canopy a larger span than the front, it could better protect the user's back from rain while remaining simple to construct using ribs of unequal length. 
+On October 13, 1937, Jadwiga Stankiewicz of Poland patented a novel umbrella whose shaft could be offset from the centre of the canopy rather than placed centrally. By giving the rear portion of the canopy a larger span than the front, it could better protect the user's back from rain while remaining simple to construct. 
 
 Date of Application: 16 March 1936
 

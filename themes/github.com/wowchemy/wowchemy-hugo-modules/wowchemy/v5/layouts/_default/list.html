@@ -1,37 +1,18 @@
-{{ define "main" }}
+{{- define "main" -}}
 
-<h1>Alphabetical Index</h1>
+{{ partial "page_header.html" . }}
 
-{{/* 1. Collect and sort pages */}}
-{{ $pages := sort .Site.RegularPages "Title" "asc" }}
-
-{{/* 2. Group by first letter */}}
-{{ $groups := dict }}
-{{ range $pages }}
-  {{ $letter := upper (substr .Title 0 1) }}
-  {{ $list := index $groups $letter | default (slice) }}
-  {{ $groups = merge $groups (dict $letter (append $list .)) }}
-{{ end }}
-
-{{/* 3. Alphabet navigation */}}
-<nav class="alpha-index">
-  {{ range $letter, $_ := $groups }}
-    <a href="#{{ $letter }}">{{ $letter }}</a>
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
   {{ end }}
-</nav>
 
-<hr>
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $index, $post := $paginator.Pages }}
+    {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+  {{end}}
 
-{{/* 4. Render groups */}}
-{{ range $letter, $posts := $groups }}
-  <h2 id="{{ $letter }}">{{ $letter }}</h2>
-  <ul>
-    {{ range $posts }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </li>
-    {{ end }}
-  </ul>
-{{ end }}
+  {{ partial "pagination" . }}
+</div>
 
-{{ end }}
+{{- end -}}

@@ -17,7 +17,7 @@ summary: ""
 tags:
 - Other Fields
 - Poland
-- Austria
+- AT
 title: "Zofia Szuman, AT71537B"
 ---
 On April 10, 1916, Zofia Szuman of Posen, Poland, patented a pattern template designed to simplify tailoring garments for non-standard body shapes. The flexible paper or canvas template featured pre-drawn fold lines that could be adjusted to fit a person’s exact measurements, allowing accurate seam placement for waists, blouses, jackets, and sleeves.

@@ -20,7 +20,7 @@ tags:
 - US
 title: "Jadwiga Kuczynska, US1245470A"
 ---
-On October 13, 1937, Jadwiga Kuczynska of Hooversville, Pennsylvania, patented a novel coin bank for holding coins of a single denomination. It displayed the total amount saved at a glance and could only be opened automatically once completely filled.
+On November 6, 1917, Jadwiga Kuczynska of Hooversville, Pennsylvania, patented a novel coin bank for holding coins of a single denomination. It displayed the total amount saved at a glance and could only be opened automatically once completely filled.
 
 Date of Application: 25 May 1917
 

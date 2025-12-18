@@ -6,26 +6,26 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Ballen de Guzman, A. (1914)**](https://worldwide.espacenet.com/patent/search/family/001506100/publication/FR467437A?q=pn%3DFR467437A)'
+  caption: 'Image credit: [**Stankiewicz, J. (1936)**](https://worldwide.espacenet.com/patent/search/family/006735635/publication/FR819250A?q=pn%3DFR819250A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Baignoire pour Chiens et Autres Animaux Domestiques."
+subtitle: "Parapluie Rationnel."
 summary: ""
 tags:
 - Other Fields
-- France
+- Poland
 - FR
-title: "Ana Ballen de Guzman, FR467437A"
+title: "Jadwiga Stankiewicz, FR819250A"
 ---
-On June 11, 1914, Ana Ballen de Guzman of Paris received a patent for a novel bathtub for dogs and other domestic animals. The tub featured a hinged cover with a flexible neck opening that restrained animal movement and reduced the need for manual handling.
+On October 13, 1937, Jadwiga Stankiewicz of Poland patented a novel umbrella whose shaft could be offset from the centre of the canopy rather than placed centrally. By giving the rear portion of the canopy a larger span than the front, it could better protect the user's back from rain while remaining simple to construct using ribs of unequal length. 
 
-Date of Application: 17 January 1914
+Date of Application: 16 March 1936
 
-Date of Issuance: 11 June 1914
+Date of Issuance: 13 October 1937
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/001506100/publication/FR467437A?q=pn%3DFR467437A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/006735635/publication/FR819250A?q=pn%3DFR819250A)

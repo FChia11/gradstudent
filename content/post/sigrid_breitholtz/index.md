@@ -20,7 +20,7 @@ tags:
 - US
 title: "Sigrid Breitholtz, US1388019A"
 ---
-On August 16, 1921, Sigrid Breitholtz of Finland obtained a U.S. patent for a pastry composition that produced an unusually crisp, porous pie crust. Her method used a small amount of tea infusion—or another mild tannin solution—mixed with flour and fat to strengthen the dough and preserve its texture.
+On August 16, 1921, Sigrid Breitholtz of Finland obtained a U.S. patent for a pastry composition that produced an unusually crisp pie crust. Her method used a small amount of tea infusion — or another mild tannin solution—mixed with flour and fat to strengthen the dough and preserve its texture.
 
 Date of Application: 12 June 1920
 

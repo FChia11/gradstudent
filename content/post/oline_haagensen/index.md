@@ -18,7 +18,7 @@ tags:
 - Other Fields
 - Denmark
 - GB
-title: "Oline Haagensen, GB19116911A"
+title: "Oline Haagensen, GB191116911A"
 ---
 On June 27, 1912, Mrs Oline Haagensen of Aarhus, Denmark, patented an improved process for cleaning and refinishing light-coloured boots. By carefully removing old polish and applying layered colouring and wax finishes, worn footwear could be restored to a glossy appearance resistant to water and polish.
 

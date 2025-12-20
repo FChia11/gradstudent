@@ -6,7 +6,7 @@ categories:
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Breitholtz, S. (1920)**](https://worldwide.espacenet.com/patent/search/family/003294262/publication/US1226414A?q=pn%3DUS1226414A)'
+  caption: 'Image credit: [**Breitholtz, S. (1920)**](https://worldwide.espacenet.com/patent/search/family/023535117/publication/US1388019A?q=pn%3DUS1388019A)'
   focal_point: ""
   placement: 4
   preview_only: false

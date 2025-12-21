@@ -1,7 +1,4 @@
----
-cms_exclude: true
-header:
-  caption: ""
-  image: ""
-title: Research
----
+title: "Research"
+type: "research"
+draft: false
+

@@ -15,19 +15,6 @@ main:
 - name: Research
   url: '/research/'
   weight: 30
-  menu:
-    - name: Featured
-      url: '/research/'
-      weight: 1
-    - name: Work in Progress
-      url: '/research/publications/'
-      weight: 2
-    - name: Publications
-      url: '/research/working-papers/'
-      weight: 3
-    - name: Other
-      url: '/research/work-in-progress/'
-      weight: 4
 
 - name: Teaching
   url: '#experience'

@@ -21,7 +21,7 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Abstract
-abstract: Patenting at the United States Patent and Trademark Office has traditionally been dominated by large entities. In an effort to mitigate this disparity, Congress recently introduced reforms aimed at lowering patenting costs for small businesses. Although these measures appear beneficial, they remain contested: existing studies indicate that fee reductions can raise filing volumes while diminishing patent quality.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: A study on the effect of micro entity fees on patent grant and quality.

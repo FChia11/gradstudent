@@ -20,6 +20,10 @@
     {{ if .Params.notes }}
       <p class="pub-notes">{{ .Params.notes }}</p>
     {{ end }}
+    
+    {{ if .Params.presentation }}
+      <p class="pub-presentation">{{ .Params.presentation }}</p>
+    {{ end }}
 
     {{ if .Params.abstract }}
       <h3>{{ i18n "abstract" }}</h3>
@@ -59,10 +63,6 @@
       <div class="d-md-none space-below"></div>
     {{ end }}
     
-    {{ if .Params.presentation }}
-      <p class="pub-presentation">{{ .Params.presentation }}</p>
-    {{ end }}
-
     <div class="space-below"></div>
 
     <div class="article-style">{{ .Content | markdownify }}</div>

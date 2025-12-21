@@ -7,7 +7,7 @@ type = "page"
 widget = "pages"
 headless = true
 active = true
-weight = 10
+weight = 3
 title = ""
 subtitle = ""
 content:

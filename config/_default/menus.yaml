@@ -4,24 +4,42 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
-  - name: CV
-    url: uploads/CV.pdf
-    weight: 20
-  - name: Research
-    url: '#research'
-    weight: 30 
-  - name: Teaching
-    url: '#experience'
-    weight: 40
-  - name: Patent Pills
-    url: '#posts'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+- name: Home
+  url: '#about'
+  weight: 10
+
+- name: CV
+  url: uploads/CV.pdf
+  weight: 20
+
+- name: Research
+  url: '/research/'
+  weight: 30
+  menu:
+    - name: Featured
+      url: '/research/'
+      weight: 1
+    - name: Work in Progress
+      url: '/research/publications/'
+      weight: 2
+    - name: Publications
+      url: '/research/working-papers/'
+      weight: 3
+    - name: Other
+      url: '/research/work-in-progress/'
+      weight: 4
+
+- name: Teaching
+  url: '#experience'
+  weight: 40
+
+- name: Patent Pills
+  url: '#posts'
+  weight: 50
+
+- name: Contact
+  url: '#contact'
+  weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

@@ -21,7 +21,7 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Abstract
-abstract: 
+abstract: Patenting at the United States Patent and Trademark Office has traditionally been dominated by large entities.
 
 # Summary. An optional shortened abstract.
 summary: A study on the effect of micro entity fees on patent grant and quality.

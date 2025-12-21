@@ -1,6 +1,8 @@
 ---
 title: 'Patent Fees and Legal Status among SMEs: Evidence from the America Invents Act'
-notes: "\U0001F3C6 Awarded RES Scholars 25; EPIP 2025 Recommendation of Distinction."
+notes:
+  - "🏆 Awarded RES Scholars 25"
+  - "EPIP 2025 Recommendation of Distinction"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

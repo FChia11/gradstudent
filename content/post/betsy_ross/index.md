@@ -2,30 +2,30 @@
 authors:
 - admin
 categories:
-- GB
+- US
 date: "2024-06-20T00:00:00Z"
 featured: true
 image:
-  caption: 'Image credit: [**Mills, B. (1907)**](https://worldwide.espacenet.com/patent/search/family/032633521/publication/GB190713009A?q=pn%3DGB190713009A)'
+  caption: 'Image credit: [**Ross, B. (1943)**](https://worldwide.espacenet.com/patent/search/family/024042705/publication/US2355394A?q=pn%3DUS2355394A)'
   focal_point: ""
   placement: 4
   preview_only: false
 lastmod: "2024-06-20T00:00:00Z"
 projects: []
-subtitle: "Improvements in Window Sashes."
+subtitle: "Process for Preparing Foods."
 summary: ""
 tags:
 - Other Fields
-- Great Britain
-- GB
-title: "Betsy Mills, GB190713009A"
+- United States
+- US
+title: "Betsy Ross, US2355394A"
 ---
-On October 17, 1907, Betsy Mills of Rochdale in the County of Lancaster invented an improved window sash in which the lower sash was hinged to open inward instead of sliding. This allowed the outside of the window to be cleaned safely from inside the house, while the upper sash continued to slide in the usual way.
+On August 8, 1944, Betsy Ross of Stouchsburg, Pennsylvania, patented a process for making powdered, dehydrated vegetables — especially potatoes — that could be quickly rehydrated and kept a very high vitamin C content. The method cooked thin slices in hot oil, then removed it to produce a stable powder that stored well and was easy to use in soups.
 
-Date of Application: 5 June 1907
+Date of Application: 7 December 1943
 
-Date of Issuance: 17 October 1907
+Date of Issuance: 8 August 1944
 
 For more information, please refer to the following webpage: 
 
-- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032633521/publication/GB190713009A?q=pn%3DGB190713009A)
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/024042705/publication/US2355394A?q=pn%3DUS2355394A)

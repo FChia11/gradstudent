@@ -21,6 +21,10 @@
       <h3>{{ i18n "abstract" }}</h3>
       <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
+    
+    {{ if .Params.presentation }}
+      <p class="pub-presentation">{{ .Params.presentation }}</p>
+    {{ end }}
 
     {{/* If the type is Uncategorized, hide the type. */}}
     {{ if ne $pub_type 0 }}

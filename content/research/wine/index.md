@@ -1,6 +1,6 @@
 ---
 title: 'Evolution in the Wine Industry: A Patent Mining Approach'
-
+draft: true
 notes:
   - "✨ Presented at *NeurIPS 2024*"
   - "🏆 Awarded *Best Demo*"

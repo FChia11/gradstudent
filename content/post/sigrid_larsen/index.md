@@ -20,7 +20,7 @@ tags:
 - US
 title: "Sigrid T. Larsen, US2319870A"
 ---
-On May 25, 1943, Sigrid T. Larsen of Minneapolis patented a hand-held boat bailer designed to scoop up water and throw it out of a boat in one motion. Its curved shape let water flow and spill over the side without tipping the bailer, making it faster and easier to use.
+On May 25, 1943, Sigrid T. Larsen of Minneapolis, Minnesota, patented a hand-held boat bailer designed to scoop up water and throw it out of a boat in one motion. Its curved shape let water flow and spill over the side without tipping the bailer, making it faster and easier to use.
 
 Date of Application: 15 August 1941
 

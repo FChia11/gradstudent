@@ -3,6 +3,8 @@ title: 'Patent Fees and Legal Status among SMEs: Evidence from the America Inven
 notes:
   - "🏆 Awarded: RES Scholars '25;"
   - "EPIP 2025 Recommendation of Distinction."
+  
+presentation: "EWMES 2025; Brown Bag Seminar, University of St Andrews; EPIP 2025; AsLEA 2025; RES 2025; Fife Applied Microeconomics and Golf Conference; St Andrews Applied Microeconomics Meeting; SES 2025; 3rd Essex PhD Economics Conference; RGS Doctoral Conference in Economics; SGPE 2025; RES PhD Conference 2024. 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

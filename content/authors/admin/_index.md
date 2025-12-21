@@ -41,8 +41,6 @@ I am an ESRC-funded PhD student in Economics at the [University of St Andrews](h
 
 Prior to starting the PhD, I worked as a market analyst and economic researcher. In my spare capacity, I am eager to support [Rotaract](https://www.facebook.com/RotaractAberdeen/?locale=en_GB) and [Rotary](https://www.rotary-ribi.org/clubs/homepage.php?ClubID=3) initiatives. 
 
-**I am on the 2025-26 academic job market.**
-
 {{< icon name="fa-solid fa-address-card" style="color: #2c511f;" >}} Download my {{< staticref "files/f-chiaradia.vcf" "newtab" >}}VCard{{< /staticref >}}.
 
 

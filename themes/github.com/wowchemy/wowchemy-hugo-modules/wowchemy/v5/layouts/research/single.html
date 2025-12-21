@@ -22,6 +22,10 @@
       <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
     
+    {{ if .Params.notes }}
+      <p class="pub-notes">{{ .Params.notes }}</p>
+    {{ end }}
+    
     {{ if .Params.presentation }}
       <p class="pub-presentation">{{ .Params.presentation }}</p>
     {{ end }}

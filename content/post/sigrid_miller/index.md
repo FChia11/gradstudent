@@ -18,9 +18,9 @@ tags:
 - Other Fields
 - United States
 - US
-title: "Sigrid Minnie, US2194609A"
+title: "Sigrid Miller, US2194609A"
 ---
-On March 26, 1940, Sigrid Minnie of Porter, Minnesota, was awarded a patent for a yarn-ball holder. The device suspended the ball so the yarn could unwind smoothly while remaining stable.
+On March 26, 1940, Sigrid Miller of Porter, Minnesota, was awarded a patent for a yarn-ball holder. The device suspended the ball so the yarn could unwind smoothly while remaining stable.
 
 Date of Application: 20 May 1939
 

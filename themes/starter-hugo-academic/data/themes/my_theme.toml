@@ -3,20 +3,20 @@ name = "my_theme"
 
 [light]
 # Primary / accent color
-primary = "#2E7D5E"       # Dark green — anchors the academic/research tone
+primary = "#6e85f4"       # Dark green — anchors the academic/research tone
 
 # Menu
 menu_primary = "#1C3B2E"  # Very dark green for menu bar background
 menu_text = "#ffffff"     # White menu text for readability
-menu_text_active = "#2E7D5E" # Highlight active menu items in primary green
-menu_title = "#2E7D5E"    # Section titles in primary green
+menu_text_active = "#6e85f4" # Highlight active menu items in primary green
+menu_title = "#6e85f4"    # Section titles in primary green
 
 # Home sections / backgrounds
 home_section_odd = "#ffffff"     # Pure white
-home_section_even = "#F5F6F7"    # Very light neutral gray, soft contrast
+home_section_even = "#F8F5F2"    # Very light neutral gray, soft contrast
 
 # Links
-link = "#2E7D5E"           # Primary dark green
+link = "#6e85f4"           # Primary dark green
 link_hover = "#1C3B2E"     # Darker green hover
 
 [dark]

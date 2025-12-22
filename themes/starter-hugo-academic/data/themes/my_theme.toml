@@ -17,7 +17,7 @@ home_section_even = "#F8F5F2"    # Very light neutral gray, soft contrast
 
 # Links
 link = "#6e85f4"           # Primary dark green
-link_hover = "#1C3B2E"     # Darker green hover
+link_hover = "#fffdd0"     # Darker green hover
 
 [dark]
 # Primary / accent color

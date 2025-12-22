@@ -1,5 +1,5 @@
 ---
-title: Pre-PhD
+title: Research
 type: landing
 
 cascade:
@@ -12,11 +12,12 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Pre-PhD
+      title: Research
       filters:
         folders:
           - publication
     design:
-      view: article-grid
-      columns: 3
+      view: compact
+      columns: 2
 ---
+

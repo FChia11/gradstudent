@@ -5,7 +5,7 @@ active: true
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -35,5 +35,11 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
+  spacing:
+    padding: 
+      - 0
+      - 0
+      - 0
+      - 0
 
 ---

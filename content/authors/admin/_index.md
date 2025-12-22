@@ -4,7 +4,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: University of St Andrews
-    year: Spring 2026
+    year: 2026 (Spring)
   - course: MSc in Economics
     institution: University of St Andrews
     year: 2021

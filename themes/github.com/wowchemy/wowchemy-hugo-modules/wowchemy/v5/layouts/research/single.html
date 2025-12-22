@@ -30,8 +30,8 @@
       <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
     
-    {{ if .Params.draft }}
-      <p class="pub-draft">{{ .Params.draft }}</p>
+    {{ if .Params.draft_note }}
+      <p class="pub-draft_note">{{ .Params.draft_note }}</p>
     {{ end }}
 
     {{/* If the type is Uncategorized, hide the type. */}}

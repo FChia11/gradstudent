@@ -2,36 +2,38 @@
 name = "my_theme"
 
 [light]
-  # Primary
-  primary = "#458b74"
+# Primary / accent color
+primary = "#2E7D5E"       # Dark green — anchors the academic/research tone
 
-  # Menu
-  menu_primary = "#264A33"
-  menu_text = "#fff"
-  menu_text_active = "#458b74"
-  menu_title = "#458b74"
+# Menu
+menu_primary = "#1C3B2E"  # Very dark green for menu bar background
+menu_text = "#ffffff"     # White menu text for readability
+menu_text_active = "#2E7D5E" # Highlight active menu items in primary green
+menu_title = "#2E7D5E"    # Section titles in primary green
 
-  # Home sections
-  home_section_odd = "fff"
-  home_section_even = "#F8F5F2"
-  
-  link = "#458b74"
-  link_hover = "#264A33"
+# Home sections / backgrounds
+home_section_odd = "#ffffff"     # Pure white
+home_section_even = "#F5F6F7"    # Very light neutral gray, soft contrast
+
+# Links
+link = "#2E7D5E"           # Primary dark green
+link_hover = "#1C3B2E"     # Darker green hover
 
 [dark]
-  # Primary
-  primary = "#ffeb00"
-#  text = "#8342a8"
-#  link_decoration = "underline"
-  
-  menu_primary = "#0E182E"
-  menu_text_active = "#ffeb00"
-  
-  background = "#1C2945"
-  
-  # Home sections
-  home_section_odd = "#1C2945"
-  home_section_even = "#0E182E"
+# Primary / accent color
+primary = "#81C784"       # Lighter green accent for dark mode
 
-  link = "#ffeb00"
-  link_hover = "#377DE8"
+# Menu
+menu_primary = "#0E1C2E"  # Dark navy background for menu
+menu_text_active = "#81C784" # Highlight active menu in light green
+
+# Background
+background = "#0E1C2E"    # Dark navy — neutral but professional
+
+# Home sections / backgrounds
+home_section_odd = "#0E1C2E"   # Navy
+home_section_even = "#14243D"  # Slightly lighter navy for stripe effect
+
+# Links
+link = "#81C784"          # Light green links on dark
+link_hover = "#A5D6A7"    # Brighter green hover

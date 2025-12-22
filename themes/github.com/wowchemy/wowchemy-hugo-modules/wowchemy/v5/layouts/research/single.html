@@ -31,8 +31,7 @@
     {{ end }}
     
     {{ if .Params.draft }}
-      <h3>{{ i18n "draft" }}</h3>
-      <p class="pub-draft">{{ .Params.draft | markdownify }}</p>
+      <p class="pub-draft">{{ .Params.draft }}</p>
     {{ end }}
 
     {{/* If the type is Uncategorized, hide the type. */}}

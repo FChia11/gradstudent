@@ -3,19 +3,19 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#d8dfff"
+  primary = "#458b74"
 
   # Menu
   menu_primary = "#264A33"
   menu_text = "#fff"
-  menu_text_active = "#d8dfff"
-  menu_title = "#d8dfff"
+  menu_text_active = "#458b74"
+  menu_title = "#458b74"
 
   # Home sections
   home_section_odd = "fff"
   home_section_even = "#F8F5F2"
   
-  link = "#d8dfff"
+  link = "#458b74"
   link_hover = "#264A33"
 
 [dark]

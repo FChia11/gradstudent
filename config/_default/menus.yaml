@@ -15,18 +15,22 @@ main:
 - name: Featured
   url: '#research'
   weight: 30
+  
+- name: Research
+  url: '#publication'
+  weight: 40
 
 - name: Teaching
   url: '#experience'
-  weight: 40
+  weight: 50
 
 - name: Patent Pills
   url: '#posts'
-  weight: 50
+  weight: 60
 
 - name: Contact
   url: '#contact'
-  weight: 60
+  weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

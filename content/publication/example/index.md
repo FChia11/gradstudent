@@ -17,9 +17,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['7']
+publication_types: ['3']
 
-abstract: Are European Geographical Indications effective in the presence of a weak trademark mechanism and uneven application costs? I develop a multi-stage game of incomplete information to understand the impact of these forces on EU food quality standards. Under *Decentralised Surveillance* and pre-set charges, a social planner cannot reliably attribute trademarks to deserving producers and separate the market. While a Riley Outcome is unattainable, three equilibria survive the notion of sequential rationality. In showing that these outcomes are all suboptimal, I argue that EU regulators can improve the current application process by *i)* yearly reviewing the testing device and *ii)* replacing *ex-ante* with *ex-post* filing fees. Under its aegis, the WIPO could subsume both reformative proposals. 
+abstract: > 
+Are European Geographical Indications effective in the presence of a weak trademark mechanism and uneven application costs? I develop a multi-stage game of incomplete information to understand the impact of these forces on EU food quality standards. Under *Decentralised Surveillance* and pre-set charges, a social planner cannot reliably attribute trademarks to deserving producers and separate the market. While a Riley Outcome is unattainable, three equilibria survive the notion of sequential rationality. In showing that these outcomes are all suboptimal, I argue that EU regulators can improve the current application process by *i)* yearly reviewing the testing device and *ii)* replacing *ex-ante* with *ex-post* filing fees. Under its aegis, the WIPO could subsume both reformative proposals. 
 
 # Summary. An optional shortened abstract.
 summary: In this thesis, I use the classical signalling model to assess the bureaucratic costs of application and registration of EU Geographical Indications
@@ -27,14 +28,14 @@ summary: In this thesis, I use the classical signalling model to assess the bure
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

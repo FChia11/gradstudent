@@ -16,10 +16,18 @@
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
+    
+    {{ if .Params.notes }}
+      <p class="pub-notes">{{ .Params.notes }}</p>
+    {{ end }}
 
     {{ if .Params.abstract }}
     <h3>{{ i18n "abstract" }}</h3>
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+    
+    {{ if .Params.draft_note }}
+      <p class="pub-draft_note">{{ .Params.draft_note }}</p>
     {{ end }}
 
     {{/* If the type is Uncategorized, hide the type. */}}

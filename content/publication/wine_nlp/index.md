@@ -51,11 +51,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-# Featured image
-# To use, add an image named `featured.png` to your page's folder.
-image:
-  caption: 'Image credit: [**British Nutrition Foundation**](https://www.nutrition.org.uk/putting-it-into-practice/food-labelling/looking-at-labels/)'
-  focal_point: ''
-  preview_only: false
 ---

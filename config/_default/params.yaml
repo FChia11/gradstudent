@@ -159,3 +159,10 @@ custom_icons:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+# Publications 
+
+publications: 
+  citation_style: "apa"
+  sort_by: "date"
+  sort_order: "desc"

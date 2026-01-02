@@ -1,5 +1,9 @@
 ---
 title: 'Measuring Technological Similarity in the Wine Industry'
+  
+presentation: "Presented: AAWE 2025."
+
+draft_note: "Draft available upon request."
 
 date: '2025-01-01T00:00:00Z'
 

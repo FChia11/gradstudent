@@ -24,7 +24,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Working Paper*'
+publication: '*Job Market Paper*'
 
 # Abstract
 abstract: "I examine how the introduction of lower patent fees for micro entities has affected the outcome of applications filed with the United States Patent and Trademark Office. I exploit the America Invents Act as a natural experiment to conduct a difference-in-difference estimation based on a sample of applications filed by small and micro entities between 2010 and 2014. I find that, post-reform, micro entities significantly reduced the quality of their applications and were 37.36 percentage points less likely to be granted a patent. By retrospectively examining the effects of lower fees on micro entities, this research aims to draw practical implications for the design of future statutory fees."

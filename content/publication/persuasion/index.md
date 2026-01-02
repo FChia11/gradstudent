@@ -3,7 +3,7 @@ title: 'Persuasion and Norm Persistence'
 
 presentation: "Presented: Rethinking Economic Theory International Workshop, Athens, GR; Brown Bag Seminar, St Andrews, UK; GAMES 2024, Beijing, CN; RES Annual Conference 2024, Belfast, UK; PhD Presentation and Networking, The Alan Turing Institute, London, UK; 2024 SGPE Conference, Crieff, UK."
 
-draft_note: "Draft available upon request."
+draft_note: "Draft coming soon."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

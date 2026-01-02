@@ -25,7 +25,7 @@ publication_types: ['2']
 doi: '10.1017/jwe.2025.10102'
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at *Journal of Wine Economics*
+publication: Accepted at the *Journal of Wine Economics*
 
 abstract: Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.
 

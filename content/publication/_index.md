@@ -1,8 +1,12 @@
 ---
-title: "Research"
-subtitle: "Working Papers and Publications"
+title: Publications
+cms_exclude: true
+
+# View.
 view: citation
-columns: 1
-url: "/publication/"
-weight: 20
+
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---

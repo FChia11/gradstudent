@@ -3,10 +3,16 @@ title: 'Measuring Technological Similarity in the Wine Industry'
 
 date: '2025-01-01T00:00:00Z'
 
+# Schedule page publish date (NOT publication's date).
+publishDate: '2025-10-10T00:00:00Z'
+
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['publication']
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+doi: '10.1017/jwe.2025.10102'
 
 # Publication name and optional abbreviated publication name.
 publication: In *American Association of Wine Economics 2026*
@@ -23,23 +29,24 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.1017/jwe.2025.10102
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://labelling.org
 
-# Custom links
-links:
-  - type: pdf
-    url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: 'uploads/labelling.pdf'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**British Nutrition Foundation**](https://www.nutrition.org.uk/putting-it-into-practice/food-labelling/looking-at-labels/)'
   focal_point: ''
   preview_only: false
-
 ---
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -1,0 +1,30 @@
+<h1>{{ .Title }}</h1>
+
+<p class="view-home">
+  <a href="{{ "/" | relURL }}">
+    ← Back to Home
+  </a>
+</p>
+
+<div class="projects-list">
+  {{ range site.RegularPages }}
+    {{ if eq .Type "publication" }}
+      <article class="project-item">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+        {{ with .Params.abstract }}
+          <p>{{ . }}</p>
+        {{ end }}
+
+        {{ with .Param "notes" }}
+          <ul class="project-notes">
+            {{ range . }}
+              <li><em>{{ . }}</em></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+      </article>
+    {{ end }}
+  {{ end }}
+</div>

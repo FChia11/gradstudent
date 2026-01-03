@@ -25,7 +25,7 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication: '*Working Paper*'
 
-abstract: Using public data on patents published between 1893 and 2023, I study how the wine industry has evolved over time. Throughout, I leverage textual analysis to build an index of patent quality and use it to evaluate breakthrough innovations. The findings speak to the validity of the current patent system, highlighting some of its shortcomings. Looking at wine through the lenses of patent data may provide a richer sense of context and an improved understanding of current industry trends.
+abstract: Using public data on patents published between 1893 and 2023, I study how the wine industry has evolved over time. Throughout, I leverage textual analysis to build an index of patent quality and use it to evaluate breakthrough innovations. The results show that radical innovation largely came from mechanical engineering between 1890 and 1940, while chemistry and biotechnology dominated in the post-war years; a growing interest in marketing and consumer technologies has been leading the index since the early 1990s. I conclude by noting that looking at wine through the lenses of patent data may provide a richer sense of context and an improved understanding of current industry trends.
 
 tags:
   - Wine Patents 

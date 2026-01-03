@@ -29,6 +29,8 @@ tags:
   - Trademark Law
   - Opposition Proceedings
   - EUTMR
+  - Conventional Marks
+  - Non-Conventional Marks
 
 # Display this page in the Featured widget?
 featured: true

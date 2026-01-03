@@ -6,6 +6,7 @@ presentation: "Presented: EPIP 2024."
 draft_note: "Work in Progress."
 
 date: '2023-01-01T00:00:00Z'
+doi: ''
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,8 +23,7 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication: '*Working Paper*'
 
-abstract: I study the effects of trademark law on opposability proceedings within the European Union. Leveraging a difference-in-difference design, I exploit the exogenous variation created by a recent change in Regulation 2017/1001 (EUTMR) which introduced a new system for the protection of non-conventional marks. Article 4 of the Regulation abolished the graphical representation requirements that had been in place since the enactment of the first
-trademark directive in 1988. Prior to the reform, non-conventional marks could gain brand recognition as long as they were visually perceptible. By comparing opposability among convetional marks ('*control group*') and non-conventional marks ('*treatment group*'), I show that the legal changes had no effect on likelihood of refusal. The findings are homogeneous across applicants' and examiners' characteristics, suggesting new opportunities for novel forms of intellectual property that are currently being enacted. 
+abstract: "I study the effects of trademark law on opposability proceedings within the European Union. Leveraging a difference-in-difference design, I exploit the exogenous variation created by a recent change in Regulation 2017/1001 (EUTMR) which introduced a new system for the protection of non-conventional marks. Article 4 of the Regulation abolished the graphical representation requirements that had been in place since the enactment of the first trademark directive in 1988. Prior to the reform, non-conventional marks could gain brand recognition as long as they were visually perceptible. By comparing opposability among conventional marks ('*control group*') and non-conventional marks ('*treatment group*'), I show that the legal changes had no effect on likelihood of refusal. The findings are homogeneous across applicants' and examiners' characteristics, suggesting new opportunities for novel forms of intellectual property that are currently being enacted."
 
 tags: 
   - Trademark Law

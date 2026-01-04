@@ -29,10 +29,11 @@ abstract: Using public data on patents published between 1893 and 2023, I study 
 
 tags:
   - Wine Patents 
+  - Wine Technology
   - Patent Mining
-  - Innovation 
-  - Evolution
-
+  - Natural Language Processing
+  - Breakthrough Innovation
+  
 # Display this page in the Featured widget?
 featured: true
 

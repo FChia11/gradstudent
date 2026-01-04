@@ -31,6 +31,7 @@ tags:
   - Optimal Certification
   - Evolutionary Games  
   - Social Norms
+  - Bayesian Persuasion
 
 # Display this page in the Featured widget?
 featured: true

@@ -31,7 +31,7 @@ abstract: "I examine how the introduction of lower patent fees for micro entitie
 # Summary. An optional shortened abstract.
 summary: A study on the effect of micro entity fees on patent grant and quality.
 
-tags: [Patent Fees, Patent Quality, Micro Entities, America Invents Act]
+tags: [Patent Fees, Patent Quality, Micro Entities, Small Entities, America Invents Act]
 
 # Display this page in the Featured widget?
 featured: true

@@ -20,7 +20,7 @@ tags:
 - US
 title: "Celestia M. Winn, US1339250A"
 ---
-On May 4, 1920, Celestia M. Winn of Watonga, Oklahoma, obtained a patent for an improved bed featuring a removable extension frame to accommodate additional sleepers. The extension could be securely attached to the bed for use, then folded with pivoted legs and rolled underneath on casters when not needed. 
+On May 4, 1920, Celestia M. Winn of Watonga, Oklahoma, was awarded a patent for an improved bed featuring a removable extension frame to accommodate additional sleepers. The extension could be securely attached to the bed for use, then folded with pivoted legs and rolled underneath on casters when not needed. 
 
 Date of Application: 11 Febraury 1919
 

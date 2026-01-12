@@ -3,7 +3,7 @@ title: 'How Did Marriage Shape Invention? Evidence from the Victorian Era'
   
 draft_note: "Work in Progress."
 
-date: '2024-01-01T00:00:00Z'
+date: '2025-01-01T00:00:00Z'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -18,14 +18,15 @@ authors:
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Work in Progress*'
+publication: ''
 
 abstract: I combine hand-coded data from patent applications with the English Parish records to study how invention by women patentees changed as a result of their marital status. This question holds significance for two key reasons. First, as reflected in their patenting activity, women made a small but meaningful contribution to the innovation ecosystem. Second, examining the determinants and consequences of women’s inventive activity sheds light on the social and institutional constraints shaping innovation outcomes. While preliminary, the evidence suggests that marriage enhanced women’s innovative capacity, particularly in the domain of domestic economy. Yet, there is little evidence that these technologies were subsequently commercialised, casting doubts about their ability to secure patent proceeds and translate this activity into major financial gains.
 
 tags:
   - Women Patentees
   - Long-Run Innovation
-  - Patent Mining
+  - Patent Data
+  - Victorian Era
   
 # Display this page in the Featured widget?
 featured: true

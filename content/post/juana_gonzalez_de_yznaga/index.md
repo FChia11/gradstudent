@@ -20,7 +20,7 @@ tags:
 - CA
 title: "Juana Gonzalez de Yznaga, CA59529A"
 ---
-On March 16, 1898, Juana Gonzalez de Yznaga of Brownsville, Texas, 
+On March 16, 1898, Juana Gonzalez de Yznaga of Brownsville, Texas, patented a novel chair for invalids. Her design featured a seat with arms projecting outward, a table with a top plate and end plates that could be easily removed if needed. 
 
 Date of Application: 16 March 1898
 

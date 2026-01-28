@@ -18,10 +18,10 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Working Paper*'
+publication: ''
 
 # Abstract
 abstract: I study a dynamic information design problem à la Albano and Lizzeri (2001) in which a regulator can disclose unobserved quality information as the norms of a population evolve. Under moral hazard, the regulator sets a pass/fail standard ex-ante. A monopolist chooses a price to sell an asset to a population of consumers. Over time, consumers’ purchase decision depends on the signal, others' buying behaviour, and norm evolution. In this paper, I use evolutionary game theory to describe the tension between quality certification and norm persistence.

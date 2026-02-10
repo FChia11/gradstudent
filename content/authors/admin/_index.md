@@ -32,6 +32,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/FChia11
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=2gIBAbcAAAAJ&hl=en&oi=ao
   - icon: bluesky
     icon_pack: assets/media/icons/brands/
     link: https://bsky.app/profile/francescachiaradia.bsky.social

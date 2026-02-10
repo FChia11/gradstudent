@@ -33,7 +33,7 @@ social:
     icon_pack: fab
     link: https://github.com/FChia11
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=2gIBAbcAAAAJ&hl=en&oi=ao
   - icon: bluesky
     icon_pack: assets/media/icons/brands/

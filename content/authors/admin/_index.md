@@ -36,7 +36,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=2gIBAbcAAAAJ&hl=en&oi=ao
   - icon: bluesky
-    icon_pack: assets/media/icons/brands/
+    icon_pack: fab
     link: https://bsky.app/profile/francescachiaradia.bsky.social
 superuser: true
 title: Francesca Chiaradia

@@ -3,8 +3,6 @@ title: 'Measuring Technological Similarity in the Wine Industry'
   
 presentation: "Presented: 17th Annual Conference of the American Association of Wine Economists (San Luis Obispo, 2025)."
 
-draft_note: "Pre-print available upon request."
-
 date: '2025-01-01T00:00:00Z'
 
 # Authors
@@ -43,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://labelling.org
 
-url_pdf: ''
+url_pdf: 'https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -3,7 +3,7 @@ title: 'Measuring Technological Similarity in the Wine Industry'
   
 presentation: "Presented: 17th Annual Conference of the American Association of Wine Economists (San Luis Obispo, 2025)."
 
-date: '2025-01-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +12,7 @@ authors:
   - admin
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-10-10T00:00:00Z'
+publishDate: '2026-10-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

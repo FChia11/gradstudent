@@ -5,10 +5,10 @@ education:
   - course: Ph.D. in Economics
     institution: University of St Andrews
     year: 2026 (Expected)
-  - course: MSc in Economics
+  - course: M.Sc. in Economics
     institution: University of St Andrews
     year: 2021
-  - course: MA (Hons) in Business Management and Economics
+  - course: M.A. (Hons) in Business Management and Economics
     institution: University of Aberdeen
     year: 2019
 email: "fc73@st-andrews.ac.uk"

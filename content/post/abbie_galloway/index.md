@@ -20,7 +20,7 @@ tags:
 - GB
 title: "Abbie B. Galloway, GB189511850A"
 ---
-On July 20, 1895, Abbie B. Galloway of East Somerville, Massachusetts, received a patent for an improved riding habit for women. It combined a divided skirt and trousers with detachable fasteners that kept fabric clear of bicycle wheels and maintained the appearance of a conventional skirt.
+On July 20, 1895, Abbie B. Galloway of East Somerville, Massachusetts, received a patent for an improved riding habit for women. It combined a divided skirt and trousers with detachable fasteners that kept fabric clear of bicycle wheels, while maintaining the appearance of a conventional skirt.
 
 Date of Application: 18 June 1895
 

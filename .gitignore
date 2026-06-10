@@ -8,3 +8,5 @@
 .quarto
 .positai
 themes/starter-hugo-academic/static/uploads/*.csv
+public/
+resources/_gen/

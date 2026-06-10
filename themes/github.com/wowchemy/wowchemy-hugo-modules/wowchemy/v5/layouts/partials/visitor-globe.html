@@ -1,4 +1,10 @@
 <div style="display: flex; justify-content: center; margin: 1rem 0;">
   <div id="mmvst_globe" style="width: 300px; height: 300px;"></div>
-  <script defer src="https://mapmyvisitors.com/globe.js?d=1EBoKyxZhFh-V222m0wxfK30y3U9yayA13r0f35cYKk"></script>
 </div>
+<script>
+  window.addEventListener("load", function() {
+    var s = document.createElement("script");
+    s.src = "https://mapmyvisitors.com/globe.js?d=1EBoKyxZhFh-V222m0wxfK30y3U9yayA13r0f35cYKk";
+    document.getElementById("mmvst_globe").appendChild(s);
+  });
+</script>
